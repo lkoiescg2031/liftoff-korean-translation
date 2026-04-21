@@ -1916,159 +1916,159 @@ multiplayer.waitingroom.webpage,Webpage
 multiplayer.waitingroom.workshopcontent,Workshop Content
 multipleyare.signin.signinautomatically,Sign in automatically
 musicplayer.currentlyplaying,Currently playing:
-options.audio,Audio
-options.audio.PropellersVolume,Propellers Volume
-options.audio.customPlaylist,Use custom playlist
-options.audio.customplaylist.directorynotfound,The directory of your custom music playlist could not be found. Please enter a valid path to play custom music tracks.
-options.audio.customplaylist.pathtodirectory,Path to custom playlist directory
-options.audio.customplaylist.supportedformats,Only the following formats are supported for custom music playlists: {0}
-options.audio.disabled,The voice chat system has been disabled due to a compatibility issue with your system.
-options.audio.input,Input
-options.audio.inputmode,Mode
-options.audio.masterVolume,Master Volume
-options.audio.microphone,Microphone
-options.audio.microphone.sameassystem,Same as system
-options.audio.microphonefeedback,Feedback
-options.audio.musicVolume,Music Volume
-options.audio.output,Output
-options.audio.soundEffectsVolume,Sound Effects Volume
-options.audio.usevoicechat,Use voice chat in multiplayer
-options.audio.voicechatunavailable.description,"The software library for voice chat support could not be loaded on your system. Voice chat was automatically disabled so you can still enjoy multiplayer.
-This is a known issue and is being investigated. We apologize for the inconvenience.
+options.audio,오디오
+options.audio.PropellersVolume,프로펠러 볼륨
+options.audio.customPlaylist,사용자 지정 재생목록 사용
+options.audio.customplaylist.directorynotfound,사용자 지정 음악 재생목록 디렉터리를 찾을 수 없습니다. 사용자 지정 음악 트랙을 재생하려면 올바른 경로를 입력해 주세요.
+options.audio.customplaylist.pathtodirectory,사용자 지정 재생목록 디렉터리 경로
+options.audio.customplaylist.supportedformats,사용자 지정 음악 재생목록에서 지원되는 형식은 다음뿐입니다: {0}
+options.audio.disabled,시스템과의 호환성 문제로 인해 음성 채팅 시스템이 비활성화되었습니다.
+options.audio.input,입력
+options.audio.inputmode,모드
+options.audio.masterVolume,마스터 볼륨
+options.audio.microphone,마이크
+options.audio.microphone.sameassystem,시스템과 동일
+options.audio.microphonefeedback,피드백
+options.audio.musicVolume,음악 볼륨
+options.audio.output,출력
+options.audio.soundEffectsVolume,효과음 볼륨
+options.audio.usevoicechat,멀티플레이에서 음성 채팅 사용
+options.audio.voicechatunavailable.description,"시스템에서 음성 채팅 지원용 소프트웨어 라이브러리를 불러올 수 없었습니다. 멀티플레이는 계속 즐길 수 있도록 음성 채팅이 자동으로 비활성화되었습니다.
+이 문제는 이미 알려져 있으며 현재 조사 중입니다. 불편을 드려 죄송합니다.
 "
-options.audio.voicechatunavailable.header,Voice chat unavailable
-options.audio.voicechatvolume,Voice chat
-options.buttons.description,Assign game actions to keys on your keyboard or buttons on your controller.
-options.buttonsetup,Button Setup
-options.controls,Controls
-options.controls.buttons,Buttons
-options.controls.controller,Controller
-options.controls.controllerpresets,Controller Presets
+options.audio.voicechatunavailable.header,음성 채팅 사용 불가
+options.audio.voicechatvolume,음성 채팅
+options.buttons.description,게임 동작을 키보드 키 또는 컨트롤러 버튼에 할당합니다.
+options.buttonsetup,버튼 설정
+options.controls,조작
+options.controls.buttons,버튼
+options.controls.controller,컨트롤러
+options.controls.controllerpresets,컨트롤러 프리셋
 options.dlc,DLC
-options.droneselection.confirmation,Are you sure you want to return to the drone selection menu?
-options.fisheye.customfisheye,Custom
-options.fisheye.expandview,Fisheye Expand View
-options.fisheye.header,Lens FX
-options.fisheye.lensselection,Lens Selection
-options.fisheye.letterbox,Fisheye Letterbox View
-options.fisheye.nofisheye,None
-options.flight,Flight
-options.fullscreenmode.fullscreenexclusive,Full screen - Exclusive
-options.fullscreenmode.fullscreenfake,Full screen - Fake
-options.fullscreenmode.header,Full screen mode
-options.fullscreenmode.maximizedwindow,Windowed - Maximized
-options.fullscreenmode.windowed,Windowed
-options.game,Game
-options.game.alwaysdetectstunts,Always detect stunts
-options.game.batterymode,Battery simulation
-options.game.disableDroneTrails,Disable drone trails
-options.game.displayRaceLines,Show race guides
-options.game.displaycheckpointtrackers,Show checkpoint trackers
-options.game.displaytriggers,Show game triggers
-options.game.enableDroneTrails,Show drone trails
-options.game.enablebattery,Enable Battery Simulation
-options.game.gameplayoptions,Gameplay
-options.game.generaloptions,General
-options.game.ghostmode,Ghost mode
-options.game.godmode,Enable god mode
-options.game.hidedronefpv,Show propellers in first-person view
-options.game.hideprogression,Hide Progression System
-options.game.inputsampling,Input sampling
-options.game.joystickoverlay,Show joystick overlay in OSD
-options.game.language,Display language
-options.game.languageworkshop,Community Translations
-options.game.noise,Start with camera noise
-options.game.osd,Use on-screen display
-options.game.osdoptions,On-screen display
-options.game.osdselection,On-screen display layout
-options.game.propwash,Enable propwash
-options.game.race.bestlapcolorthreshold,Best lap time color threshold
-options.game.race.raceguideslookahead,Race guides look ahead
-options.game.raceoptions,Race
-options.game.raceoptions.skipcountdown,Skip countdown
-options.game.raceoptions.skipcountdowndescription,Multiplayer games where a synchronised start is required will still use the countdown.
-options.game.showfesvityprops,Show festival items
-options.game.showflycage,Show environment bounds
-options.game.skipGoggleAnimation,Automatically skip goggle animation
-options.game.unitsystem,Unit system
-options.game.walkfreeflight,Freely place drone in Free Flight
-options.ghostmode.bots,Bots
-options.ghostmode.fullraceghost,Full race ghost
-options.ghostmode.noghostmode,No ghost mode
-options.ghostmode.singlelapghost,Single lap ghost
-options.graphics,Graphics
-options.graphics.changedisplay.description,"You have selected a different display to run the game on. This change will take effect after you have restarted the game.
-Do you want to continue?"
-options.graphics.changedisplay.header,Change Display
-options.joystick,Joystick Input Setup
-options.joystick.description,Select a controller preset or create your own with a step-by-step wizard.
-options.quality,Graphics
-options.quality.ambient,Shader Quality
-options.quality.antialiasing,Anti-Aliasing
-options.quality.ao,Ambient Occlusion
-options.quality.awesomeness,Awesomeness
-options.quality.bloom,Bloom
-options.quality.depthoffield,Depth Of Field
-options.quality.display,Display
-options.quality.displaysettings,Display
+options.droneselection.confirmation,드론 선택 메뉴로 돌아가시겠습니까?
+options.fisheye.customfisheye,사용자 지정
+options.fisheye.expandview,Fisheye 확장 보기
+options.fisheye.header,렌즈 FX
+options.fisheye.lensselection,렌즈 선택
+options.fisheye.letterbox,Fisheye 레터박스 보기
+options.fisheye.nofisheye,없음
+options.flight,비행
+options.fullscreenmode.fullscreenexclusive,전체 화면 - 독점
+options.fullscreenmode.fullscreenfake,전체 화면 - 가상
+options.fullscreenmode.header,전체 화면 모드
+options.fullscreenmode.maximizedwindow,창 모드 - 최대화
+options.fullscreenmode.windowed,창 모드
+options.game,게임
+options.game.alwaysdetectstunts,스턴트 항상 감지
+options.game.batterymode,배터리 시뮬레이션
+options.game.disableDroneTrails,드론 궤적 비활성화
+options.game.displayRaceLines,레이스 가이드 표시
+options.game.displaycheckpointtrackers,체크포인트 추적기 표시
+options.game.displaytriggers,게임 트리거 표시
+options.game.enableDroneTrails,드론 궤적 표시
+options.game.enablebattery,배터리 시뮬레이션 활성화
+options.game.gameplayoptions,게임플레이
+options.game.generaloptions,일반
+options.game.ghostmode,고스트 모드
+options.game.godmode,갓 모드 활성화
+options.game.hidedronefpv,일인칭 시점에서 프로펠러 표시
+options.game.hideprogression,진척도 시스템 숨기기
+options.game.inputsampling,입력 샘플링
+options.game.joystickoverlay,OSD에 조이스틱 오버레이 표시
+options.game.language,표시 언어
+options.game.languageworkshop,커뮤니티 번역
+options.game.noise,카메라 노이즈와 함께 시작
+options.game.osd,온스크린 디스플레이 사용
+options.game.osdoptions,온스크린 디스플레이
+options.game.osdselection,온스크린 디스플레이 레이아웃
+options.game.propwash,Propwash 활성화
+options.game.race.bestlapcolorthreshold,최고 랩타임 색상 임계값
+options.game.race.raceguideslookahead,레이스 가이드 미리보기 거리
+options.game.raceoptions,레이스
+options.game.raceoptions.skipcountdown,카운트다운 건너뛰기
+options.game.raceoptions.skipcountdowndescription,동기화된 출발이 필요한 멀티플레이 게임에서는 여전히 카운트다운이 사용됩니다.
+options.game.showfesvityprops,축제 아이템 표시
+options.game.showflycage,환경 경계 표시
+options.game.skipGoggleAnimation,고글 애니메이션 자동 건너뛰기
+options.game.unitsystem,단위 체계
+options.game.walkfreeflight,자유 비행에서 드론 자유 배치
+options.ghostmode.bots,봇
+options.ghostmode.fullraceghost,전체 레이스 고스트
+options.ghostmode.noghostmode,고스트 모드 없음
+options.ghostmode.singlelapghost,단일 랩 고스트
+options.graphics,그래픽
+options.graphics.changedisplay.description,"게임을 실행할 다른 디스플레이를 선택했습니다. 이 변경 사항은 게임을 다시 시작한 후 적용됩니다.
+계속하시겠습니까?"
+options.graphics.changedisplay.header,디스플레이 변경
+options.joystick,조이스틱 입력 설정
+options.joystick.description,컨트롤러 프리셋을 선택하거나 단계별 마법사로 직접 만들 수 있습니다.
+options.quality,그래픽
+options.quality.ambient,셰이더 품질
+options.quality.antialiasing,안티앨리어싱
+options.quality.ao,앰비언트 오클루전
+options.quality.awesomeness,화려함
+options.quality.bloom,블룸
+options.quality.depthoffield,피사계 심도
+options.quality.display,디스플레이
+options.quality.displaysettings,디스플레이
 options.quality.fisheye,Fisheye
-options.quality.framerate.unlimited,Unlimited
-options.quality.framerate.vsyncenabled,VSync enabled
-options.quality.frameratelimit,Limit framerate
-options.quality.graphics,Quality Setting
-options.quality.lenssize,FPV Lens Size
+options.quality.framerate.unlimited,제한 없음
+options.quality.framerate.vsyncenabled,VSync 활성화
+options.quality.frameratelimit,프레임레이트 제한
+options.quality.graphics,품질 설정
+options.quality.lenssize,FPV 렌즈 크기
 options.quality.lenssize.2.1mm,2.1mm
 options.quality.lenssize.2.8mm,2.8mm
 options.quality.lenssize.3.6mm,3.6mm
-options.quality.lod,LOD Distance
-options.quality.motionblur,Motion Blur
-options.quality.particles,Particles Quality
-options.quality.resolution,Resolution
-options.quality.shadowdistance,Shadow Distance
-options.quality.shadows,Shadow Quality
-options.quality.shadowsoff,Shadows Off
-options.quality.textures,Textures Quality
-options.quality.visualeffects,Visual effects
+options.quality.lod,LOD 거리
+options.quality.motionblur,모션 블러
+options.quality.particles,파티클 품질
+options.quality.resolution,해상도
+options.quality.shadowdistance,그림자 거리
+options.quality.shadows,그림자 품질
+options.quality.shadowsoff,그림자 끄기
+options.quality.textures,텍스처 품질
+options.quality.visualeffects,시각 효과
 options.quality.vsync,VSync
-options.quality.vsync.doublebuffering,Double buffering
-options.quality.vsync.off,Off
-options.quality.vsync.triplebuffering,Triple buffering
-options.quality.water,Water Quality
-options.quality.windowed,Windowed
-options.quit,Quit
-options.quit.confirmation,Are you sure you want to quit?
-options.quit.confirmationmultiplayer,Are you sure? You will leave the current multiplayer session.
-options.quit.spectatemultiplayer,Forfait race and enable spectator mode.
-options.slider.high,High
-options.slider.low,Low
-options.slider.medium,Medium
-options.wind.comingsoon,Wind will be coming in this environment soon!
-options.wind.direction,Wind Direction
-options.wind.east,East
-options.wind.north,North
-options.wind.northeast,North-East
-options.wind.northwest,North-West
-options.wind.onlyfreeflight,Wind can only be enabled in single player Free Flight.
-options.wind.preset,Wind Mode
-options.wind.setting,WIND
-options.wind.simulate,Simulate Wind
-options.wind.south,South
-options.wind.southeast,South-East
-options.wind.southwest,South-West
-options.wind.west,West
-options.windpreset.breezy,Breezy
-options.windpreset.breezydescription,"A mild wind around 20 km/h with light, gentle gusts."
-options.windpreset.coastal,Coastal
-options.windpreset.coastaldescription,"A steady, ocean-like breeze around 25 km/h with smooth, rolling changes."
-options.windpreset.gentle,Gentle
-options.windpreset.gentledescription,"A soft, calming breeze around 10 km/h with steady, minimal fluctuations."
-options.windpreset.gusty,Gusty
-options.windpreset.gustydescription,"Moderate wind averaging 20 km/h with strong, erratic gusts."
-options.windpreset.none,No Wind
-options.windpreset.nonedescription,"The wind is turned off, perfect for learning to fly and predictable flight behaviour"
-options.windpreset.windy,Windy
-options.windpreset.windydescription,"Strong, turbulent wind up to 55 km/h with highly variable speeds."
-options.workbench.confirmation,Are you sure you want to return to the workbench?
+options.quality.vsync.doublebuffering,더블 버퍼링
+options.quality.vsync.off,끔
+options.quality.vsync.triplebuffering,트리플 버퍼링
+options.quality.water,물 품질
+options.quality.windowed,창 모드
+options.quit,종료
+options.quit.confirmation,종료하시겠습니까?
+options.quit.confirmationmultiplayer,정말로 종료하시겠습니까? 현재 멀티플레이 세션에서 나가게 됩니다.
+options.quit.spectatemultiplayer,레이스를 포기하고 관전자 모드를 활성화합니다.
+options.slider.high,높음
+options.slider.low,낮음
+options.slider.medium,중간
+options.wind.comingsoon,이 환경에는 곧 바람 기능이 추가될 예정입니다!
+options.wind.direction,바람 방향
+options.wind.east,동
+options.wind.north,북
+options.wind.northeast,북동
+options.wind.northwest,북서
+options.wind.onlyfreeflight,바람은 싱글 플레이 자유 비행에서만 활성화할 수 있습니다.
+options.wind.preset,바람 모드
+options.wind.setting,바람
+options.wind.simulate,바람 시뮬레이션
+options.wind.south,남
+options.wind.southeast,남동
+options.wind.southwest,남서
+options.wind.west,서
+options.windpreset.breezy,산들바람
+options.windpreset.breezydescription,"가벼운 돌풍이 섞인 약 20km/h의 부드러운 바람입니다."
+options.windpreset.coastal,해안 바람
+options.windpreset.coastaldescription,"약 25km/h의 일정한 해풍으로, 부드럽게 변화하는 흐름을 가집니다."
+options.windpreset.gentle,약한 바람
+options.windpreset.gentledescription,"약 10km/h의 부드럽고 안정적인 바람으로, 변화가 거의 없습니다."
+options.windpreset.gusty,돌풍
+options.windpreset.gustydescription,"평균 20km/h의 바람에 강하고 불규칙한 돌풍이 섞입니다."
+options.windpreset.none,무풍
+options.windpreset.nonedescription,"바람이 꺼진 상태로, 비행을 배우고 예측 가능한 비행 특성을 익히기에 적합합니다."
+options.windpreset.windy,강풍
+options.windpreset.windydescription,"최대 55km/h에 이르는 강하고 난기류가 심한 바람으로, 속도 변화가 매우 큽니다."
+options.workbench.confirmation,워크벤치로 돌아가시겠습니까?
 osdeditor.description,Customize the on-screen display of your drone!
 osdeditor.displaysettings.background,Background
 osdeditor.displaysettings.header,Display settings
