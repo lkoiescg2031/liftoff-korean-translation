@@ -809,295 +809,295 @@ ingamemenu.tournamenttryouts.starttryouttournament.header,토너먼트 시작
 ingamemenu.toworkbenchconfirm.description,정말로 종료하고 Workbench로 이동하시겠습니까?
 ingamemenu.toworkbenchconfirm.header,Workbench로 돌아가기
 input.action.arm,Arm
-input.action.blackbox,Drone Sensor Data Toggle
-input.action.cameraangledown,Camera angle down
-input.action.cameraangleup,Camera angle up
-input.action.cancel,Cancel
-input.action.clearselection,Clear Selection
-input.action.confirm,Confirm
-input.action.cycleplacemode,Cycle Place Mode
-input.action.cycleview,Cycle View
-input.action.decreasefov,Decrease FOV
+input.action.blackbox,드론 센서 데이터 전환
+input.action.cameraangledown,카메라 각도 낮추기
+input.action.cameraangleup,카메라 각도 높이기
+input.action.cancel,취소
+input.action.clearselection,선택 해제
+input.action.confirm,확인
+input.action.cycleplacemode,배치 모드 순환
+input.action.cycleview,시점 순환
+input.action.decreasefov,FOV 줄이기
 input.action.disarm,Disarm
-input.action.down,Down
-input.action.erasetoggle,Erase Toggle
-input.action.exit,Exit
-input.action.flightmodetoggle,Flight Mode Toggle
-input.action.fpvnoicetoggle,FPV Noise Toggle
-input.action.freeflightrecordingtoggle,Recording toggle
-input.action.freeflightwalktoggle,Free Flight Walk Toggle
-input.action.hideui,Hide UI
-input.action.horizontal,Horizontal
-input.action.increasefov,Increase FOV
-input.action.jump,Jump
-input.action.left,Left
-input.action.lookdown,Look Down
-input.action.lookhorizontal,Look Horizontal
-input.action.lookleft,Look Left
-input.action.lookright,Look Right
-input.action.lookup,Look Up
-input.action.lookvertical,Look Vertical
-input.action.lostoggle,Line of sight Toggle
-input.action.movebackward,Move Backward
-input.action.moveforward,Move Forward
-input.action.movehorizontal,Move Horizontal
-input.action.moveleft,Move Left
-input.action.moveright,Move Right
-input.action.movevertical,Move Vertical
-input.action.next,Next
-input.action.pause,Pause
+input.action.down,아래
+input.action.erasetoggle,지우기 전환
+input.action.exit,나가기
+input.action.flightmodetoggle,비행 모드 전환
+input.action.fpvnoicetoggle,FPV 노이즈 전환
+input.action.freeflightrecordingtoggle,기록 전환
+input.action.freeflightwalktoggle,자유 비행 걷기 전환
+input.action.hideui,UI 숨기기
+input.action.horizontal,가로
+input.action.increasefov,FOV 늘리기
+input.action.jump,점프
+input.action.left,왼쪽
+input.action.lookdown,아래 보기
+input.action.lookhorizontal,가로 보기
+input.action.lookleft,왼쪽 보기
+input.action.lookright,오른쪽 보기
+input.action.lookup,위 보기
+input.action.lookvertical,세로 보기
+input.action.lostoggle,Line-of-sight 전환
+input.action.movebackward,뒤로 이동
+input.action.moveforward,앞으로 이동
+input.action.movehorizontal,가로 이동
+input.action.moveleft,왼쪽 이동
+input.action.moveright,오른쪽 이동
+input.action.movevertical,세로 이동
+input.action.next,다음
+input.action.pause,일시정지
 input.action.pitch,Pitch
-input.action.placedrone,Place Drone
-input.action.placeobject,Place Object
-input.action.previous,Previous
-input.action.realtimerankingtoggle,Realtime Ranking Toggle
-input.action.removeobject,Remove Object
-input.action.replaycameraangledown,Decrease Camera Angle
-input.action.replaycameraangleup,Increase Camera Angle
-input.action.replayfastforward,Fast Forward
-input.action.replayplaypause,Play/Pause
-input.action.replayrewind,Rewind
-input.action.replayspectatenext,Spectate Next
-input.action.replayspectateprevious,Spectate Previous
-input.action.reset,Reset
-input.action.rewind,Rewind
-input.action.right,Right
+input.action.placedrone,드론 배치
+input.action.placeobject,오브젝트 배치
+input.action.previous,이전
+input.action.realtimerankingtoggle,실시간 순위 전환
+input.action.removeobject,오브젝트 제거
+input.action.replaycameraangledown,카메라 각도 낮추기
+input.action.replaycameraangleup,카메라 각도 높이기
+input.action.replayfastforward,빨리 감기
+input.action.replayplaypause,재생/일시정지
+input.action.replayrewind,되감기
+input.action.replayspectatenext,다음 관전 대상
+input.action.replayspectateprevious,이전 관전 대상
+input.action.reset,초기화
+input.action.rewind,되감기
+input.action.right,오른쪽
 input.action.roll,Roll
-input.action.rotategizmo,Rotate Gizmo
-input.action.rotateleft,Rotate Left
-input.action.rotateright,Rotate Right
-input.action.scalegizmo,Scale Gizmo
-input.action.skipmusictrack,Next music track
+input.action.rotategizmo,회전 기즈모
+input.action.rotateleft,왼쪽 회전
+input.action.rotateright,오른쪽 회전
+input.action.scalegizmo,크기 조절 기즈모
+input.action.skipmusictrack,다음 음악 트랙
 input.action.throttle,Throttle
-input.action.toggle3dmode,Toggle 3D mode
-input.action.toggleacromode,Toggle ACRO mode
-input.action.togglefisheye,Fisheye Toggle
-input.action.togglehorizonmode,Toggle HORIZON mode
-input.action.togglelevelmode,Toggle LEVEL mode
-input.action.translategizmo,Translate Gizmo
+input.action.toggle3dmode,3D 모드 전환
+input.action.toggleacromode,ACRO 모드 전환
+input.action.togglefisheye,Fisheye 전환
+input.action.togglehorizonmode,HORIZON 모드 전환
+input.action.togglelevelmode,LEVEL 모드 전환
+input.action.translategizmo,이동 기즈모
 input.action.turtlemode,Turtle Mode
-input.action.up,Up
-input.action.vertical,Vertical
-input.action.viewpointtoggle,Viewpoint Toggle
-input.action.voicepushtotalk,Push-to-talk (voice chat)
-input.action.winddisplay,Toggle Wind Streams
+input.action.up,위
+input.action.vertical,세로
+input.action.viewpointtoggle,시점 전환
+input.action.voicepushtotalk,Push-to-talk (음성 채팅)
+input.action.winddisplay,바람 흐름 표시 전환
 input.action.yaw,Yaw
-input.cancel,Cancel
-input.category.default,Default
-input.category.flight,Flight
-input.category.menu,Menu
-input.category.misc,Miscellaneous
-input.category.multiplayer,Multiplayer
-input.category.replay,Replay
-input.category.trackeditor,Track Editor
-input.category.walk,Walk
-input.down,Down
-input.flightmodetoggle,Flight Mode Toggle
-input.fpvnoisetoggle,FPV Noise Toggle
-input.freeflighttoggle,Free Flight Toggle
-input.gameupdatepopup.content,A Liftoff update got installed. Would you like to check your controller calibration settings?
-input.gameupdatepopup.header,Game updated
-input.jumpeditor,Jump (Editor)
-input.left,Left
-input.lineofsighttoggle,Line of sight Toggle
-input.nextitemeditor,Next Item (Editor)
-input.pause,Pause
-input.placeeditor,Place Pick up  Editor 
-input.previousitemeditor,Previous Item (Editor) 
-input.rankingtoggle,Ranking Toggle
-input.removeeditor,Remove (Editor)
-input.reset,Reset
-input.right,Right
-input.rotatecameradown,Rotate Camera Angle Down
-input.rotatecameraup,Rotate Camera Angle Up
-input.rotatelefteditor,Rotate Left (Editor)
-input.rotaterighteditor,Rotate Right (Editor)
-input.select,Select
-input.up,Up
-input.viewpointtoggle,Viewpoint Toggle
+input.cancel,취소
+input.category.default,기본
+input.category.flight,비행
+input.category.menu,메뉴
+input.category.misc,기타
+input.category.multiplayer,멀티플레이
+input.category.replay,리플레이
+input.category.trackeditor,트랙 에디터
+input.category.walk,걷기
+input.down,아래
+input.flightmodetoggle,비행 모드 전환
+input.fpvnoisetoggle,FPV 노이즈 전환
+input.freeflighttoggle,자유 비행 전환
+input.gameupdatepopup.content,Liftoff 업데이트가 설치되었습니다. 컨트롤러 보정 설정을 확인하시겠습니까?
+input.gameupdatepopup.header,게임 업데이트됨
+input.jumpeditor,점프 (에디터)
+input.left,왼쪽
+input.lineofsighttoggle,Line-of-sight 전환
+input.nextitemeditor,다음 항목 (에디터)
+input.pause,일시정지
+input.placeeditor,배치/집기 (에디터)
+input.previousitemeditor,이전 항목 (에디터)
+input.rankingtoggle,순위 전환
+input.removeeditor,제거 (에디터)
+input.reset,초기화
+input.right,오른쪽
+input.rotatecameradown,카메라 각도 아래로 회전
+input.rotatecameraup,카메라 각도 위로 회전
+input.rotatelefteditor,왼쪽 회전 (에디터)
+input.rotaterighteditor,오른쪽 회전 (에디터)
+input.select,선택
+input.up,위
+input.viewpointtoggle,시점 전환
 inputfield.placeholder.amount,Amount
 inputsamplingmode.performance,Performance
 inputsamplingmode.quality,Quality
-inputsetup.assisted,Assisted
-inputsetup.axisvisualization.currentvalue,Current value
-inputsetup.axisvisualization.deadband,Deadband
-inputsetup.axisvisualization.setcurrent,Set current
-inputsetup.axisvisualization.zeropoint,Zero Point
-inputsetup.buttonassign.cancel,Cancel
-inputsetup.buttonassign.clearkey,Clear Key
-inputsetup.buttonassign.confirm,Confirm
-inputsetup.buttonassign.controller.header,Controller
-inputsetup.buttonassign.flaggedkeywarning,Warning! This key may have an impact in the game. Make sure this is what you intend.
-inputsetup.buttonassign.header,ASSIGN BUTTON
-inputsetup.buttonassign.headerassigncontroller,ASSIGN BUTTONS - CONTROLLER
-inputsetup.buttonassign.headerassignkeyboard,ASSIGN BUTTONS - KEYBOARD
-inputsetup.buttonassign.keyboard,Keyboard
-inputsetup.buttonassign.keyboard.header,Keyboard
-inputsetup.buttonassign.keynamenone,None
-inputsetup.buttonassign.newassignment,New assignment: 
-inputsetup.buttonassign.newvalue,New value:
-inputsetup.buttonassign.pressbutton,Press a button for:
-inputsetup.buttonassign.unknown.header,Unknown
-inputsetup.buttonassign.warning,Warning! This key may have an impact in the game. Make sure this is what you intend.
-inputsetup.buttonassignaction,Assign Action -
-inputsetup.buttonassigner.header,Assign button
-inputsetup.buttons,Buttons
-inputsetup.buttonsdefaults,Assign button defaults (optional)
-inputsetup.buttonsdefaults.allowmenumovement,Allow movement in menus and Track Builder. (Don't select this for RC remotes.)
-inputsetup.buttonsdefaults.basemovement,Base movement on:
-inputsetup.buttonsdefaults.defaultmode,(Default: Mode2)
-inputsetup.buttonsdefaults.gamecontrols,Game Controls
-inputsetup.buttonsdefaults.menunavigation,Menu Navigation
-inputsetup.buttonsdefaults.trackbuilder,Track Builder
-inputsetup.calibrate,Calibrate
-inputsetup.calibrate.assignaxis,Assign Axis {0}
-inputsetup.calibrate.assignaxisspace,Assign Axis 
-inputsetup.calibrate.axesnotset.description,One or more input axes are not set. Please set all axes manually or pick a preset.
-inputsetup.calibrate.axesnotset.header,Input not set
-inputsetup.calibrate.axissetup.axisnotset.description,One or more input axes are not set. Please set all axes manually or pick a preset.
-inputsetup.calibrate.axissetup.axisnotset.header,Input not set
-inputsetup.calibrate.begintext,"Some controllers need calibration to work properly. To start calibration, center all joysticks and click ""Calibrate""."
-inputsetup.calibrate.button,Calibrate
-inputsetup.calibrate.calibrate,Calibrate
-inputsetup.calibrate.calibrateorfinetuneinstructions,"Click <b>Calibrate</b> if the drone does not react as expected.
+inputsetup.assisted,도움 모드
+inputsetup.axisvisualization.currentvalue,현재 값
+inputsetup.axisvisualization.deadband,데드밴드
+inputsetup.axisvisualization.setcurrent,현재 값으로 설정
+inputsetup.axisvisualization.zeropoint,영점
+inputsetup.buttonassign.cancel,취소
+inputsetup.buttonassign.clearkey,키 지우기
+inputsetup.buttonassign.confirm,확인
+inputsetup.buttonassign.controller.header,컨트롤러
+inputsetup.buttonassign.flaggedkeywarning,경고! 이 키는 게임에 영향을 줄 수 있습니다. 의도한 설정인지 확인하세요.
+inputsetup.buttonassign.header,버튼 할당
+inputsetup.buttonassign.headerassigncontroller,버튼 할당 - 컨트롤러
+inputsetup.buttonassign.headerassignkeyboard,버튼 할당 - 키보드
+inputsetup.buttonassign.keyboard,키보드
+inputsetup.buttonassign.keyboard.header,키보드
+inputsetup.buttonassign.keynamenone,없음
+inputsetup.buttonassign.newassignment,새 할당:
+inputsetup.buttonassign.newvalue,새 값:
+inputsetup.buttonassign.pressbutton,버튼을 누르세요:
+inputsetup.buttonassign.unknown.header,알 수 없음
+inputsetup.buttonassign.warning,경고! 이 키는 게임에 영향을 줄 수 있습니다. 의도한 설정인지 확인하세요.
+inputsetup.buttonassignaction,동작 할당 -
+inputsetup.buttonassigner.header,버튼 할당
+inputsetup.buttons,버튼
+inputsetup.buttonsdefaults,기본 버튼 할당 (선택 사항)
+inputsetup.buttonsdefaults.allowmenumovement,메뉴와 Track Builder에서 이동을 허용합니다. (RC 리모트에는 선택하지 마세요.)
+inputsetup.buttonsdefaults.basemovement,기본 이동 기준:
+inputsetup.buttonsdefaults.defaultmode,(기본값: Mode2)
+inputsetup.buttonsdefaults.gamecontrols,게임 조작
+inputsetup.buttonsdefaults.menunavigation,메뉴 탐색
+inputsetup.buttonsdefaults.trackbuilder,트랙 빌더
+inputsetup.calibrate,보정
+inputsetup.calibrate.assignaxis,축 할당 {0}
+inputsetup.calibrate.assignaxisspace,축 할당
+inputsetup.calibrate.axesnotset.description,하나 이상의 입력 축이 설정되지 않았습니다. 모든 축을 수동으로 설정하거나 프리셋을 선택해 주세요.
+inputsetup.calibrate.axesnotset.header,입력이 설정되지 않음
+inputsetup.calibrate.axissetup.axisnotset.description,하나 이상의 입력 축이 설정되지 않았습니다. 모든 축을 수동으로 설정하거나 프리셋을 선택해 주세요.
+inputsetup.calibrate.axissetup.axisnotset.header,입력이 설정되지 않음
+inputsetup.calibrate.begintext,"일부 컨트롤러는 제대로 작동하려면 보정이 필요합니다. 보정을 시작하려면 모든 조이스틱을 가운데에 두고 ""보정""을 클릭하세요."
+inputsetup.calibrate.button,보정
+inputsetup.calibrate.calibrate,보정
+inputsetup.calibrate.calibrateorfinetuneinstructions,"드론이 예상대로 반응하지 않으면 <b>보정</b>을 클릭하세요.
 
-Alternatively, fine-tune the current calibration by clicking on <b>Fine-tune</b>. "
-inputsetup.calibrate.calibratingtext,"Rotate all joysticks in big circles. Make sure you reach all the edges. When finished, click the button again."
-inputsetup.calibrate.calibration,Calibration
-inputsetup.calibrate.center,Center
-inputsetup.calibrate.centerallsticks,Center all sticks
-inputsetup.calibrate.centerstickstonextstep,Center all sticks to go to next step
-inputsetup.calibrate.channelid,Channel {0}
-inputsetup.calibrate.clicktostartcalibration,Click start to start calibration
-inputsetup.calibrate.deadband,Deadband
-inputsetup.calibrate.donetext,"You have finished calibrating the joysticks.
+또는 <b>미세 조정</b>을 클릭해 현재 보정을 세부 조정할 수 있습니다."
+inputsetup.calibrate.calibratingtext,"모든 조이스틱을 크게 원을 그리듯 움직이세요. 가장자리까지 모두 닿도록 해 주세요. 끝났다면 버튼을 다시 클릭하세요."
+inputsetup.calibrate.calibration,보정
+inputsetup.calibrate.center,중앙
+inputsetup.calibrate.centerallsticks,모든 스틱을 중앙에 두기
+inputsetup.calibrate.centerstickstonextstep,다음 단계로 가려면 모든 스틱을 중앙에 두세요
+inputsetup.calibrate.channelid,채널 {0}
+inputsetup.calibrate.clicktostartcalibration,보정을 시작하려면 시작을 클릭하세요
+inputsetup.calibrate.deadband,데드밴드
+inputsetup.calibrate.donetext,"조이스틱 보정이 완료되었습니다.
 
-Think something went wrong? You can calibrate again by centering the sticks and clicking ""Retry Calibrate""."
-inputsetup.calibrate.editingaxis,Editing axis {0}
-inputsetup.calibrate.editingchannel,Editing Channel {0}
-inputsetup.calibrate.endcalibration,End Calibration
-inputsetup.calibrate.feebackokexclamation,OK!
-inputsetup.calibrate.finetune,Fine-tune
-inputsetup.calibrate.finish,Finish
-inputsetup.calibrate.finishedcalibration,Finished calibration!
-inputsetup.calibrate.finishedheader,FINISHED
-inputsetup.calibrate.header,Calibration
-inputsetup.calibrate.increasedeadzone,Increase dead zone
-inputsetup.calibrate.invert,Invert
-inputsetup.calibrate.isdronereactingproperly,Is the drone reacting properly?
-inputsetup.calibrate.linuxcalibrationheader,LINUX RC REMOTE CALIBRATION
-inputsetup.calibrate.linuxopenguide,Open Guide
-inputsetup.calibrate.linuxprecalibrationwarning,"Hi Linux user!
-If you are about to calibrate an RC remote, please be aware of the pre-calibration steps that are required before calibrating your remote in Liftoff. You can find a detailed guide by clicking on the link below.
+뭔가 잘못된 것 같나요? 스틱을 중앙에 두고 ""보정 다시 시도""를 클릭하면 다시 보정할 수 있습니다."
+inputsetup.calibrate.editingaxis,축 {0} 편집 중
+inputsetup.calibrate.editingchannel,채널 {0} 편집 중
+inputsetup.calibrate.endcalibration,보정 종료
+inputsetup.calibrate.feebackokexclamation,확인!
+inputsetup.calibrate.finetune,미세 조정
+inputsetup.calibrate.finish,완료
+inputsetup.calibrate.finishedcalibration,보정 완료!
+inputsetup.calibrate.finishedheader,완료
+inputsetup.calibrate.header,보정
+inputsetup.calibrate.increasedeadzone,데드존 늘리기
+inputsetup.calibrate.invert,반전
+inputsetup.calibrate.isdronereactingproperly,드론이 제대로 반응하고 있나요?
+inputsetup.calibrate.linuxcalibrationheader,LINUX RC 리모트 보정
+inputsetup.calibrate.linuxopenguide,가이드 열기
+inputsetup.calibrate.linuxprecalibrationwarning,"안녕하세요, Linux 사용자님!
+RC 리모트를 보정하려는 경우, Liftoff에서 리모트를 보정하기 전에 필요한 사전 단계가 있다는 점을 참고해 주세요. 아래 링크를 클릭하면 자세한 가이드를 볼 수 있습니다.
 
-You can ignore this message if you want to calibrate a game controller."
-inputsetup.calibrate.manualcalibration,Manual Calibration
-inputsetup.calibrate.next,Next 
-inputsetup.calibrate.nocontroller,No Controller
-inputsetup.calibrate.notallaxesassigned,Not all axes are assigned
-inputsetup.calibrate.notallaxesassignedlist,Not all axes are assigned. [{0}]
-inputsetup.calibrate.optionalassignbuttons,(Optional) Assign controller buttons
-inputsetup.calibrate.problemcenteringsticks,Problems centering your sticks?
-inputsetup.calibrate.problemcenteringsticks.description,"Maybe the axis didn't calibrate properly?
+게임 컨트롤러를 보정하려는 경우에는 이 메시지를 무시해도 됩니다."
+inputsetup.calibrate.manualcalibration,수동 보정
+inputsetup.calibrate.next,다음
+inputsetup.calibrate.nocontroller,컨트롤러 없음
+inputsetup.calibrate.notallaxesassigned,모든 축이 할당되지 않았습니다
+inputsetup.calibrate.notallaxesassignedlist,모든 축이 할당되지 않았습니다. [{0}]
+inputsetup.calibrate.optionalassignbuttons,(선택 사항) 컨트롤러 버튼 할당
+inputsetup.calibrate.problemcenteringsticks,스틱을 중앙에 맞추기 어렵나요?
+inputsetup.calibrate.problemcenteringsticks.description,"축이 제대로 보정되지 않았을 수도 있습니다.
 
-Try using the current position as the center, increasing the dead zone or clicking cancel and restarting the calibration proces."
-inputsetup.calibrate.problemconnectingcontroller,PROBLEMS CONNECTING YOUR CONTROLLER?
-inputsetup.calibrate.problemconnectingcontroller.description,"<b>1.</b> Make sure the controller is switched on and connected to your computer before starting the game.
+현재 위치를 중앙으로 사용하거나, 데드존을 늘리거나, 취소 후 보정 과정을 다시 시작해 보세요."
+inputsetup.calibrate.problemconnectingcontroller,컨트롤러 연결에 문제가 있나요?
+inputsetup.calibrate.problemconnectingcontroller.description,"<b>1.</b> 게임을 시작하기 전에 컨트롤러 전원이 켜져 있고 컴퓨터에 연결되어 있는지 확인하세요.
 
-<b>2.</b> Make sure you have the right cable and/or dongle for your specific remote.
+<b>2.</b> 사용 중인 리모트에 맞는 케이블 및/또는 동글을 사용하고 있는지 확인하세요.
 
-<b>3.</b> Consult the manual of your remote to see how you should connect your remote to the computer.
+<b>3.</b> 리모트를 컴퓨터에 연결하는 방법은 리모트 설명서를 참고하세요.
 
-<b>4.</b> Make sure your system is receiving input from your remote.
+<b>4.</b> 시스템이 리모트 입력을 실제로 받고 있는지 확인하세요.
 
-<b>5.</b> Steam could be interfering with your controller recognition. Go to Steam and under Steam > Settings > Controller > General Controller Settings, make sure <i>Generic Gamepad Configuration Support</i> is turned off.
+<b>5.</b> Steam이 컨트롤러 인식을 방해할 수 있습니다. Steam에서 Steam > 설정 > 컨트롤러 > 일반 컨트롤러 설정으로 이동한 뒤 <i>일반 게임패드 구성 지원</i>이 꺼져 있는지 확인하세요.
 
-Still couldn't connect? Please contact the manufacturer of your hardware device for support on how to connect the controller to a computer. Liftoff is not responsible for problems with your hardware setup but is happy to help when possible."
-inputsetup.calibrate.retrycalibrate,Retry
-inputsetup.calibrate.rotateallsticks,Rotate all sticks
-inputsetup.calibrate.saved.description,Controller calibration saved
-inputsetup.calibrate.saved.header,Saved
-inputsetup.calibrate.selectaxis,Select the desired axis from the grid below .
-inputsetup.calibrate.selectchannel,Select
-inputsetup.calibrate.selectchanneltoassignaxis,Select which channel to assign to an axis.
-inputsetup.calibrate.selectcontroller,Select
-inputsetup.calibrate.selectcontrollerheader,Select controller
-inputsetup.calibrate.startcalibration,Start calibration
-inputsetup.calibrate.testcontrollerexpected,"Test your controller input and see if the drone responds as expected.
+그래도 연결되지 않나요? 컨트롤러를 컴퓨터에 연결하는 방법에 대해서는 하드웨어 제조사에 문의해 주세요. Liftoff는 하드웨어 설정 문제에 책임을 지지 않지만, 가능한 범위에서는 기꺼이 도와드리겠습니다."
+inputsetup.calibrate.retrycalibrate,다시 시도
+inputsetup.calibrate.rotateallsticks,모든 스틱 회전
+inputsetup.calibrate.saved.description,컨트롤러 보정이 저장되었습니다
+inputsetup.calibrate.saved.header,저장됨
+inputsetup.calibrate.selectaxis,아래 그리드에서 원하는 축을 선택하세요.
+inputsetup.calibrate.selectchannel,선택
+inputsetup.calibrate.selectchanneltoassignaxis,어떤 채널을 축에 할당할지 선택하세요.
+inputsetup.calibrate.selectcontroller,선택
+inputsetup.calibrate.selectcontrollerheader,컨트롤러 선택
+inputsetup.calibrate.startcalibration,보정 시작
+inputsetup.calibrate.testcontrollerexpected,"컨트롤러 입력을 시험해 보고 드론이 예상대로 반응하는지 확인하세요.
 
-You can save your calibration or, if something went wrong, you can calibrate again."
-inputsetup.calibrate.title,Calibrate the controller
-inputsetup.calibrate.tomainmenu,Main Menu
-inputsetup.calibrate.unsavedchanges,Unsaved changes
-inputsetup.calibrate.unsavedchanges.description,There are unsaved changes. Do you want to discard the changes and go back?
-inputsetup.calibrate.usecurrentcenter,Use current center
-inputsetup.calibrate.zeropoint,Zero point
-inputsetup.controller,Controller
-inputsetup.controllersetup,Controller Setup
-inputsetup.createpreset,Create a preset
-inputsetup.invert,Invert
-inputsetup.manual,Manual
-inputsetup.name,Name
-inputsetup.navigation.back,Back
-inputsetup.navigation.exit,Exit
-inputsetup.navigation.reset,Reset
-inputsetup.navigation.save,Save
+보정을 저장할 수도 있고, 문제가 있다면 다시 보정할 수도 있습니다."
+inputsetup.calibrate.title,컨트롤러 보정
+inputsetup.calibrate.tomainmenu,메인 메뉴
+inputsetup.calibrate.unsavedchanges,저장되지 않은 변경 사항
+inputsetup.calibrate.unsavedchanges.description,저장되지 않은 변경 사항이 있습니다. 변경 사항을 버리고 돌아가시겠습니까?
+inputsetup.calibrate.usecurrentcenter,현재 중심 사용
+inputsetup.calibrate.zeropoint,영점
+inputsetup.controller,컨트롤러
+inputsetup.controllersetup,컨트롤러 설정
+inputsetup.createpreset,프리셋 만들기
+inputsetup.invert,반전
+inputsetup.manual,수동
+inputsetup.name,이름
+inputsetup.navigation.back,뒤로
+inputsetup.navigation.exit,나가기
+inputsetup.navigation.reset,초기화
+inputsetup.navigation.save,저장
 inputsetup.os,OS
-inputsetup.savepreset.descriptionexample,E.g. TaranisMode2
-inputsetup.savepreset.descriptivename,Description
-inputsetup.savepreset.descriptivenamexample,E.g. XBox One controller for Windows
-inputsetup.savepreset.filename,File name
-inputsetup.savepreset.mode,Mode
-inputsetup.savepreset.save,Save
-inputsetup.savepreset.title,Save New Preset
-inputsetup.savinginprogress,Saving...
-inputsetup.selectcontroller.controller1,Controller 1 
-inputsetup.selectcontroller.controller2,Controller 2
-inputsetup.selectcontroller.controller3,Controller 3
-inputsetup.selectcontroller.controller4,Controller 4
-inputsetup.selectcontroller.description,"If a controller isn't responding after selecting or creating a preset, you can select a different controller number here."
-inputsetup.selectcontroller.title,Select Controller Number
-inputsetup.selectpreset,Select preset
-inputsetup.setaxis.button,Set Axis
-inputsetup.setaxis.checking,Checking input. Please move the stick as shown.
-inputsetup.setaxis.fail,"Couldn't detect the axis you moved. If this problem persists, try calibrating the controller first."
-inputsetup.setaxis.success,Succesfully set the axis. Try moving and check if the drone model behaves correctly.
-inputsetup.setaxis.successmanual,"Succesfully set the axis. Try moving and check if the drone model behaves correctly. If your input appears to be inverted, try clicking ""Invert"" below."
-inputsetup.setpitch.description,"We will now bind the Pitch axis. When you're ready, click ""Set Pitch"".
+inputsetup.savepreset.descriptionexample,예: TaranisMode2
+inputsetup.savepreset.descriptivename,설명
+inputsetup.savepreset.descriptivenamexample,예: Windows용 XBox One 컨트롤러
+inputsetup.savepreset.filename,파일 이름
+inputsetup.savepreset.mode,모드
+inputsetup.savepreset.save,저장
+inputsetup.savepreset.title,새 프리셋 저장
+inputsetup.savinginprogress,저장 중...
+inputsetup.selectcontroller.controller1,컨트롤러 1
+inputsetup.selectcontroller.controller2,컨트롤러 2
+inputsetup.selectcontroller.controller3,컨트롤러 3
+inputsetup.selectcontroller.controller4,컨트롤러 4
+inputsetup.selectcontroller.description,"프리셋을 선택하거나 만든 뒤에도 컨트롤러가 반응하지 않는다면, 여기에서 다른 컨트롤러 번호를 선택할 수 있습니다."
+inputsetup.selectcontroller.title,컨트롤러 번호 선택
+inputsetup.selectpreset,프리셋 선택
+inputsetup.setaxis.button,축 설정
+inputsetup.setaxis.checking,입력을 확인하는 중입니다. 그림과 같이 스틱을 움직여 주세요.
+inputsetup.setaxis.fail,"움직인 축을 감지하지 못했습니다. 문제가 계속되면 먼저 컨트롤러를 보정해 보세요."
+inputsetup.setaxis.success,축 설정이 완료되었습니다. 움직여 보면서 드론 모델이 올바르게 반응하는지 확인하세요.
+inputsetup.setaxis.successmanual,"축 설정이 완료되었습니다. 움직여 보면서 드론 모델이 올바르게 반응하는지 확인하세요. 입력이 반대로 보인다면 아래의 ""반전""을 클릭해 보세요."
+inputsetup.setpitch.description,"이제 Pitch 축을 바인딩하겠습니다. 준비되면 ""Pitch 설정""을 클릭하세요.
 
-<b>What is Pitch?</b>
-Pitch allows you to tilt the drone forwards and backwards. This is used to move forward or to brake."
-inputsetup.setpitchmanual.description,"We will now bind the Pitch axis. Move your stick in the direction shown in the image and click below on the channel that receives input.
+<b>Pitch란?</b>
+Pitch는 드론을 앞뒤로 기울이게 합니다. 전진하거나 브레이크를 걸 때 사용합니다."
+inputsetup.setpitchmanual.description,"이제 Pitch 축을 바인딩하겠습니다. 이미지에 표시된 방향으로 스틱을 움직인 뒤, 아래에서 입력을 받는 채널을 클릭하세요.
 
-<b>What is Pitch?</b>
-Pitch allows you to tilt the drone forwards and backwards. This is used to move forward or to brake."
-inputsetup.setroll.description,"We will now bind the Roll axis. When you're ready, click ""Set Roll"".
+<b>Pitch란?</b>
+Pitch는 드론을 앞뒤로 기울이게 합니다. 전진하거나 브레이크를 걸 때 사용합니다."
+inputsetup.setroll.description,"이제 Roll 축을 바인딩하겠습니다. 준비되면 ""Roll 설정""을 클릭하세요.
 
-<b>What is Roll?</b>
-Roll allows you to... roll. Use this together with Yaw to bank in corners."
-inputsetup.setrollmanual.description,"We will now bind the Roll axis. Move your stick in the direction shown in the image and click below on the channel that receives input.
+<b>Roll이란?</b>
+Roll은 드론을 좌우로 기울이게 합니다. 코너에서 기체를 기울일 때 Yaw와 함께 사용합니다."
+inputsetup.setrollmanual.description,"이제 Roll 축을 바인딩하겠습니다. 이미지에 표시된 방향으로 스틱을 움직인 뒤, 아래에서 입력을 받는 채널을 클릭하세요.
 
-<b>What is Roll?</b>
-Roll allows you to... roll. Use this together with Yaw to bank in corners."
-inputsetup.setthrottle.description,"We will now bind the Throttle axis. When you're ready, click ""Set Throttle"".
+<b>Roll이란?</b>
+Roll은 드론을 좌우로 기울이게 합니다. 코너에서 기체를 기울일 때 Yaw와 함께 사용합니다."
+inputsetup.setthrottle.description,"이제 Throttle 축을 바인딩하겠습니다. 준비되면 ""Throttle 설정""을 클릭하세요.
 
-<b>What is Throttle?</b>
-Throttle adjusts the speed at which your propellers rotate. You can use this to go higher or faster."
-inputsetup.setthrottle.title,Set the Throttle Axis
-inputsetup.setthrottlemanual.description,"We will now bind the Throttle axis. Move your stick in the direction shown in the image and click below on the channel that receives input.
+<b>Throttle이란?</b>
+Throttle은 프로펠러 회전 속도를 조절합니다. 이를 이용해 더 높이 올라가거나 더 빠르게 비행할 수 있습니다."
+inputsetup.setthrottle.title,Throttle 축 설정
+inputsetup.setthrottlemanual.description,"이제 Throttle 축을 바인딩하겠습니다. 이미지에 표시된 방향으로 스틱을 움직인 뒤, 아래에서 입력을 받는 채널을 클릭하세요.
 
-<b>What is Throttle?</b>
-Throttle adjusts the speed at which your propellers rotate. You can use this to go higher or faster."
-inputsetup.setyaw.description,"We will now bind the Yaw axis. When you're ready, click ""Set Yaw"".
+<b>Throttle이란?</b>
+Throttle은 프로펠러 회전 속도를 조절합니다. 이를 이용해 더 높이 올라가거나 더 빠르게 비행할 수 있습니다."
+inputsetup.setyaw.description,"이제 Yaw 축을 바인딩하겠습니다. 준비되면 ""Yaw 설정""을 클릭하세요.
 
-<b>What is Yaw?</b>
-Yaw rotates the drone around its center, allowing you to face left or right."
-inputsetup.setyawmanual.description,"We will now bind the Yaw axis. Move your stick in the direction shown in the image and click below on the channel that receives input.
+<b>Yaw란?</b>
+Yaw는 드론을 중심축 기준으로 회전시켜 왼쪽이나 오른쪽을 바라보게 합니다."
+inputsetup.setyawmanual.description,"이제 Yaw 축을 바인딩하겠습니다. 이미지에 표시된 방향으로 스틱을 움직인 뒤, 아래에서 입력을 받는 채널을 클릭하세요.
 
-<b>What is Yaw?</b>
-Yaw rotates the drone around its center, allowing you to face left or right."
-inputsetup.statussuccess,Save successful.
-inputsetup.usesetup,Use a preset
+<b>Yaw란?</b>
+Yaw는 드론을 중심축 기준으로 회전시켜 왼쪽이나 오른쪽을 바라보게 합니다."
+inputsetup.statussuccess,저장에 성공했습니다.
+inputsetup.usesetup,프리셋 사용
 leaderboard.filter.all,All
 leaderboard.filter.community,Community
 leaderboard.filter.local,Local
