@@ -594,68 +594,68 @@ flightcontroller.settings.unsavedchanges.description,"You have unsaved changes. 
 Do you wish to continue?"
 flightcontroller.settings.unsavedchanges.header,Unsaved Changes
 fovadjuster.description.,FOV: {0} degrees
-generic.accept,Accept
-generic.all,All
-generic.apply,Apply
-generic.back,Back
-generic.backtomainmenu,Back to Main Menu
-generic.cancel,Cancel
-generic.close,Close
-generic.confirm,Confirm
-generic.continue,Continue
-generic.copy,Copy
-generic.create,Create
-generic.customise,Customise
-generic.decline,Decline
-generic.delete,Delete
-generic.detecting,Detecting...
-generic.disable,Disable
-generic.disabled,Disabled
-generic.done,Done
-generic.dontremindmeagain,Don't remind me again.
-generic.dontshowmethisagain,Don't show me this message again.
-generic.enable,Enable
-generic.enabled,Enabled
-generic.exit,Exit
-generic.export,Export
-generic.hide,Hide
-generic.maximum,Maximum
-generic.minimum,Minimum
-generic.next,Next
-generic.no,No
-generic.none,None
-generic.ok,ok
+generic.accept,수락
+generic.all,전체
+generic.apply,적용
+generic.back,뒤로
+generic.backtomainmenu,메인 메뉴로
+generic.cancel,취소
+generic.close,닫기
+generic.confirm,확인
+generic.continue,계속
+generic.copy,복사
+generic.create,생성
+generic.customise,커스터마이즈
+generic.decline,거절
+generic.delete,삭제
+generic.detecting,감지 중...
+generic.disable,비활성화
+generic.disabled,비활성화됨
+generic.done,완료
+generic.dontremindmeagain,다시 알리지 않기
+generic.dontshowmethisagain,이 메시지를 다시 표시하지 않기
+generic.enable,활성화
+generic.enabled,활성화됨
+generic.exit,나가기
+generic.export,내보내기
+generic.hide,숨기기
+generic.maximum,최대
+generic.minimum,최소
+generic.next,다음
+generic.no,아니요
+generic.none,없음
+generic.ok,확인
 generic.pitch,Pitch
-generic.play,Play
-generic.quit,Quit
-generic.redo,Redo
-generic.remove,Remove
-generic.reset,Reset
-generic.retry,Retry
-generic.retryset,Retry set
-generic.return,Return
+generic.play,플레이
+generic.quit,종료
+generic.redo,다시 실행
+generic.remove,제거
+generic.reset,초기화
+generic.retry,다시 시도
+generic.retryset,세트 다시 시도
+generic.return,돌아가기
 generic.roll,Roll
-generic.save,Save
-generic.saveandexit,Save and exit
-generic.search,Search
-generic.select,Select
-generic.set,Set
-generic.setvalue,Set value
-generic.share,Share
-generic.show,Show
+generic.save,저장
+generic.saveandexit,저장 후 종료
+generic.search,검색
+generic.select,선택
+generic.set,설정
+generic.setvalue,값 설정
+generic.share,공유
+generic.show,표시
 generic.throttle,Throttle
-generic.time.days,{[Amount]} days[i2p_One]{[Amount]} day
-generic.time.hours,{[Amount]} hours[i2p_One]{[Amount]} hour
-generic.time.minutes,{[Amount]} minutes[i2p_One]{[Amount]} minute
-generic.time.seconds,{[Amount]} seconds[i2p_One]{[Amount]} second
-generic.tomainmenu,To Main Menu
-generic.ui.entermessage,Enter message...
-generic.ui.entertext,Enter text...
-generic.undo,Undo
-generic.unknown,Unknown
-generic.update,Update
+generic.time.days,{[Amount]}일[i2p_One]{[Amount]}일
+generic.time.hours,{[Amount]}시간[i2p_One]{[Amount]}시간
+generic.time.minutes,{[Amount]}분[i2p_One]{[Amount]}분
+generic.time.seconds,{[Amount]}초[i2p_One]{[Amount]}초
+generic.tomainmenu,메인 메뉴로
+generic.ui.entermessage,메시지 입력...
+generic.ui.entertext,텍스트 입력...
+generic.undo,실행 취소
+generic.unknown,알 수 없음
+generic.update,업데이트
 generic.yaw,Yaw
-generic.yes,Yes
+generic.yes,예
 gettingstarted.controllerstep.content,"A core piece of equipment for flying an FPV drone is your remote or controller. It's essential that it is working correctly to get a smooth Liftoff experience.
 
 Click the button below to make sure your controller is detected and working properly."
