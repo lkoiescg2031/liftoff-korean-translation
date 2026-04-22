@@ -429,73 +429,73 @@ With your help we can build something truly special. Bugs, feedback, suggestions
 
 Like the game? Post a nice review on Steam. The team at LuGus Studios really appreciates it."
 editor.specsHeading,@@@1 specs
-environment.autumnfields.description,"Last chance to fly your drone before winter comes.
+environment.autumnfields.description,"겨울이 오기 전 드론을 날릴 마지막 기회입니다.
 
-Skill level: Low"
-environment.bandocity.description,"Slated to become a thriving community, this abandoned construction site currently serves as your personal playground.
+난이도: 낮음"
+environment.bandocity.description,"번성하는 공동체가 될 예정이었지만, 지금 이 버려진 공사 현장은 당신만의 놀이터가 되어 줍니다.
 
-Skill level: Medium"
-environment.bardwellsyard.description,"FPV Know-It-All's home turf.
+난이도: 중간"
+environment.bardwellsyard.description,"FPV Know-It-All의 홈그라운드입니다.
 
-Skill level: Low"
-environment.dubailegends.description,"At the dawn of the sport, legends were born. Now's your chance to claim a place among the best!
+난이도: 낮음"
+environment.dubailegends.description,"이 스포츠의 여명기에 전설이 태어났습니다. 이제 당신이 최고 중 한 명으로 이름을 남길 차례입니다!
 
-Skill level: High"
-environment.hall26.description,"Your all-day access pass to the Hannover fair.
+난이도: 높음"
+environment.hall26.description,"하루 종일 입장 가능한 Hannover 박람회장입니다.
 
-Skill level: Low"
-environment.hangarc03.description,"Waiting for the early shift... This container terminal is a great place for practicing precision piloting.
+난이도: 낮음"
+environment.hangarc03.description,"이른 교대를 기다리며... 이 컨테이너 터미널은 정밀 비행 연습에 안성맞춤인 장소입니다.
 
-Skill level: High"
-environment.hannover.description,"This massive urban environment offers something for everyone, from freestyle pilots to speed maniacs.
+난이도: 높음"
+environment.hannover.description,"이 거대한 도시형 환경은 프리스타일 파일럿부터 속도광까지 모두를 만족시킬 무언가를 제공합니다.
 
-Skill level: Medium"
-environment.minustwo.description,"Once the place to be for illegal drag racing, this empty parking lot is now a safe haven for drone racing.
+난이도: 중간"
+environment.minustwo.description,"한때 불법 드래그 레이스의 성지였던 이 텅 빈 주차장은 이제 드론 레이싱의 안전한 안식처가 되었습니다.
 
-Skill level: High"
-environment.parisdronefestival.description,"Here's your opportunity to triumph in the City of Lights!
+난이도: 높음"
+environment.parisdronefestival.description,"빛의 도시에서 승리를 거머쥘 기회가 찾아왔습니다!
 
-Skill level: Medium"
-environment.permafrost.description,"A cold winter wonderland brimming with interesting locations just waiting for FPV explorers like you to discover.
+난이도: 중간"
+environment.permafrost.description,"흥미로운 장소들로 가득한 차가운 겨울 원더랜드가 FPV 탐험가인 당신을 기다리고 있습니다.
 
-Skill level: Medium"
-environment.pinevalley.description,"This open pine forest, far from civilization, offers the perfect challenge for experienced pilots.
-Beware, no trespassing allowed!
+난이도: 중간"
+environment.pinevalley.description,"문명에서 멀리 떨어진 이 탁 트인 소나무 숲은 숙련된 파일럿에게 완벽한 도전을 제공합니다.
+주의, 무단 출입 금지입니다!
 
-Skill level: Medium"
-environment.russianwoodpecker.description,"Venture out and get your radios active! Race and dive this massive abandoned structure and explore the wastelands of the Woodpecker!
+난이도: 중간"
+environment.russianwoodpecker.description,"밖으로 나가 라디오를 활성화하세요! 이 거대한 폐허 구조물에서 레이스와 다이브를 즐기고 Woodpecker의 황무지를 탐험해 보세요!
 
-Skill level: Medium"
-environment.rustline.description,"A decaying industrial zone scarred by time and corrosion. Once a lifeline, now the ultimate FPV playground. 
+난이도: 중간"
+environment.rustline.description,"시간과 부식에 상처 입은 쇠락한 산업 지대입니다. 한때는 생명선이었지만, 이제는 궁극의 FPV 놀이터가 되었습니다.
 
-Skill level: High"
-environment.shortcircuit.description,"Race until you drop in this fully equipped racing circuit with a karting track, parking lot, windmills and so much more!
+난이도: 높음"
+environment.shortcircuit.description,"카트 트랙, 주차장, 풍차 등 모든 것이 갖춰진 이 레이싱 서킷에서 지칠 때까지 달려 보세요!
 
-Skill level: Low"
-environment.size.infinte,Infinite
-environment.size.large,Large
-environment.size.medium,Medium
-environment.size.small,Small
-environment.skilllevel.high,High
-environment.skilllevel.low,Low
-environment.skilllevel.medium,Medium
-environment.stadiumsmall.description,"Fly your drone in the spotlight in this all-purpose stadium.
+난이도: 낮음"
+environment.size.infinte,무한
+environment.size.large,대형
+environment.size.medium,중간
+environment.size.small,소형
+environment.skilllevel.high,높음
+environment.skilllevel.low,낮음
+environment.skilllevel.medium,중간
+environment.stadiumsmall.description,"이 다목적 경기장에서 스포트라이트를 받으며 드론을 날려 보세요.
 
-Skill level: Low"
-environment.strawbale.description,"Drones have many useful applications in agriculture, but after the harvest season, straw bales also make a great race environment.
+난이도: 낮음"
+environment.strawbale.description,"드론은 농업에서도 유용하게 쓰이지만, 수확이 끝난 뒤의 볏짚 더미는 훌륭한 레이스 환경이 되기도 합니다.
 
-Skill level: Low"
-environment.surtur.description,"Explore wide open spaces, mountain ranges and rocky cliffs, disrupted by fiery geological activity.
+난이도: 낮음"
+environment.surtur.description,"불타는 지질 활동으로 뒤틀린 넓은 평원과 산맥, 바위 절벽을 탐험해 보세요.
 
-Skill level: Low"
-environment.thedrawingboard.description,A large abstract environment to map real-world races.
-environment.thegreen.description,"Tee off at this 18-hole golf course with plenty of race opportunities.
+난이도: 낮음"
+environment.thedrawingboard.description,현실의 레이스를 설계하기 위한 대형 추상 환경입니다.
+environment.thegreen.description,"레이스 기회가 가득한 18홀 골프 코스에서 티오프하세요.
 
-Skill level: Low"
-environment.thepit.description,"This defunct mine is your new favorite location for dizzying dives and free-style shenanigans.
+난이도: 낮음"
+environment.thepit.description,"이 폐광은 아찔한 다이브와 프리스타일 장난을 즐기기에 새로운 최애 장소가 될 것입니다.
 
-Skill level: Medium"
-environment.variant.default,Standard
+난이도: 중간"
+environment.variant.default,표준
 environment.variant.nightfever,Night Fever
 fcs.acro.maxvelocity,Max Velocity
 fcs.acro.pids,Acro PIDs
@@ -1098,47 +1098,47 @@ inputsetup.setyawmanual.description,"이제 Yaw 축을 바인딩하겠습니다.
 Yaw는 드론을 중심축 기준으로 회전시켜 왼쪽이나 오른쪽을 바라보게 합니다."
 inputsetup.statussuccess,저장에 성공했습니다.
 inputsetup.usesetup,프리셋 사용
-leaderboard.filter.all,All
-leaderboard.filter.community,Community
-leaderboard.filter.local,Local
-leaderboard.filter.official,Official
-leaderboard.type.alltime,All time
-leaderboard.type.freestylescores,Freestyle scores
-leaderboard.type.laptimes,Lap times
-leaderboard.type.monthly,Monthly
-leaderboard.type.purist,Purist
-leaderboard.type.racetimes,Race times
-levelselect.filter.all,All
-levelselect.filter.community,Community
-levelselect.filter.local,Local
-levelselect.filter.official,Official
-levelselect.filter.origin,Origin
-levelselect.filter.searchplaceholder,Search...
-levelselect.filters,Filters
-levelselect.searchdrone,Search Drone
-levelselect.searchrace,Search Race
-levelselect.searchtrack,Search Track
-levelselect.select,Select
-levelselect.selectdrone,Select Drone
-levelselect.selectgamemode,Game mode
-levelselect.selectlevel,Select Level
-levelselect.selectrace,Select Race
-levelselect.selecttrack,Select Track
-levelselect.skipdroneselection,Skip drone selection
-levelselection.selectrace.norace,No Race
-levelselection.selectrace.randomrace,Random race
-levelselection.selecttrack.notrack,No Track
-loading.levelinit.dronebuild,Loading drone
-loading.levelinit.flightdata,Loading flight data
-loading.levelinit.initializinglevel,Initializing {0}
-loading.levelinit.loadinglevel,Loading {0}
-loading.levelinit.loadingmenu,Loading menu
-loading.levelinit.loadingshaders,Loading shaders
-loading.levelinit.multiplayer,Setting up multiplayer game
-loading.levelinit.trackbuild,Loading Track
-loading.levelinit.trackeditor,Loading Track editor
-loading.loadingCaps,Loading
-loadingscreen.message.1,Press <b>@@@KEY_RESET</b> to quickly reset your quad to its start position.
+leaderboard.filter.all,전체
+leaderboard.filter.community,커뮤니티
+leaderboard.filter.local,로컬
+leaderboard.filter.official,공식
+leaderboard.type.alltime,전체 기간
+leaderboard.type.freestylescores,프리스타일 점수
+leaderboard.type.laptimes,랩 타임
+leaderboard.type.monthly,월간
+leaderboard.type.purist,순수
+leaderboard.type.racetimes,Race 기록
+levelselect.filter.all,전체
+levelselect.filter.community,커뮤니티
+levelselect.filter.local,로컬
+levelselect.filter.official,공식
+levelselect.filter.origin,원본
+levelselect.filter.searchplaceholder,검색...
+levelselect.filters,필터
+levelselect.searchdrone,드론 검색
+levelselect.searchrace,Race 검색
+levelselect.searchtrack,Track 검색
+levelselect.select,선택
+levelselect.selectdrone,드론 선택
+levelselect.selectgamemode,게임 모드
+levelselect.selectlevel,레벨 선택
+levelselect.selectrace,Race 선택
+levelselect.selecttrack,Track 선택
+levelselect.skipdroneselection,드론 선택 건너뛰기
+levelselection.selectrace.norace,Race 없음
+levelselection.selectrace.randomrace,랜덤 Race
+levelselection.selecttrack.notrack,Track 없음
+loading.levelinit.dronebuild,드론 불러오는 중
+loading.levelinit.flightdata,비행 데이터 불러오는 중
+loading.levelinit.initializinglevel,{0} 초기화 중
+loading.levelinit.loadinglevel,{0} 불러오는 중
+loading.levelinit.loadingmenu,메뉴 불러오는 중
+loading.levelinit.loadingshaders,셰이더 불러오는 중
+loading.levelinit.multiplayer,멀티플레이 게임 설정 중
+loading.levelinit.trackbuild,Track 불러오는 중
+loading.levelinit.trackeditor,Track 편집기 불러오는 중
+loading.loadingCaps,불러오는 중
+loadingscreen.message.1,<b>@@@KEY_RESET</b>를 누르면 기체를 시작 위치로 빠르게 리셋할 수 있습니다.
 loadingscreen.message.10,You can share Tracks and Races you created via the <b>Steam Workshop</b>.
 loadingscreen.message.11,In the Main Menu's <b>Options</b> section you can configure various game options.
 loadingscreen.message.12,In the Option Menu's <b>Controls</b> section you can select and create new Controller Presets and assign keyboard and controller buttons.
@@ -1175,19 +1175,19 @@ loadingscreen.message.6,Best your own record time in <b>Race Mode</b>.
 loadingscreen.message.7,In the <b>Workbench</b> you can edit your drone's layout and components for a different flying experience.
 loadingscreen.message.8,In the <b>Track Builder</b> you can create new Tracks for each of Liftoff's environments.
 loadingscreen.message.9,In the <b>Race Editor</b> you can define Races for Tracks you created.
-loadtrack,Load Track
+loadtrack,Track 불러오기
 localization_test,English
 localize_test2,New Text
 lootbox.missingpart,Missing part
 lootbox.missingskin,Missing skin
-mainmenu.community,Community
-mainmenu.multiplayer,Multiplayer
-mainmenu.options,Options
-mainmenu.quit,Quit
-mainmenu.singleplayer,Single Player
-mainmenu.tools,Tools
-mainmenu.workbench,Workbench
-mainmenu_quit_confirm,Are you sure?
+mainmenu.community,커뮤니티
+mainmenu.multiplayer,멀티플레이
+mainmenu.options,옵션
+mainmenu.quit,종료
+mainmenu.singleplayer,싱글 플레이
+mainmenu.tools,도구
+mainmenu.workbench,워크벤치
+mainmenu_quit_confirm,확실합니까?
 moddetection.moddetected.description,"External modifications to the game have been detected.
 
 While these modifications are active, certain competitive features will be paused to ensure a seamless and fair experience.
