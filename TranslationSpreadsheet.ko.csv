@@ -267,97 +267,97 @@ colorpicker.editcolors,색상 편집
 colorpicker.hexcode,HEX 코드
 colorpicker.title,색상 선택기
 comingsoon.description,곧 제공 예정
-community.blog,Blog
+community.blog,블로그
 community.discord,Discord
-community.discord.copytoclipboardcontent,The link to the Discord server has been copied to your clipboard. Go to your Discord client and paste the link in the 'Join a Server' field.
-community.discord.copytoclipboardheader,Copied to clipboard
-community.discord.description,"Join our active Discord community and get in touch with Liftoff pilots around the world.
+community.discord.copytoclipboardcontent,Discord 서버 링크가 클립보드에 복사되었습니다. Discord 클라이언트로 이동해 'Join a Server' 필드에 링크를 붙여 넣으세요.
+community.discord.copytoclipboardheader,클립보드에 복사됨
+community.discord.description,"활발한 Discord 커뮤니티에 참여해 전 세계 Liftoff 파일럿들과 교류하세요.
 
-Follow up on live feeds of the Liftoff Pro League and ongoing multiplayer games."
-community.discussions,Discussions
-community.discussions.description,Participate in discussions about Liftoff and help other players on their way. Got a question or problem? Post it here. 
+Liftoff Pro League의 실시간 피드와 진행 중인 멀티플레이 게임도 확인할 수 있습니다."
+community.discussions,토론
+community.discussions.description,Liftoff에 관한 토론에 참여하고 다른 플레이어를 도와 주세요. 질문이나 문제가 있나요? 여기에 글을 남겨 보세요.
 community.facebook,Facebook
-community.facebook.description,Join the Liftoff Facebook community and get sneak peaks of upcoming features and updates. 
-community.guides,Guides
-community.guides.description,Consult or create guides for quickly getting your drone fly-ready. 
-community.news,Blog
-community.news.description,"Stay up to date on Liftoff's latest developments, changes and contests."
+community.facebook.description,Liftoff Facebook 커뮤니티에 참여해 앞으로 추가될 기능과 업데이트를 미리 만나보세요.
+community.guides,가이드
+community.guides.description,드론을 빠르게 비행 준비 상태로 만들 수 있도록 가이드를 참고하거나 직접 작성해 보세요.
+community.news,블로그
+community.news.description,"Liftoff의 최신 개발 소식, 변경 사항, 대회 정보를 놓치지 마세요."
 community.twitter,Twitter
-community.twitter.description,Join the Liftoff Twitter community.
-community.workshop,Workshop
-community.workshop.description,"Browse content created by fellow players to expand your Liftoff experience. Download new Tracks and Races, rate them and participate in the track building community. "
-contentloader.loadingdata,Loading data
-contentsharing.bypublishingyouacknowledgeagreement,Before publishing your content on {0} you must agree to their end-user license agreement.
-contentsharing.failedtouploaditem,Failed to upload your item. Try again later.
-contentsharing.itemcannotbeshared,This item cannot be shared.
-contentsharing.itemsneedtobesharedfirst,The following items need to be shared first: {0}
-contentsharing.notshareable.popupheader,Cannot share
-contentsharing.processingdots,Processing...
-contentsharing.processingpercentagedots,Processing... ({0}%)
-contentsharing.shareitem,Share {0}
-contentsharing.sharingerror,Sharing error
-contentsharing.sharingofficielitemnotpermitted,Sharing an official Liftoff item is not permitted.
-contentsharing.sharingserviceitemnotpermitted,Sharing a {0} item is not permitted.
-contentsharing.sharingtakeslongerthanusual,The sharing process is taking longer than usual. Please try again later.
-contentsharing.successfulupload,Successfully uploaded your item.
-contentsharing.unknownreason,Unknown reason.
-contentsharing.versionofitemcannotbeshared,This version of the item cannot be shared.
+community.twitter.description,Liftoff Twitter 커뮤니티에 참여하세요.
+community.workshop,워크숍
+community.workshop.description,"다른 플레이어가 만든 콘텐츠를 둘러보며 Liftoff 경험을 확장해 보세요. 새로운 Track과 Race를 다운로드하고, 평가를 남기고, 트랙 제작 커뮤니티에 참여할 수 있습니다."
+contentloader.loadingdata,데이터 불러오는 중
+contentsharing.bypublishingyouacknowledgeagreement,{0}에 콘텐츠를 게시하기 전에 해당 최종 사용자 라이선스 계약에 동의해야 합니다.
+contentsharing.failedtouploaditem,항목을 업로드하지 못했습니다. 나중에 다시 시도해 주세요.
+contentsharing.itemcannotbeshared,이 항목은 공유할 수 없습니다.
+contentsharing.itemsneedtobesharedfirst,다음 항목을 먼저 공유해야 합니다: {0}
+contentsharing.notshareable.popupheader,공유할 수 없음
+contentsharing.processingdots,처리 중...
+contentsharing.processingpercentagedots,처리 중... ({0}%)
+contentsharing.shareitem,{0} 공유
+contentsharing.sharingerror,공유 오류
+contentsharing.sharingofficielitemnotpermitted,공식 Liftoff 항목은 공유할 수 없습니다.
+contentsharing.sharingserviceitemnotpermitted,{0} 항목은 공유할 수 없습니다.
+contentsharing.sharingtakeslongerthanusual,공유 처리에 평소보다 더 오래 걸리고 있습니다. 나중에 다시 시도해 주세요.
+contentsharing.successfulupload,항목 업로드를 완료했습니다.
+contentsharing.unknownreason,알 수 없는 이유.
+contentsharing.versionofitemcannotbeshared,이 버전의 항목은 공유할 수 없습니다.
 dlc.djfpvpack.name,DJI FPV Pack
-dlc.gotostore,Buy DLC
-dlc.hideadvertisement,Don't show me this message again.
-dlc.nightfever.multiplayeradvertisement.description,"This multiplayer room uses content of the Night Fever DLC pack.
+dlc.gotostore,DLC 구매
+dlc.hideadvertisement,이 메시지를 다시 보지 않기
+dlc.nightfever.multiplayeradvertisement.description,"이 멀티플레이 방은 Night Fever DLC 팩 콘텐츠를 사용합니다.
 
-You can join the room flying in the regular daytime version or purchase the Night Fever DLC by clicking the button below."
-dlc.nightfever.multiplayeradvertisement.header,DLC Notice - Night Fever Content
+일반 주간 버전으로 비행하며 방에 참가하거나, 아래 버튼을 눌러 Night Fever DLC를 구매할 수 있습니다."
+dlc.nightfever.multiplayeradvertisement.header,DLC 안내 - Night Fever 콘텐츠
 dlc.nightfever.name,Night Fever
 dlc.slipstream.name,Slipstream
-dlc.termsofuse.header,Terms of use
-dronedetails.filter.all,All
-dronedetails.filter.official,Official blueprints
-dronedetails.filter.workshop,Workshop blueprints
-dronedetails.filter.yourdrones,Your drones
-droneeditor.backtomain.description,Do you want to return to the main menu?
-droneeditor.backtomain.header,Return to main menu
-droneeditor.conflictingparts.description,There are conflicting parts. Please solve all conflicts before saving.
-droneeditor.conflictingparts.header,Conflicting Parts
-droneeditor.dragbakedskin.description,"You've selected a skin that affects drag. When selecting a skin marked with this icon, know it will influence your drone's flight behavior."
-droneeditor.dragbakedskin.header,Drone Skin Drag
-droneeditor.giftboxes,Gift boxes
-droneeditor.giftboxes.description,Open up your gift boxes to unlock some cool skins and make your drone setup stand out more from the crowd!
-droneeditor.invaliddronename.description,Please use a better name for your drone before sharing it.
-droneeditor.invaliddronename.header,Drone name
-droneeditor.lootbox.disconnected.content,Disconnected from server.
-droneeditor.lootbox.disconnected.header,Disconnected
-droneeditor.lootboxes.nolootboxes.content,You don't have any gift boxes to open. Sorry!
-droneeditor.lootboxes.nolootboxes.header,No gift boxes
-droneeditor.modifyblueprint.content,Your current configuration started from a blueprint and you cannot modify blueprints. Would you like to save this configuration as a duplicate?
-droneeditor.modifyblueprint.header,Attempting to modify blueprint
-droneeditor.name,Drone editor
-droneeditor.notsignedin.description,You are not signed in to {0}.
-droneeditor.notsignedin.header,Not signed in
-droneeditor.partconflictreason,"<color=red>Conflict</color>: [{0}] to [{1}]
-<color=blue>Reason</color>: {2}"
-droneeditor.progression.choosereward,choose one reward
-droneeditor.progression.chooseskin.header,choosing skin
-droneeditor.progression.choosesking.content,please wait...
-droneeditor.progression.confirmationpopupbody,Are you sure?
-droneeditor.progression.confirmationpopupheader,Confirm your choice
-droneeditor.progression.confirmselection,Choose
-droneeditor.progression.nolootleftpopupbody,"Yarr, you're done plundering our booty."
-droneeditor.progression.nolootleftpopupheader,No loot left
-droneeditor.progression.openinglootboxbody,please wait...
-droneeditor.progression.openinglootboxheader,Opening gift box
-droneeditor.progression.timeoutbody,Server timed out
-droneeditor.progression.timeoutheader,Cannot open lootbox
-droneeditor.progression.timeoutheader.select,Cannot select item
-droneeditor.saved.description,Drone setup saved
-droneeditor.saved.header,Saved
-droneeditor.saveyourchanges.description,You are about to leave but your drone has unsaved changes. What would you like to do?
-droneeditor.saveyourchanges.header,Unsaved drone changes
-droneeditor.skinselection.signintoviewmore,Sign in to view your skin collection
-droneeditor.unsavedchanges.description,There are still unsaved changes. Do you want to go to the main menu?
-droneeditor.unsavedchanges.header,Unsaved Changes
-droneselection.blueprints.header,Blueprints
+dlc.termsofuse.header,이용 약관
+dronedetails.filter.all,전체
+dronedetails.filter.official,공식 블루프린트
+dronedetails.filter.workshop,워크숍 블루프린트
+dronedetails.filter.yourdrones,내 드론
+droneeditor.backtomain.description,메인 메뉴로 돌아가시겠습니까?
+droneeditor.backtomain.header,메인 메뉴로 돌아가기
+droneeditor.conflictingparts.description,충돌하는 부품이 있습니다. 저장하기 전에 모든 충돌을 해결해 주세요.
+droneeditor.conflictingparts.header,충돌하는 부품
+droneeditor.dragbakedskin.description,"드래그에 영향을 주는 스킨을 선택했습니다. 이 아이콘이 표시된 스킨을 선택하면 드론의 비행 특성에 영향을 줄 수 있습니다."
+droneeditor.dragbakedskin.header,드론 스킨 드래그
+droneeditor.giftboxes,선물 상자
+droneeditor.giftboxes.description,선물 상자를 열어 멋진 스킨을 해금하고, 드론 구성을 다른 사람들과 차별화해 보세요!
+droneeditor.invaliddronename.description,공유하기 전에 드론 이름을 더 적절하게 지정해 주세요.
+droneeditor.invaliddronename.header,드론 이름
+droneeditor.lootbox.disconnected.content,서버와 연결이 끊어졌습니다.
+droneeditor.lootbox.disconnected.header,연결 끊김
+droneeditor.lootboxes.nolootboxes.content,열 수 있는 선물 상자가 없습니다. 아쉽네요!
+droneeditor.lootboxes.nolootboxes.header,선물 상자 없음
+droneeditor.modifyblueprint.content,현재 구성은 블루프린트에서 시작했으며 블루프린트는 수정할 수 없습니다. 이 구성을 복제본으로 저장하시겠습니까?
+droneeditor.modifyblueprint.header,블루프린트 수정 시도
+droneeditor.name,드론 편집기
+droneeditor.notsignedin.description,{0}에 로그인되어 있지 않습니다.
+droneeditor.notsignedin.header,로그인되지 않음
+droneeditor.partconflictreason,"<color=red>충돌</color>: [{0}] -> [{1}]
+<color=blue>이유</color>: {2}"
+droneeditor.progression.choosereward,보상 하나 선택
+droneeditor.progression.chooseskin.header,스킨 선택 중
+droneeditor.progression.choosesking.content,잠시만 기다려 주세요...
+droneeditor.progression.confirmationpopupbody,확실합니까?
+droneeditor.progression.confirmationpopupheader,선택 확인
+droneeditor.progression.confirmselection,선택
+droneeditor.progression.nolootleftpopupbody,"이제 더 챙길 전리품이 없습니다."
+droneeditor.progression.nolootleftpopupheader,남은 전리품 없음
+droneeditor.progression.openinglootboxbody,잠시만 기다려 주세요...
+droneeditor.progression.openinglootboxheader,선물 상자 여는 중
+droneeditor.progression.timeoutbody,서버 응답 시간이 초과되었습니다
+droneeditor.progression.timeoutheader,선물 상자를 열 수 없음
+droneeditor.progression.timeoutheader.select,항목을 선택할 수 없음
+droneeditor.saved.description,드론 구성이 저장되었습니다
+droneeditor.saved.header,저장됨
+droneeditor.saveyourchanges.description,이제 나가려고 하지만 드론에 저장되지 않은 변경 사항이 있습니다. 어떻게 하시겠습니까?
+droneeditor.saveyourchanges.header,저장되지 않은 드론 변경 사항
+droneeditor.skinselection.signintoviewmore,스킨 컬렉션을 보려면 로그인하세요
+droneeditor.unsavedchanges.description,아직 저장되지 않은 변경 사항이 있습니다. 메인 메뉴로 이동하시겠습니까?
+droneeditor.unsavedchanges.header,저장되지 않은 변경 사항
+droneselection.blueprints.header,블루프린트
 droneselection.cantsharebecauseofconflictingparts.description,"This drone setup has conflicting parts and can't be shared.
 
 Please fix any conflicting parts in the Workbench."
