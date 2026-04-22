@@ -1710,142 +1710,142 @@ multiplayer.systemlog.inactivityalarmsecond,Inactivity alarm. You will be remove
 multiplayer.systemlog.inactivityalarmseconds,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} seconds.
 multiplayer.systemlog.inactivitywarninghalftime,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} minutes.
 multiplayer.systemlog.inactivitywarningminute,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} seconds.
-multiplayer.tournament.amountoftryoutsshouldnotbeempty,The amount of tryouts field should not be empty.
-multiplayer.tournament.create.areyousureyouwanttocreate,Are you sure you want to create this tournament?
-multiplayer.tournament.create.areyousureyouwanttoupdate,Are you sure you want to update this tournament?
-multiplayer.tournament.create.createtournament,Create Tournament
-multiplayer.tournament.create.descriptionshouldnotbeempty,The description field should not be empty.
-multiplayer.tournament.create.droneconfigusedisnotavailableonyoursystem,The drone configuration that is used in this tournament is not available on your system.
-multiplayer.tournament.create.eliminationsize.playercount,{[NrOfPlayers]} players[i2p_One]{[NrOfPlayers]} player
-multiplayer.tournament.create.enddateshouldbeinformat,The end date should be in format '{0}'.
-multiplayer.tournament.create.maxsavedtryoutshouldnotbeempty,The max saved tryouts field should not be empty.
-multiplayer.tournament.create.raceusedisnotavailableonyoursystem,The race that is used in this tournament is not available on your system.
-multiplayer.tournament.create.rechargetimeshouldnotbeempty,The recharge time field should not be empty.
-multiplayer.tournament.create.rechargetryoutshouldnotbeempty,The recharge tryout field should not be empty.
-multiplayer.tournament.create.selectedenvironmentisnull,The environment selected is null.
-multiplayer.tournament.create.selectedraceisnull,The race selected is null.
-multiplayer.tournament.create.selectedtrackisnull,The track selected is null.
-multiplayer.tournament.create.startdateshouldbeinformat,The start date should be in format '{0}'.
-multiplayer.tournament.create.titleshouldnotbeempty,The title field should not be empty.
-multiplayer.tournament.create.trackisnotavailableonyoursystem,The track that is used in this tournament is not available on your system.
-multiplayer.tournament.create.updatetournament,Update Tournament
-multiplayer.tournament.details.comingsoon,Coming soon
-multiplayer.tournament.details.comingup,Coming up
-multiplayer.tournament.details.endedontime,Ended on {0}
-multiplayer.tournament.details.knockout,Elimination
-multiplayer.tournament.details.leaderboard,Leaderboard
-multiplayer.tournament.details.numberofpilots,{0} pilots
-multiplayer.tournament.details.running,Running
-multiplayer.tournament.details.status.daysleft,{0} ({[Amount]} days left)[i2p_One]{0} ({[Amount]} day left)
-multiplayer.tournament.details.status.hoursleft,{0} ({[Amount]} hours left)[i2p_One]{0} ({[Amount]} hour left)
-multiplayer.tournament.details.status.minutesleft,{0} ({[Amount]} minutes left)[i2p_One]{0} ({[Amount]} minute left)
-multiplayer.tournament.details.status.secondsleft,{0} ({[Amount]} seconds left)[i2p_One]{0} ({[Amount]} second left)
-multiplayer.tournament.details.timeleft,{0} ({1} left)
-multiplayer.tournament.details.unknown,Unknown
-multiplayer.tournament.entertournament,Enter tournament
-multiplayer.tournament.failedtoenter.description,Failed to enter the tournament. Try again later.
-multiplayer.tournament.failedtoenter.notqualified,You do not qualify to enter this tournament.
-multiplayer.tournament.leaderboard.details.tryouts,Tryouts: {0}
-multiplayer.tournament.leaderboard.loadingtryouts,Loading tryouts
-multiplayer.tournament.leaderboard.loadingtryoutsfailed.description,Failed to load your remaining tryouts. No new tryout can be registered at this time.
-multiplayer.tournament.leaderboard.loadingtryoutsfailed.header,Failed to load tryouts
-multiplayer.tournament.leaderboard.notryoutsavailable.description,You currently don't have any more tryouts available to register.
-multiplayer.tournament.leaderboard.notryoutsavailable.header,No more tryouts available
-multiplayer.tournament.leaderboard.rechargetime,recharge in {0}
-multiplayer.tournament.leaderboard.registertryout.description,You have {0} remaining tryout(s) available. Would you like to register another tryout?
-multiplayer.tournament.leaderboard.registertryout.header,Register tryout
-multiplayer.tournament.leaderboard.tryoutasavailable,{0} available
-multiplayer.tournament.leaderboard.tryoutlimit.header,Tryout Limit
-multiplayer.tournament.leaderboard.tryoutlimit.warning,"This tournament has a tryout limit! Crashing or forfeiting will result in a wasted opportunity.
+multiplayer.tournament.amountoftryoutsshouldnotbeempty,트라이아웃 횟수 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.areyousureyouwanttocreate,이 토너먼트를 생성하시겠습니까?
+multiplayer.tournament.create.areyousureyouwanttoupdate,이 토너먼트를 업데이트하시겠습니까?
+multiplayer.tournament.create.createtournament,토너먼트 생성
+multiplayer.tournament.create.descriptionshouldnotbeempty,설명 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.droneconfigusedisnotavailableonyoursystem,이 토너먼트에 사용되는 드론 구성을 시스템에서 사용할 수 없습니다.
+multiplayer.tournament.create.eliminationsize.playercount,{[NrOfPlayers]}명[i2p_One]{[NrOfPlayers]}명
+multiplayer.tournament.create.enddateshouldbeinformat,종료 날짜 형식은 '{0}'이어야 합니다.
+multiplayer.tournament.create.maxsavedtryoutshouldnotbeempty,최대 저장 트라이아웃 수 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.raceusedisnotavailableonyoursystem,이 토너먼트에 사용되는 레이스를 시스템에서 사용할 수 없습니다.
+multiplayer.tournament.create.rechargetimeshouldnotbeempty,충전 시간 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.rechargetryoutshouldnotbeempty,충전 트라이아웃 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.selectedenvironmentisnull,선택된 환경이 비어 있습니다.
+multiplayer.tournament.create.selectedraceisnull,선택된 레이스가 비어 있습니다.
+multiplayer.tournament.create.selectedtrackisnull,선택된 트랙이 비어 있습니다.
+multiplayer.tournament.create.startdateshouldbeinformat,시작 날짜 형식은 '{0}'이어야 합니다.
+multiplayer.tournament.create.titleshouldnotbeempty,제목 필드는 비워둘 수 없습니다.
+multiplayer.tournament.create.trackisnotavailableonyoursystem,이 토너먼트에 사용되는 트랙을 시스템에서 사용할 수 없습니다.
+multiplayer.tournament.create.updatetournament,토너먼트 업데이트
+multiplayer.tournament.details.comingsoon,곧 시작
+multiplayer.tournament.details.comingup,예정됨
+multiplayer.tournament.details.endedontime,{0}에 종료됨
+multiplayer.tournament.details.knockout,탈락전
+multiplayer.tournament.details.leaderboard,리더보드
+multiplayer.tournament.details.numberofpilots,{0}명의 파일럿
+multiplayer.tournament.details.running,진행 중
+multiplayer.tournament.details.status.daysleft,{0} ({[Amount]}일 남음)[i2p_One]{0} ({[Amount]}일 남음)
+multiplayer.tournament.details.status.hoursleft,{0} ({[Amount]}시간 남음)[i2p_One]{0} ({[Amount]}시간 남음)
+multiplayer.tournament.details.status.minutesleft,{0} ({[Amount]}분 남음)[i2p_One]{0} ({[Amount]}분 남음)
+multiplayer.tournament.details.status.secondsleft,{0} ({[Amount]}초 남음)[i2p_One]{0} ({[Amount]}초 남음)
+multiplayer.tournament.details.timeleft,{0} ({1} 남음)
+multiplayer.tournament.details.unknown,알 수 없음
+multiplayer.tournament.entertournament,토너먼트 참가
+multiplayer.tournament.failedtoenter.description,토너먼트 참가에 실패했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournament.failedtoenter.notqualified,이 토너먼트에 참가할 자격이 없습니다.
+multiplayer.tournament.leaderboard.details.tryouts,트라이아웃: {0}
+multiplayer.tournament.leaderboard.loadingtryouts,트라이아웃 불러오는 중
+multiplayer.tournament.leaderboard.loadingtryoutsfailed.description,남은 트라이아웃을 불러오지 못했습니다. 현재는 새 트라이아웃을 등록할 수 없습니다.
+multiplayer.tournament.leaderboard.loadingtryoutsfailed.header,트라이아웃 불러오기 실패
+multiplayer.tournament.leaderboard.notryoutsavailable.description,현재 등록 가능한 트라이아웃이 더 이상 없습니다.
+multiplayer.tournament.leaderboard.notryoutsavailable.header,더 이상 사용 가능한 트라이아웃 없음
+multiplayer.tournament.leaderboard.rechargetime,{0} 후 충전
+multiplayer.tournament.leaderboard.registertryout.description,사용 가능한 남은 트라이아웃이 {0}개 있습니다. 다른 트라이아웃을 등록하시겠습니까?
+multiplayer.tournament.leaderboard.registertryout.header,트라이아웃 등록
+multiplayer.tournament.leaderboard.tryoutasavailable,{0}개 사용 가능
+multiplayer.tournament.leaderboard.tryoutlimit.header,트라이아웃 제한
+multiplayer.tournament.leaderboard.tryoutlimit.warning,"이 토너먼트에는 트라이아웃 제한이 있습니다! 충돌하거나 기권하면 기회 하나를 낭비하게 됩니다.
 
-Do you want to continue?"
-multiplayer.tournament.leaderboard.tryoutregistrationfailed.description,Failed to register your tryout. Try again later.
-multiplayer.tournament.leaderboard.tryoutregistrationfailed.header,Tryout registration failed
-multiplayer.tournament.leaderboard.tryoutregistrationsuccess.description,Successfully registered a new tryout. Good luck!
-multiplayer.tournament.leaderboard.tryoutregistrationsuccess.header,Tryout registration success
-multiplayer.tournament.leaderboard.tryoutsavailable,{[Amount]} tryouts available[i2p_One]{[Amount]} tryout available
-multiplayer.tournament.leaderboard.unavailable,Unavailable
-multiplayer.tournament.leaderboard.unlimited,unlimited
-multiplayer.tournament.modifiers.batterymanagementenabled,Battery management enabled
-multiplayer.tournament.modifiers.cameranoiseenabled,Camera noise enabled
-multiplayer.tournament.modifiers.firstpersonview,Fist person view
-multiplayer.tournament.modifiers.godmodedisabled,Godmode disabled
-multiplayer.tournament.modifiers.rewinddisabled,Rewind disabled
-multiplayer.tournament.refreshingdots,Refreshing...
-multiplayer.tournament.rules.acknowledge,"By entering this tournament, you acknowledge to have read the rules that apply to this tournament and will <b>respect</b> these <b>rules</b> in view of <b>fair play</b> and <b>competition</b>."
-multiplayer.tournament.rules.header,Tournament Rules
-multiplayer.tournament.rules.view,"Before taking part in this tournament, please <b>review</b> the tournament <b>rules</b> at least once."
-multiplayer.tournament.storeuptoxtryouts,Store up to {[Amount]} tryouts[i2p_One]Store up to {[Amount]} tryout
-multiplayer.tournament.tryoutrechargeintime,Tryout recharge in {0}:{1}:{2}
-multiplayer.tournament.tryoutrechargenotavailable,Tryout recharge not available
-multiplayer.tournament.tryouts,{[Amount]} tryouts[i2p_One]{[Amount]} tryout
-multiplayer.tournament.update.updatestatus.description,Are you sure you want to update the tournament status?
-multiplayer.tournament.update.updatestatus.header,Update Status
-multiplayer.tournament.viewrules,View rules
-multiplayer.tournament.xtryoutseveryx,{0} every {1}
-multiplayer.tournaments.admin.copysettingsfromfinals,Copy
-multiplayer.tournaments.admin.createfailedinsufficientprivileges,Failed to create the tournament because of insufficient privileges.
-multiplayer.tournaments.admin.createfailedprocessing,Something went wrong while processing the tournament data. Try again later.
-multiplayer.tournaments.admin.createfailedunknown,Failed to create the tournament due to an unknown reason. Try again later
-multiplayer.tournaments.admin.deletefailed.header,Tournament Deletion Failed
-multiplayer.tournaments.admin.deletefailedinsufficientprivileges,Failed to delete the tournament because of insufficient privileges.
-multiplayer.tournaments.admin.deletefailedprocessing,Something went wrong while processing the tournament data. Try again later.
-multiplayer.tournaments.admin.deletefailedunknown,Failed to delete the tournament due to an unknown reason. Try again later
-multiplayer.tournaments.admin.deletetournament.description,Are you sure you wish to delete tournament <b>{0}</b>? This action cannot be undone.
-multiplayer.tournaments.admin.deletetournament.header,Delete tournament
-multiplayer.tournaments.admin.elimination.double.description,Players may lose a game at most once. Losing players will drop to a losers' bracket and have another chance to stay in the competition. This type of elimination may also have extended finals.
-multiplayer.tournaments.admin.elimination.nrofheats,This tournament will have {[NrOfHeats]} heats in its elimination phase.[i2p_One]This tournament will have {[NrOfHeats]} heat in its elimination phase.
-multiplayer.tournaments.admin.elimination.single.description,Players who lose will be eliminated immediately from the tournament.
-multiplayer.tournaments.admin.eliminationsettings,Elimination settings
-multiplayer.tournaments.admin.eliminationsize,Size
-multiplayer.tournaments.admin.eliminationtype,Type
-multiplayer.tournaments.admin.error,Error
-multiplayer.tournaments.admin.failed.header,Tournament Creation Failed
-multiplayer.tournaments.admin.poolsize,Pool size
-multiplayer.tournaments.admin.poolsize.description,"The size of the pool in which players will compete against each other. At the end of a heat, the top half of the pool will advance to the next heat. The bottom half is eliminated."
-multiplayer.tournaments.admin.selecttournamenttype.description,Select a tournament type to begin configuring the tournament's settings.
-multiplayer.tournaments.admin.sendinfoerror,"Something went wrong while sending the tournament info to the server,"
-multiplayer.tournaments.admin.sendupdateinfoerror,"Something went wrong while sending the update info to the server,"
-multiplayer.tournaments.admin.tournamentcreation.header,Tournament Creation
-multiplayer.tournaments.admin.tournamentdeletion.description,Successfully deleted the tournament!
-multiplayer.tournaments.admin.tournamentdeletion.header,Tournament Deletion
-multiplayer.tournaments.admin.tournamentdescription.header,Successfully created the tournament!
-multiplayer.tournaments.admin.tournamenttype.elimination.description,"Players will compete in small pools against each other in a series of heats where winners will face each other, and losers will drop out."
-multiplayer.tournaments.admin.tournamenttype.leaderboard.description,Players will compete for a limited time to get the best score on a shared leaderboard.
-multiplayer.tournaments.admin.updatedescription,Successfully updated the tournament!
-multiplayer.tournaments.admin.updatefailed.header,Tournament Update Failed
-multiplayer.tournaments.admin.updatefailedinsufficientprivileges,Failed to update the tournament because of insufficient privileges.
-multiplayer.tournaments.admin.updatefailedprocessing,Something went wrong while processing the tournament data. Try again later.
-multiplayer.tournaments.admin.updatefailedunknown,Failed to update the tournament due to an unknown reason. Try again later
-multiplayer.tournaments.admin.updateheader,Tournament Update
-multiplayer.tournaments.admin.updatestatusfailed.header,Tournament Update Failed
-multiplayer.tournaments.admin.updatestatusfailedinsufficientprivileges,Failed to update the tournament status because of insufficient privileges.
-multiplayer.tournaments.admin.updatestatusfailedunknown,Failed to update the tournament status due to an unknown reason. Try again later
-multiplayer.tournaments.admin.updatestatusfailesprocessing,Something went wrong while processing the tournament status data. Try again later.
-multiplayer.tournaments.admin.updatetournamentstatus.description,Successfully updated the tournament status!
-multiplayer.tournaments.admin.updatetournamentstatus.header,Tournament Status
-multiplayer.tournaments.admin.useextendedfinals,Enable extended finals
-multiplayer.tournaments.admin.usequalifier,Enable qualifier
-multiplayer.tournaments.extendedfinalscondition,Extended finals will only be played if a player who didn't lose before would've lost in the finals.
-multiplayer.tournaments.heatinfo,Heat Info
-multiplayer.tournaments.tournamentinfo,Tournament Info
-multiplayer.tournamentselection.comingsoon,Coming soon
-multiplayer.tournamentselection.comingup,Coming up
-multiplayer.tournamentselection.day,day
-multiplayer.tournamentselection.days,days
-multiplayer.tournamentselection.endedondate,Ended on {0}
-multiplayer.tournamentselection.hour,hour
-multiplayer.tournamentselection.hours,hours
-multiplayer.tournamentselection.knockout,Elimination
-multiplayer.tournamentselection.leaderboard,Leaderboard
-multiplayer.tournamentselection.minute,minute
-multiplayer.tournamentselection.minutes,minutes
-multiplayer.tournamentselection.nodescription,No description.
-multiplayer.tournamentselection.running,Running
-multiplayer.tournamentselection.second,second
-multiplayer.tournamentselection.seconds,seconds
-multiplayer.tournamentselection.timeleft,{0} ({1} {2} left)
-multiplayer.tournamentselection.unknown,Unknown
+계속하시겠습니까?"
+multiplayer.tournament.leaderboard.tryoutregistrationfailed.description,트라이아웃 등록에 실패했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournament.leaderboard.tryoutregistrationfailed.header,트라이아웃 등록 실패
+multiplayer.tournament.leaderboard.tryoutregistrationsuccess.description,새 트라이아웃이 성공적으로 등록되었습니다. 행운을 빕니다!
+multiplayer.tournament.leaderboard.tryoutregistrationsuccess.header,트라이아웃 등록 성공
+multiplayer.tournament.leaderboard.tryoutsavailable,{[Amount]}개의 트라이아웃 사용 가능[i2p_One]{[Amount]}개의 트라이아웃 사용 가능
+multiplayer.tournament.leaderboard.unavailable,사용 불가
+multiplayer.tournament.leaderboard.unlimited,무제한
+multiplayer.tournament.modifiers.batterymanagementenabled,배터리 관리 활성화
+multiplayer.tournament.modifiers.cameranoiseenabled,카메라 노이즈 활성화
+multiplayer.tournament.modifiers.firstpersonview,일인칭 시점
+multiplayer.tournament.modifiers.godmodedisabled,갓 모드 비활성화
+multiplayer.tournament.modifiers.rewinddisabled,되감기 비활성화
+multiplayer.tournament.refreshingdots,새로고침 중...
+multiplayer.tournament.rules.acknowledge,"이 토너먼트에 참가함으로써, 해당 토너먼트에 적용되는 규칙을 읽었으며 <b>페어 플레이</b>와 <b>경쟁</b>의 관점에서 이 <b>규칙</b>을 <b>존중</b>할 것임을 확인합니다."
+multiplayer.tournament.rules.header,토너먼트 규칙
+multiplayer.tournament.rules.view,"이 토너먼트에 참가하기 전에 토너먼트 <b>규칙</b>을 최소 한 번은 <b>검토</b>해 주세요."
+multiplayer.tournament.storeuptoxtryouts,최대 {[Amount]}개의 트라이아웃 저장 가능[i2p_One]최대 {[Amount]}개의 트라이아웃 저장 가능
+multiplayer.tournament.tryoutrechargeintime,{0}:{1}:{2} 후 트라이아웃 충전
+multiplayer.tournament.tryoutrechargenotavailable,트라이아웃 충전 불가
+multiplayer.tournament.tryouts,{[Amount]}개의 트라이아웃[i2p_One]{[Amount]}개의 트라이아웃
+multiplayer.tournament.update.updatestatus.description,토너먼트 상태를 업데이트하시겠습니까?
+multiplayer.tournament.update.updatestatus.header,상태 업데이트
+multiplayer.tournament.viewrules,규칙 보기
+multiplayer.tournament.xtryoutseveryx,{1}마다 {0}
+multiplayer.tournaments.admin.copysettingsfromfinals,복사
+multiplayer.tournaments.admin.createfailedinsufficientprivileges,권한이 부족하여 토너먼트 생성에 실패했습니다.
+multiplayer.tournaments.admin.createfailedprocessing,토너먼트 데이터를 처리하는 동안 문제가 발생했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournaments.admin.createfailedunknown,알 수 없는 이유로 토너먼트 생성에 실패했습니다. 나중에 다시 시도해 주세요
+multiplayer.tournaments.admin.deletefailed.header,토너먼트 삭제 실패
+multiplayer.tournaments.admin.deletefailedinsufficientprivileges,권한이 부족하여 토너먼트 삭제에 실패했습니다.
+multiplayer.tournaments.admin.deletefailedprocessing,토너먼트 데이터를 처리하는 동안 문제가 발생했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournaments.admin.deletefailedunknown,알 수 없는 이유로 토너먼트 삭제에 실패했습니다. 나중에 다시 시도해 주세요
+multiplayer.tournaments.admin.deletetournament.description,토너먼트 <b>{0}</b>를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.
+multiplayer.tournaments.admin.deletetournament.header,토너먼트 삭제
+multiplayer.tournaments.admin.elimination.double.description,플레이어는 최대 한 번만 패배할 수 있습니다. 패배한 플레이어는 패자조로 내려가 경쟁에 남을 기회를 한 번 더 얻습니다. 이 유형의 탈락전은 확장 결승전을 포함할 수도 있습니다.
+multiplayer.tournaments.admin.elimination.nrofheats,이 토너먼트는 탈락 단계에 {[NrOfHeats]}개의 히트를 가집니다.[i2p_One]이 토너먼트는 탈락 단계에 {[NrOfHeats]}개의 히트를 가집니다.
+multiplayer.tournaments.admin.elimination.single.description,패배한 플레이어는 즉시 토너먼트에서 탈락합니다.
+multiplayer.tournaments.admin.eliminationsettings,탈락전 설정
+multiplayer.tournaments.admin.eliminationsize,크기
+multiplayer.tournaments.admin.eliminationtype,유형
+multiplayer.tournaments.admin.error,오류
+multiplayer.tournaments.admin.failed.header,토너먼트 생성 실패
+multiplayer.tournaments.admin.poolsize,풀 크기
+multiplayer.tournaments.admin.poolsize.description,"플레이어들이 서로 경쟁하는 풀의 크기입니다. 한 히트가 끝나면 상위 절반은 다음 히트로 진출하고, 하위 절반은 탈락합니다."
+multiplayer.tournaments.admin.selecttournamenttype.description,토너먼트 설정 구성을 시작하려면 토너먼트 유형을 선택하세요.
+multiplayer.tournaments.admin.sendinfoerror,"토너먼트 정보를 서버로 보내는 중 문제가 발생했습니다."
+multiplayer.tournaments.admin.sendupdateinfoerror,"업데이트 정보를 서버로 보내는 중 문제가 발생했습니다."
+multiplayer.tournaments.admin.tournamentcreation.header,토너먼트 생성
+multiplayer.tournaments.admin.tournamentdeletion.description,토너먼트가 성공적으로 삭제되었습니다!
+multiplayer.tournaments.admin.tournamentdeletion.header,토너먼트 삭제
+multiplayer.tournaments.admin.tournamentdescription.header,토너먼트가 성공적으로 생성되었습니다!
+multiplayer.tournaments.admin.tournamenttype.elimination.description,"플레이어들은 여러 히트에 걸쳐 작은 풀 단위로 경쟁하며, 승자는 다음 승자들과 맞붙고 패자는 탈락합니다."
+multiplayer.tournaments.admin.tournamenttype.leaderboard.description,플레이어들은 제한된 시간 동안 공유 리더보드에서 최고 점수를 얻기 위해 경쟁합니다.
+multiplayer.tournaments.admin.updatedescription,토너먼트가 성공적으로 업데이트되었습니다!
+multiplayer.tournaments.admin.updatefailed.header,토너먼트 업데이트 실패
+multiplayer.tournaments.admin.updatefailedinsufficientprivileges,권한이 부족하여 토너먼트 업데이트에 실패했습니다.
+multiplayer.tournaments.admin.updatefailedprocessing,토너먼트 데이터를 처리하는 동안 문제가 발생했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournaments.admin.updatefailedunknown,알 수 없는 이유로 토너먼트 업데이트에 실패했습니다. 나중에 다시 시도해 주세요
+multiplayer.tournaments.admin.updateheader,토너먼트 업데이트
+multiplayer.tournaments.admin.updatestatusfailed.header,토너먼트 업데이트 실패
+multiplayer.tournaments.admin.updatestatusfailedinsufficientprivileges,권한이 부족하여 토너먼트 상태 업데이트에 실패했습니다.
+multiplayer.tournaments.admin.updatestatusfailedunknown,알 수 없는 이유로 토너먼트 상태 업데이트에 실패했습니다. 나중에 다시 시도해 주세요
+multiplayer.tournaments.admin.updatestatusfailesprocessing,토너먼트 상태 데이터를 처리하는 동안 문제가 발생했습니다. 나중에 다시 시도해 주세요.
+multiplayer.tournaments.admin.updatetournamentstatus.description,토너먼트 상태가 성공적으로 업데이트되었습니다!
+multiplayer.tournaments.admin.updatetournamentstatus.header,토너먼트 상태
+multiplayer.tournaments.admin.useextendedfinals,확장 결승전 활성화
+multiplayer.tournaments.admin.usequalifier,예선 활성화
+multiplayer.tournaments.extendedfinalscondition,확장 결승전은 이전에 패배하지 않은 플레이어가 결승에서 패배했을 때만 진행됩니다.
+multiplayer.tournaments.heatinfo,히트 정보
+multiplayer.tournaments.tournamentinfo,토너먼트 정보
+multiplayer.tournamentselection.comingsoon,곧 시작
+multiplayer.tournamentselection.comingup,예정됨
+multiplayer.tournamentselection.day,일
+multiplayer.tournamentselection.days,일
+multiplayer.tournamentselection.endedondate,{0}에 종료됨
+multiplayer.tournamentselection.hour,시간
+multiplayer.tournamentselection.hours,시간
+multiplayer.tournamentselection.knockout,탈락전
+multiplayer.tournamentselection.leaderboard,리더보드
+multiplayer.tournamentselection.minute,분
+multiplayer.tournamentselection.minutes,분
+multiplayer.tournamentselection.nodescription,설명 없음.
+multiplayer.tournamentselection.running,진행 중
+multiplayer.tournamentselection.second,초
+multiplayer.tournamentselection.seconds,초
+multiplayer.tournamentselection.timeleft,{0} ({1} {2} 남음)
+multiplayer.tournamentselection.unknown,알 수 없음
 multiplayer.trackselection.norace,No Race
 multiplayer.trackselection.notrack,No Track
 multiplayer.trackselection.status.checking,(checking)
