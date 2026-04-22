@@ -1458,7 +1458,7 @@ multiplayer.logmessage.youarenotsignedin,You are not signed in to {0}.
 multiplayer.logmessage.youwillbesenttolobbyreentertodownloadcontent,You will be sent to the lobby. Re-enter the room again to try and download the necessary content.
 multiplayer.moderation.banplayer.description,Are you sure you wish to ban player <b>{0}</b>? This will kick the player from the network and will deny any attempt to connect to the game again in the future.
 multiplayer.moderation.rewardgiftboxes.description,Reward player <b>{0}</b> with gift boxes.
-multiplayer.multiplayerlobby,Multiplayer Lobby
+multiplayer.multiplayerlobby,멀티플레이 로비
 multiplayer.newhost.systemlog,{0} is the new host of the game.
 multiplayer.proleague,Liftoff Pro League
 multiplayer.proleague.description,"The Liftoff Pro League is an initiative to help turn the top Liftoff players into professional Liftoff pilots. For those keen on making a name in the drone racing world, racing in Liftoff is as much a career choice as flying a real drone. The Liftoff Pro League will help you become a professional player by offering an e-sports service completely integrated into Liftoff."
@@ -2424,11 +2424,11 @@ singleplayer.tutorial.title,튜토리얼
 singleplayer.userlocalization.title,번역
 singleplayer.workbench.description,부러진 프로펠러를 교체하고 새 LiPo도 시험해 보세요. 원하는 조건에 꼭 맞는 레이싱 머신을 직접 조립해 보세요!
 singleplayer.workbench.title,워크벤치
-steam.blockedusername,Blocked user
-steam.notinitialized.description,"Liftoff could not connect to the Steam platform. Please start Liftoff through the Steam platform, or create a Liftoff shortcut through your Steam game library.
+steam.blockedusername,차단된 사용자
+steam.notinitialized.description,"Liftoff가 Steam 플랫폼에 연결하지 못했습니다. Steam 플랫폼을 통해 Liftoff를 시작하거나, Steam 게임 라이브러리에서 Liftoff 바로가기를 만들어 주세요.
 
-Liftoff will quit when closing this window."
-steam.notinitialized.header,Steam not initialized
+이 창을 닫으면 Liftoff가 종료됩니다."
+steam.notinitialized.header,Steam 초기화 안 됨
 store.desc.actioncam.actioncam,화질과 내구성이 뛰어나 많은 파일럿이 선호하는 카메라입니다.
 store.desc.actioncam.blank,액션캠 없음
 store.desc.actioncam.mobius,최고 해상도로 몇 시간이고 녹화하세요!
@@ -2641,165 +2641,165 @@ stunt.tightgapcleared,좁은 갭 통과
 stunt.upsidedown,거꾸로
 stunt.yawspin,요 스핀
 stunts.modifier.repetitive,반복됨
-targetservice.standalone,Stand-alone
+targetservice.standalone,독립 실행형
 targetservice.steam,Steam
-test2,Are you sure?
-time.month.01,January
-time.month.02,February
-time.month.03,March
-time.month.04,April
-time.month.05,May
-time.month.06,June
-time.month.07,July
-time.month.08,August
-time.month.09,September
-time.month.10,October
-time.month.11,November
-time.month.12,December
-time.unit.days,Days
-time.unit.hours,Hours
-tournament.qualifier.invitational.header,Invitational
-tournament.rule.environment.header,Environment:
-tournament.rule.gamemode.header,Game mode:
-tournament.rule.gamemodifier.header,Game modifiers:
-tournament.rule.nextupdate.header,Next update:
-tournament.rule.tryouts.header,Tryouts:
-tournament.rule.type.header,Type:
-tournament.scoreupdate.checkingleaderboard,Checking the leaderboard...
-tournament.scoreupdate.noimprovement,No score improvement.
-tournament.scoreupdate.scoreunchanged,Your score remains unchanged.
-tournament.scoreupdate.scoreupdated,Your score has been updated!
-tournament.scoreupdate.unknownupdatestatus,Unknown leaderboard status...
-tournament.scoreupdate.uploadrecordingprogress,Uploading your recording... ({0}%)
-tournament.scoreupdateerror,Failed to check the leaderboard.
-tournament.scoreupdateerror.error.competitivefeaturesdisabled,Competitive features are disabled.
-tournament.scoreupdateerror.error.invaliddronesetupused,"Your score was rejected due to using a drone setup with conflicting parts.
-Please fix the drone setup in the Workbench to resolve any conflicts."
-tournament.scoreupdateerror.leaderboardupdatefailed,Failed to update the leaderboard.
-tournament.scoreupdateerror.nonmatchingruleset,Your tournament ruleset does not match the expected ruleset.
-tournament.scoreupdateerror.nonmatchingsessionID,Your tournament session ID does not match the expected value.
-tournament.scoreupdateerror.recordinguploadfail,Something went wrong while uploading your recording.
-tournament.scoreupdateerror.unknownerror,An unknown error occurred while checking the leaderboard.
-tournament.scoreupdateerror.warning.invaliddronesetupused,"You're using a drone setup with conflicting parts. High scores placed using this drone setup will be rejected.
-Please fix the drone setup in the Workbench to resolve any conflicts."
-tournament.scoreupdaterror.uploadscorefailed,Failed to send your score to the leaderboard.
+test2,확실합니까?
+time.month.01,1월
+time.month.02,2월
+time.month.03,3월
+time.month.04,4월
+time.month.05,5월
+time.month.06,6월
+time.month.07,7월
+time.month.08,8월
+time.month.09,9월
+time.month.10,10월
+time.month.11,11월
+time.month.12,12월
+time.unit.days,일
+time.unit.hours,시간
+tournament.qualifier.invitational.header,초청전
+tournament.rule.environment.header,환경:
+tournament.rule.gamemode.header,게임 모드:
+tournament.rule.gamemodifier.header,게임 수정자:
+tournament.rule.nextupdate.header,다음 업데이트:
+tournament.rule.tryouts.header,트라이아웃:
+tournament.rule.type.header,유형:
+tournament.scoreupdate.checkingleaderboard,리더보드를 확인하는 중...
+tournament.scoreupdate.noimprovement,점수 향상이 없습니다.
+tournament.scoreupdate.scoreunchanged,점수가 변경되지 않았습니다.
+tournament.scoreupdate.scoreupdated,점수가 업데이트되었습니다!
+tournament.scoreupdate.unknownupdatestatus,알 수 없는 리더보드 상태...
+tournament.scoreupdate.uploadrecordingprogress,녹화 업로드 중... ({0}%)
+tournament.scoreupdateerror,리더보드를 확인하지 못했습니다.
+tournament.scoreupdateerror.error.competitivefeaturesdisabled,경쟁 기능이 비활성화되어 있습니다.
+tournament.scoreupdateerror.error.invaliddronesetupused,"서로 충돌하는 부품이 포함된 드론 구성을 사용해 점수가 거부되었습니다.
+충돌을 해결하려면 Workbench에서 드론 구성을 수정해 주세요."
+tournament.scoreupdateerror.leaderboardupdatefailed,리더보드를 업데이트하지 못했습니다.
+tournament.scoreupdateerror.nonmatchingruleset,토너먼트 규칙 세트가 예상 규칙 세트와 일치하지 않습니다.
+tournament.scoreupdateerror.nonmatchingsessionID,토너먼트 세션 ID가 예상 값과 일치하지 않습니다.
+tournament.scoreupdateerror.recordinguploadfail,녹화를 업로드하는 중 문제가 발생했습니다.
+tournament.scoreupdateerror.unknownerror,리더보드를 확인하는 중 알 수 없는 오류가 발생했습니다.
+tournament.scoreupdateerror.warning.invaliddronesetupused,"서로 충돌하는 부품이 포함된 드론 구성을 사용하고 있습니다. 이 드론 구성으로 기록한 최고 점수는 거부됩니다.
+충돌을 해결하려면 Workbench에서 드론 구성을 수정해 주세요."
+tournament.scoreupdaterror.uploadscorefailed,점수를 리더보드로 전송하지 못했습니다.
 tournament.supportedgamemodes.race,Race
-tournament.tournamentstate.closed,Closed
-tournament.tournamentstate.open,Open
-tournament.tournamentstate.preview,Preview
-tournament.tryoutmode.fixed,Fixed tryout
-tournament.tryoutmode.timed,Timed tryout
-tournaments.filter.all,All
-tournaments.filter.finished,Finished
-tournaments.filter.running,Running
-tournaments.filter.upcoming,Upcoming
-tournaments.knockout.term.finals,Finals
-tournaments.knockout.term.heat,Heat
-tournaments.knockout.term.losersonly,Elimination
-tournaments.knockout.term.quarterfinals,Quarter finals
-tournaments.knockout.term.semifinals,Semi-finals
-tournaments.lobby.Select,Select
-"tournaments.lobby.about,header",About
-tournaments.lobby.addprice,Add prize
-tournaments.lobby.backtomenu,Back to menu
-tournaments.lobby.banner,Banner
-tournaments.lobby.bracket.elimination,Elimination
-tournaments.lobby.bracket.extendedfinals,Extended Finals
-tournaments.lobby.bracket.qualifier,Qualifier
-tournaments.lobby.connection,Connection
-tournaments.lobby.connectionstatus,Connection status
-tournaments.lobby.create,Create
-tournaments.lobby.createtournament,Create tournament
-tournaments.lobby.description,Description
-tournaments.lobby.disablegodmode,Disable godmode
-tournaments.lobby.disablerewind,Disable rewind
-tournaments.lobby.drone,Drone
-tournaments.lobby.enablebatterymanagement,Enable battery management
-tournaments.lobby.enablecameranoise,Enable camera noise
-tournaments.lobby.enddate,End
-tournaments.lobby.environment,Environment
-tournaments.lobby.errorinformation,Error information
-tournaments.lobby.fixeddrone,Fixed drone setup
-tournaments.lobby.gamemode,Game mode
-tournaments.lobby.gamemodemodifiers,Game content & modifiers
-tournaments.lobby.generalinformation,General Information
-tournaments.lobby.ghost,Recording
-tournaments.lobby.jointournament,Join Tournament
-tournaments.lobby.leaderboard,Leaderboard
-tournaments.lobby.maxnumberofsavedtryouts,Max number of saved tryouts
-tournaments.lobby.maxsavedtryouts,Max saved tryouts
-tournaments.lobby.nodescriptionwasgivenforthistournament,No description was given for this tournament.
-tournaments.lobby.noentriesavailable,No entries available
-tournaments.lobby.noprizes,This tournament has no prizes.
-tournaments.lobby.noqualifications,This tournament has no qualifications.
-tournaments.lobby.norules,This tournament has no rules.
-tournaments.lobby.nosponsors.description,This tournament has no sponsors.
-tournaments.lobby.nosponsors.header,This tournament has no sponsors.
-tournaments.lobby.notryouts,This tournament has no tryouts.
-tournaments.lobby.numberoftryouts,Number of tryouts
-tournaments.lobby.numberoftryoutstorecharge,Number of tryouts to recharge
-tournaments.lobby.participants.header,Participants:
-tournaments.lobby.personalbest,Personal Best
-tournaments.lobby.player.header,Player
-tournaments.lobby.practice,Practice
-tournaments.lobby.prizes,Prizes
-tournaments.lobby.prizes.header,Prizes
-tournaments.lobby.puristmodeactive,Purist mode active
-tournaments.lobby.qualifications,Qualifications
-tournaments.lobby.qualifications.header,Qualifications
-tournaments.lobby.qualifiers.invitational.nodescription,No invitational description provided.
+tournament.tournamentstate.closed,종료됨
+tournament.tournamentstate.open,진행 중
+tournament.tournamentstate.preview,미리보기
+tournament.tryoutmode.fixed,고정 트라이아웃
+tournament.tryoutmode.timed,시간제 트라이아웃
+tournaments.filter.all,전체
+tournaments.filter.finished,종료됨
+tournaments.filter.running,진행 중
+tournaments.filter.upcoming,예정됨
+tournaments.knockout.term.finals,결승전
+tournaments.knockout.term.heat,히트
+tournaments.knockout.term.losersonly,탈락전
+tournaments.knockout.term.quarterfinals,8강전
+tournaments.knockout.term.semifinals,준결승전
+tournaments.lobby.Select,선택
+"tournaments.lobby.about,header",소개
+tournaments.lobby.addprice,상금 추가
+tournaments.lobby.backtomenu,메뉴로 돌아가기
+tournaments.lobby.banner,배너
+tournaments.lobby.bracket.elimination,탈락전
+tournaments.lobby.bracket.extendedfinals,확장 결승전
+tournaments.lobby.bracket.qualifier,예선
+tournaments.lobby.connection,연결
+tournaments.lobby.connectionstatus,연결 상태
+tournaments.lobby.create,생성
+tournaments.lobby.createtournament,토너먼트 생성
+tournaments.lobby.description,설명
+tournaments.lobby.disablegodmode,고드 모드 비활성화
+tournaments.lobby.disablerewind,리와인드 비활성화
+tournaments.lobby.drone,드론
+tournaments.lobby.enablebatterymanagement,배터리 관리 활성화
+tournaments.lobby.enablecameranoise,카메라 노이즈 활성화
+tournaments.lobby.enddate,종료
+tournaments.lobby.environment,환경
+tournaments.lobby.errorinformation,오류 정보
+tournaments.lobby.fixeddrone,고정 드론 구성
+tournaments.lobby.gamemode,게임 모드
+tournaments.lobby.gamemodemodifiers,게임 콘텐츠 및 수정자
+tournaments.lobby.generalinformation,일반 정보
+tournaments.lobby.ghost,녹화
+tournaments.lobby.jointournament,토너먼트 참가
+tournaments.lobby.leaderboard,리더보드
+tournaments.lobby.maxnumberofsavedtryouts,저장 가능한 트라이아웃 최대 수
+tournaments.lobby.maxsavedtryouts,최대 저장 트라이아웃 수
+tournaments.lobby.nodescriptionwasgivenforthistournament,이 토너먼트에는 설명이 없습니다.
+tournaments.lobby.noentriesavailable,항목이 없습니다
+tournaments.lobby.noprizes,이 토너먼트에는 상금이 없습니다.
+tournaments.lobby.noqualifications,이 토너먼트에는 예선이 없습니다.
+tournaments.lobby.norules,이 토너먼트에는 규칙이 없습니다.
+tournaments.lobby.nosponsors.description,이 토너먼트에는 스폰서가 없습니다.
+tournaments.lobby.nosponsors.header,이 토너먼트에는 스폰서가 없습니다.
+tournaments.lobby.notryouts,이 토너먼트에는 트라이아웃이 없습니다.
+tournaments.lobby.numberoftryouts,트라이아웃 수
+tournaments.lobby.numberoftryoutstorecharge,충전할 트라이아웃 수
+tournaments.lobby.participants.header,참가자:
+tournaments.lobby.personalbest,개인 최고 기록
+tournaments.lobby.player.header,플레이어
+tournaments.lobby.practice,연습
+tournaments.lobby.prizes,상금
+tournaments.lobby.prizes.header,상금
+tournaments.lobby.puristmodeactive,순수 모드 활성화됨
+tournaments.lobby.qualifications,예선
+tournaments.lobby.qualifications.header,예선
+tournaments.lobby.qualifiers.invitational.nodescription,초청전 설명이 제공되지 않았습니다.
 tournaments.lobby.race,Race
-tournaments.lobby.rank,Rank
-tournaments.lobby.rechargeamount,Recharge amount
-tournaments.lobby.rechargetime,Recharge time
-tournaments.lobby.remove,Remove
-tournaments.lobby.removetournament,Remove tournament
-tournaments.lobby.rules,Rules
-tournaments.lobby.rules.header,Rules
-tournaments.lobby.sponsorname.header,Name:
-tournaments.lobby.sponsors,Sponsors
-tournaments.lobby.sponsors.header,Sponsors
-tournaments.lobby.sponsorwebpage.header,Webpage:
-tournaments.lobby.start,Start
-tournaments.lobby.status,Status
-tournaments.lobby.status.header,Status:
-tournaments.lobby.time,Time
-tournaments.lobby.title,Title
-tournaments.lobby.tournamenthasnoprizes,This tournament has no prizes.
-tournaments.lobby.tournamenthasnoqualifications,This tournament has no qualifications.
-tournaments.lobby.tournamentname,Tournament name
-tournaments.lobby.tournaments,Tournaments
+tournaments.lobby.rank,순위
+tournaments.lobby.rechargeamount,충전 수량
+tournaments.lobby.rechargetime,충전 시간
+tournaments.lobby.remove,제거
+tournaments.lobby.removetournament,토너먼트 제거
+tournaments.lobby.rules,규칙
+tournaments.lobby.rules.header,규칙
+tournaments.lobby.sponsorname.header,이름:
+tournaments.lobby.sponsors,스폰서
+tournaments.lobby.sponsors.header,스폰서
+tournaments.lobby.sponsorwebpage.header,웹페이지:
+tournaments.lobby.start,시작
+tournaments.lobby.status,상태
+tournaments.lobby.status.header,상태:
+tournaments.lobby.time,시간
+tournaments.lobby.title,제목
+tournaments.lobby.tournamenthasnoprizes,이 토너먼트에는 상금이 없습니다.
+tournaments.lobby.tournamenthasnoqualifications,이 토너먼트에는 예선이 없습니다.
+tournaments.lobby.tournamentname,토너먼트 이름
+tournaments.lobby.tournaments,토너먼트
 tournaments.lobby.track,Track
-tournaments.lobby.tryout,Tryout
-tournaments.lobby.tryoutmode,Tryout mode
-tournaments.lobby.tryouts.header,Tryouts
-tournaments.lobby.type.header,Type:
-tournaments.lobby.updatestatus,Update status
-tournaments.lobby.updatetournament,Update tournament
-tournaments.lobby.urltobanner,URL to banner
-tournaments.lobby.usetryouts,Use tryouts
-tournaments.lobby.viewreplay,View Replay
-tournaments.signin.accept,Accept
-tournaments.signin.byclickingacceptyouacknowledgeterms,"By clicking ""Accept"", you acknowledge that you have read and understand the terms of service as described above."
-tournaments.signin.connect,Connect
-tournaments.signin.connection,Connection
-tournaments.signin.connectionstatus,Connection status
-tournaments.signin.connectmultiplayeronly,Connect (multiplayer only)
-tournaments.signin.connectwithproaccount.description,Connect your multiplayer experience with your Liftoff Pro account. Keep track of your flight progress and compete in the Liftoff Pro League.
-tournaments.signin.createliftoffproaccount,Create Liftoff Pro account
-tournaments.signin.dontneedproaccount.description,You don't need a Liftoff Pro account to enjoy the Liftoff multiplayer. Just connect and play.
-tournaments.signin.forgotpassword,Forgot Password?
-tournaments.signin.forgotpassword.description,"Did you forget your password? Enter your username or e-mail address of your Liftoff Pro account, and we'll send you instructions on how to reset your password."
-tournaments.signin.password,Password
-tournaments.signin.rememberme,Remember me
-tournaments.signin.requestpasswordreset,Request a password reset
-tournaments.signin.resetpassword,Reset Password
-tournaments.signin.signin,Sign in
-tournaments.signin.signinautomatically,Sign in automatically
-tournaments.signin.signinproaccount,Sign in (Liftoff Pro account)
-tournaments.signin.termsofserviceupdated,Terms of service - Updated
-tournaments.signin.usernameoremail,Username or e-mail
-tournaments.updatetournament.announce,Announce tournament on public channels.
+tournaments.lobby.tryout,트라이아웃
+tournaments.lobby.tryoutmode,트라이아웃 모드
+tournaments.lobby.tryouts.header,트라이아웃
+tournaments.lobby.type.header,유형:
+tournaments.lobby.updatestatus,상태 업데이트
+tournaments.lobby.updatetournament,토너먼트 업데이트
+tournaments.lobby.urltobanner,배너 URL
+tournaments.lobby.usetryouts,트라이아웃 사용
+tournaments.lobby.viewreplay,리플레이 보기
+tournaments.signin.accept,동의
+tournaments.signin.byclickingacceptyouacknowledgeterms,"""동의""를 클릭하면 위에 설명된 서비스 약관을 읽고 이해했음을 인정하게 됩니다."
+tournaments.signin.connect,연결
+tournaments.signin.connection,연결
+tournaments.signin.connectionstatus,연결 상태
+tournaments.signin.connectmultiplayeronly,연결(멀티플레이 전용)
+tournaments.signin.connectwithproaccount.description,Liftoff Pro 계정과 멀티플레이 경험을 연결하세요. 비행 진행 상황을 추적하고 Liftoff Pro League에서 경쟁할 수 있습니다.
+tournaments.signin.createliftoffproaccount,Liftoff Pro 계정 만들기
+tournaments.signin.dontneedproaccount.description,Liftoff 멀티플레이를 즐기기 위해 Liftoff Pro 계정은 필요하지 않습니다. 그냥 연결하고 플레이하세요.
+tournaments.signin.forgotpassword,비밀번호를 잊으셨나요?
+tournaments.signin.forgotpassword.description,"비밀번호를 잊으셨나요? Liftoff Pro 계정의 사용자 이름 또는 이메일 주소를 입력하면 비밀번호를 재설정하는 방법을 보내드립니다."
+tournaments.signin.password,비밀번호
+tournaments.signin.rememberme,로그인 상태 유지
+tournaments.signin.requestpasswordreset,비밀번호 재설정 요청
+tournaments.signin.resetpassword,비밀번호 재설정
+tournaments.signin.signin,로그인
+tournaments.signin.signinautomatically,자동으로 로그인
+tournaments.signin.signinproaccount,Liftoff Pro 계정으로 로그인
+tournaments.signin.termsofserviceupdated,서비스 약관 - 업데이트됨
+tournaments.signin.usernameoremail,사용자 이름 또는 이메일
+tournaments.updatetournament.announce,공개 채널에 토너먼트를 알립니다.
 trackbuilder.availableinrace,Available in Race
 trackbuilder.hiddeninrace,Hidden in Race
 trackeditor.backtotrackbuilder,Track Builder로 돌아가기
