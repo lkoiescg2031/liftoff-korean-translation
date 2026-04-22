@@ -2429,181 +2429,182 @@ steam.notinitialized.description,"Liftoff could not connect to the Steam platfor
 
 Liftoff will quit when closing this window."
 steam.notinitialized.header,Steam not initialized
-store.desc.actioncam.actioncam,The picture quality and robustness make this camera a popular choice.
-store.desc.actioncam.blank,No action cam
-store.desc.actioncam.mobius,Record for hours at the highest resolution!
-store.desc.actioncam.redotmini,Record all your footage at the highest quality!
-store.desc.actioncam.rotorriottanqmount,Record all your footage at the highest quality!
-store.desc.actioncam.session,"A compact, hi-def camera."
-store.desc.antenna.antennasoupape,Small 5.8 GHz antenna.
-store.desc.antenna.antennasoupapemicro,Small 5.7 GHz antenna.
-store.desc.antenna.antennasoupapev2,Small 5.8 GHz antenna.
-store.desc.antenna.antennast2,Small 5.8 GHz antenna.
-store.desc.antenna.antennast2straight,Small 5.8 GHz antenna.
-store.desc.antenna.blank,No antenna
-store.desc.antenna.pagodacirc,5.8 GHz antenna.
-store.desc.antenna.pagodacircangled,5.8 GHz angled antenna.
-store.desc.antenna.pagodalhcp,5.8 GHz LHCP Antenna.
-store.desc.antenna.pagodalhcpangled,5.8 GHz angled LHCP Antenna.
-store.desc.antenna.pagodarhcp,5.8 GHz RHCP Antenna.
-store.desc.antenna.pagodarhcpangled,5.8 GHz angled RHCP Antenna.
-store.desc.antenna.vortex,Standard Vortex antenna
-store.desc.antenna.vortexcirc,Popular antenna.
-store.desc.antenna.vortexcircangled,Popular angled antenna.
-store.desc.antenna.vortexlhcp,Popular antenna. Left hand circular polarized.
-store.desc.antenna.vortexlhcpangled,Popular angled antenna. Left hand circular polarized.
-store.desc.antenna.vortexopen,Antenna without a cap.
-store.desc.antenna.vortexrhcp,Popular antenna. Right hand circular polarized.
-store.desc.antenna.vortexrhcpangled,Popular angled antenna. Right hand circular polarized.
-store.desc.battery.AmpAgeBattery,The perfect battery for a 150 frame.
-store.desc.battery.HyperionBattery,Lightweight high-performance battery for mini quads.
-store.desc.battery.HyperionBattery2S,Lightweight battery for mini quads.
-store.desc.battery.MultiStarRaceSpec,A powerful battery specifically designed for drone racing.
-store.desc.battery.MultiStarRaceSpec5s,A 5 cell designed for drone racing.
-store.desc.battery.MultiStarRaceSpec6s,A 6 cell battery designed for drone racing.
-store.desc.battery.TurnigyASpecG2,"A mid-range, high capacity battery."
-store.desc.battery.TurnigyBolt,Shockingly great.
-store.desc.battery.TurnigyNanoTech,Top-of-the-line battery that uses cutting-edge technology.
-store.desc.battery.blank,No battery
-store.desc.battery.vortex,Standard Vortex battery
-store.desc.camera.fibonacci4,Standard camera for the Fibonacci
-store.desc.camera.fx80micro,"A tiny, lightweight camera with integrated antenna."
-store.desc.camera.redot,A durable camera with a 2.8mm lens.
-store.desc.camera.redotmini,A small camera with a 2.3mm lens.
-store.desc.camera.redotnano,A 14x14mm camera.
-store.desc.camera.redotsplitmini,A 19x19mm camera.
-store.desc.camera.rotorriot,A high-quality wide angle FPV camera.
-store.desc.camera.skycopter,Standard Skycopter camera
-store.desc.camera.vortex,Standard Vortex camera
-store.desc.camera.vortex150,Vortex 150 camera.
-store.desc.frame.TealSport,"A highly-durable, modular frame that allows you to quick-swap batteries and motor sets faster than any other performance drone."
-store.desc.frame.aether,"Aether was designed by Sander Nysten with the objective of creating an innovative, aesthetically pleasing and compact drone."
-store.desc.frame.armattanchameleonframe,"The Armattan Chameleon is a lovingly calculated, dedicated freestyle frame developed and produced by Armattan Quads."
-store.desc.frame.armattangeckoframe,"Designed around the best principals that brought the Japalura and the Rooster to the front of their fields, this frame gives you the best protection and quality."
-store.desc.frame.armattanmongooseframe,"The Armattan Mongoose is one of Armattan's Lite series of frames, and is built to be inexpensive, strong, and light."
-store.desc.frame.armattanroosterframe,"The Armattan Rooster takes the Chameleon concept to a completely new level. Stronger materials, improved design and better provisions coupled with the ability to swap arms with ease."
-store.desc.frame.borrum,The Borrum is an all-purpose X-frame.
-store.desc.frame.botgrinderframe,"Designed by the one and only Botgrinder aka Doug Crasher, the BOT5 is made to take ruthless abuse and silly crashes and laugh it off."
-store.desc.frame.cinegon,"The Cinegon is crafted from durable carbon fiber and enhanced with 3D-printed components for precision and versatility. Designed by Xistence Innovation, a highly active and respected member of the FPV community."
-store.desc.frame.djifpv,"Sleek and aerodynamic, the DJI FPV aircraft delivers powerful propulsion, battery life and wind resistance, making this system as capable as it is visually stunning."
-store.desc.frame.dquadaddiction,The Addiction is a middle-weight frame which offers incredible strength. Continuously improving the design has led to the point where this frame is one of the strongest out there while still being sub 100 grams.
-store.desc.frame.dquadfixation,"Due to its unique milled arm channels on the main and bottom plates, the frame is very strong and very light! Made available worldwide at your favorite FPV stores!"
-store.desc.frame.dquadlrx,"T​op mount freestyle frame that is fast, compact, agile and is made from the highest quality carbon in the market today!"
-store.desc.frame.dquadobsession5inch,The combination of aircraft grade aluminum and carbon fiber not only makes this frame super fancy but also really strong!
-store.desc.frame.dquadobsession6inch,The combination of aircraft grade aluminum and carbon fiber not only makes this frame super fancy but also really strong! Longer arms allow for 6 inch prop.
-store.desc.frame.fibonacci4,This frame is based around two vertical 1mm carbon fiber plates with 3d-printed parts holding them together. All necessary components (including FPV) fit in between.
-store.desc.frame.gremlinboar,Flite Test's line of frames that is laminated delrin to give an awesome look.
-store.desc.frame.hyphy,"hy phy / noun
- 1. extremely rowdy, excited, or energetic. ""the whole group is gonna get super hyphy for Adam's frame"""
-store.desc.frame.khole,Khole (noun) - An intense out of body experience where one is sometimes connected with spirits. Only a higher state of consciousness could have brought this frame to realization.
-store.desc.frame.luma5,"The Luma 5 is the ultimate all-round Freestyle quad. Its squished X symmetrical geometry ensures balanced control on all axes, and its ideal flight weight makes it perfect for maneuvering around proximity subjects."
-store.desc.frame.mistralakframe,"A new French, squished 215mm frame, designed with two bottom plates and 6mm thick arms. Every part is cut from very dense ""silky"" carbon, made in Europe. The AK is a high quality, super sturdy frame, made by the passionate pilots of Team Mistral."
-store.desc.frame.racewhoop,Open source 3D printable frame by Freezillion.
-store.desc.frame.rotorriotcl1,"The CL1, was designed in collaboration with the Rotor Riot community. They took pilots’ input and implemented what they wanted into this design."
-store.desc.frame.rotorriottanq,"Let's Fly RC wanted one thing out of his new frame more than anything else, and that's for it to survive any and all damage. Just like a tank."
-store.desc.frame.skycopter,Skycopter offers an innovative approach to industrial inspections and first response emergency situations.
-store.desc.frame.sleek,"True to its name, this eye-catching, glowing frame designed by Sander Nysten is best suited for recreational flight due to its fixed camera."
-store.desc.frame.talonsvx220,The unique design of the Talon's arms creates minimum air turbulence and superior handling performance at high speeds.
-store.desc.frame.ummagawdremix,Tommy Tibajia dreamed of a truly balanced quad with most of the weight as close to the CG as possible. His dream has come true.
+store.desc.actioncam.actioncam,화질과 내구성이 뛰어나 많은 파일럿이 선호하는 카메라입니다.
+store.desc.actioncam.blank,액션캠 없음
+store.desc.actioncam.mobius,최고 해상도로 몇 시간이고 녹화하세요!
+store.desc.actioncam.redotmini,모든 영상을 최고 화질로 녹화하세요!
+store.desc.actioncam.rotorriottanqmount,모든 영상을 최고 화질로 녹화하세요!
+store.desc.actioncam.session,"작고 선명한 고화질 카메라입니다."
+store.desc.antenna.antennasoupape,작은 5.8 GHz 안테나입니다.
+store.desc.antenna.antennasoupapemicro,작은 5.7 GHz 안테나입니다.
+store.desc.antenna.antennasoupapev2,작은 5.8 GHz 안테나입니다.
+store.desc.antenna.antennast2,작은 5.8 GHz 안테나입니다.
+store.desc.antenna.antennast2straight,작은 5.8 GHz 안테나입니다.
+store.desc.antenna.blank,안테나 없음
+store.desc.antenna.pagodacirc,5.8 GHz 안테나입니다.
+store.desc.antenna.pagodacircangled,5.8 GHz 각도형 안테나입니다.
+store.desc.antenna.pagodalhcp,5.8 GHz LHCP 안테나입니다.
+store.desc.antenna.pagodalhcpangled,5.8 GHz 각도형 LHCP 안테나입니다.
+store.desc.antenna.pagodarhcp,5.8 GHz RHCP 안테나입니다.
+store.desc.antenna.pagodarhcpangled,5.8 GHz 각도형 RHCP 안테나입니다.
+store.desc.antenna.vortex,기본 Vortex 안테나
+store.desc.antenna.vortexcirc,인기 있는 안테나입니다.
+store.desc.antenna.vortexcircangled,인기 있는 각도형 안테나입니다.
+store.desc.antenna.vortexlhcp,인기 있는 안테나입니다. 좌선회 원형 편파입니다.
+store.desc.antenna.vortexlhcpangled,인기 있는 각도형 안테나입니다. 좌선회 원형 편파입니다.
+store.desc.antenna.vortexopen,캡이 없는 안테나입니다.
+store.desc.antenna.vortexrhcp,인기 있는 안테나입니다. 우선회 원형 편파입니다.
+store.desc.antenna.vortexrhcpangled,인기 있는 각도형 안테나입니다. 우선회 원형 편파입니다.
+store.desc.battery.AmpAgeBattery,150 프레임에 딱 맞는 배터리입니다.
+store.desc.battery.HyperionBattery,미니 쿼드용 경량 고성능 배터리입니다.
+store.desc.battery.HyperionBattery2S,미니 쿼드용 경량 배터리입니다.
+store.desc.battery.MultiStarRaceSpec,드론 레이싱용으로 특별히 설계된 강력한 배터리입니다.
+store.desc.battery.MultiStarRaceSpec5s,드론 레이싱용 5셀 배터리입니다.
+store.desc.battery.MultiStarRaceSpec6s,드론 레이싱용 6셀 배터리입니다.
+store.desc.battery.TurnigyASpecG2,"중급형 고용량 배터리입니다."
+store.desc.battery.TurnigyBolt,놀랄 만큼 뛰어난 성능을 보여줍니다.
+store.desc.battery.TurnigyNanoTech,최신 기술을 적용한 최상급 배터리입니다.
+store.desc.battery.blank,배터리 없음
+store.desc.battery.vortex,기본 Vortex 배터리
+store.desc.camera.fibonacci4,Fibonacci용 기본 카메라
+store.desc.camera.fx80micro,"안테나가 내장된 초소형 경량 카메라입니다."
+store.desc.camera.redot,2.8mm 렌즈를 장착한 내구성 높은 카메라입니다.
+store.desc.camera.redotmini,2.3mm 렌즈를 장착한 소형 카메라입니다.
+store.desc.camera.redotnano,14x14mm 카메라입니다.
+store.desc.camera.redotsplitmini,19x19mm 카메라입니다.
+store.desc.camera.rotorriot,고품질 광각 FPV 카메라입니다.
+store.desc.camera.skycopter,Skycopter 기본 카메라
+store.desc.camera.vortex,Vortex 기본 카메라
+store.desc.camera.vortex150,Vortex 150 카메라입니다.
+store.desc.frame.TealSport,"배터리와 모터 세트를 어떤 고성능 드론보다도 빠르게 교체할 수 있는, 매우 견고한 모듈형 프레임입니다."
+store.desc.frame.aether,"Aether는 혁신적이고, 미적으로 뛰어나며, 컴팩트한 드론을 만들겠다는 목표 아래 Sander Nysten이 설계했습니다."
+store.desc.frame.armattanchameleonframe,"Armattan Chameleon은 Armattan Quads가 개발 및 제작한, 세심하게 계산된 전용 프리스타일 프레임입니다."
+store.desc.frame.armattangeckoframe,"Japalura와 Rooster를 각 분야의 선두로 올려놓은 설계 원칙을 바탕으로 만들어져, 뛰어난 보호 성능과 품질을 제공합니다."
+store.desc.frame.armattanmongooseframe,"Armattan Mongoose는 Armattan의 Lite 시리즈 프레임 중 하나로, 저렴하면서도 강하고 가볍게 제작되었습니다."
+store.desc.frame.armattanroosterframe,"Armattan Rooster는 Chameleon의 개념을 완전히 새로운 수준으로 끌어올렸습니다. 더 강한 소재, 개선된 설계, 더 나은 구성과 함께 손쉬운 암 교체 기능까지 갖췄습니다."
+store.desc.frame.borrum,Borrum은 다목적 X 프레임입니다.
+store.desc.frame.botgrinderframe,"유일무이한 Botgrinder, 일명 Doug Crasher가 설계한 BOT5는 거친 충격과 엉뚱한 추락도 웃어넘길 수 있게 만들어졌습니다."
+store.desc.frame.cinegon,"Cinegon은 내구성 있는 카본 파이버로 제작되었고, 정밀성과 활용성을 높이기 위해 3D 프린트 부품이 더해졌습니다. FPV 커뮤니티에서 활발히 활동하며 존경받는 Xistence Innovation이 설계했습니다."
+store.desc.frame.djifpv,"매끈하고 공기역학적인 DJI FPV 기체는 강력한 추진력, 배터리 수명, 내풍 성능을 제공해 보기만 멋진 것이 아니라 실제 성능도 뛰어납니다."
+store.desc.frame.dquadaddiction,Addiction은 놀라운 강도를 제공하는 중량급 프레임입니다. 꾸준한 설계 개선을 통해 100g 이하를 유지하면서도 가장 강한 프레임 중 하나가 되었습니다.
+store.desc.frame.dquadfixation,"메인 플레이트와 하단 플레이트의 독특한 밀링 암 채널 덕분에 이 프레임은 매우 강하면서도 아주 가볍습니다! 전 세계의 다양한 FPV 스토어에서 만나볼 수 있습니다!"
+store.desc.frame.dquadlrx,"빠르고, 컴팩트하며, 민첩하고, 현재 시장 최고급 카본으로 제작된 탑마운트 프리스타일 프레임입니다!"
+store.desc.frame.dquadobsession5inch,항공기 등급 알루미늄과 카본 파이버의 조합은 이 프레임을 매우 세련되게 만들 뿐 아니라 정말 강하게도 만들어 줍니다!
+store.desc.frame.dquadobsession6inch,항공기 등급 알루미늄과 카본 파이버의 조합은 이 프레임을 매우 세련되게 만들 뿐 아니라 정말 강하게도 만들어 줍니다! 더 긴 암 덕분에 6인치 프로펠러를 사용할 수 있습니다.
+store.desc.frame.fibonacci4,이 프레임은 수직으로 세운 1mm 카본 파이버 플레이트 두 장을 3D 프린트 부품으로 고정하는 구조입니다. 필요한 모든 부품(FPV 포함)이 그 사이에 들어갑니다.
+store.desc.frame.gremlinboar,Flite Test의 프레임 라인업으로, 적층 델린 소재를 사용해 멋진 외형을 제공합니다.
+store.desc.frame.hellcat,Hell Cat은 Fly D.Signs가 제작하고 FPV Fly가 설계했습니다. cncdrones.com에서 구매할 수 있습니다. 뼈를 닮은 암을 가진 Hell Cat은 지옥의 불과 유황 속에서 태어나, 오직 하나의 목적만을 품고 있습니다. 바로 비행입니다.
+store.desc.frame.hyphy,"hy phy / 명사
+ 1. 아주 난폭하고, 흥분되어 있으며, 에너지가 넘치는 상태. ""Adam의 프레임 때문에 다들 엄청 하이피해질 거야"""
+store.desc.frame.khole,Khole(명사) - 때때로 영혼과 연결되기도 하는 강렬한 유체이탈 경험. 더 높은 의식 상태만이 이 프레임을 현실로 끌어낼 수 있었을 것입니다.
+store.desc.frame.luma5,"Luma 5는 궁극의 올라운드 프리스타일 쿼드입니다. 압축된 X 대칭 지오메트리가 모든 축에서 균형 잡힌 제어를 보장하며, 이상적인 비행 중량 덕분에 근접한 대상 주위를 기동하기에 완벽합니다."
+store.desc.frame.mistralakframe,"프랑스에서 탄생한 새로운 squished 215mm 프레임으로, 두 개의 하단 플레이트와 6mm 두께의 암으로 설계되었습니다. 모든 부품은 유럽산의 매우 촘촘하고 ""실키한"" 카본으로 절단되었으며, AK는 Team Mistral의 열정적인 파일럿들이 만든 고품질의 매우 견고한 프레임입니다."
+store.desc.frame.racewhoop,Freezillion이 만든 오픈 소스 3D 프린트 프레임입니다.
+store.desc.frame.rotorriotcl1,"CL1은 Rotor Riot 커뮤니티와 협업하여 설계되었습니다. 파일럿들의 의견을 받아 이 설계에 반영했습니다."
+store.desc.frame.rotorriottanq,"Let's Fly RC가 새 프레임에서 무엇보다 원했던 건 단 하나였습니다. 어떤 손상에서도 살아남는 것. 말 그대로 탱크처럼 말이죠."
+store.desc.frame.skycopter,Skycopter는 산업 점검과 긴급 초동 대응 상황에 혁신적인 접근 방식을 제공합니다.
+store.desc.frame.sleek,"이름에 걸맞게, Sander Nysten이 설계한 이 눈길을 사로잡는 빛나는 프레임은 고정 카메라를 사용하기 때문에 레크리에이션 비행에 가장 잘 어울립니다."
+store.desc.frame.talonsvx220,Talon의 암에 적용된 독특한 설계는 공기 난류를 최소화하고 고속에서 뛰어난 조종 성능을 제공합니다.
+store.desc.frame.ummagawdremix,Tommy Tibajia는 대부분의 무게를 가능한 한 CG에 가깝게 모은 진정으로 균형 잡힌 쿼드를 꿈꿨습니다. 그 꿈이 현실이 되었습니다.
 store.desc.frame.vegahsxr,"
-Developed for several months in our laboratories and in our test centers, the Vega HSX-R is the culmination of our know-how."
-store.desc.frame.vinceBee,A cool looking frame designed by 2016 world-cup champion VINCBEE
-store.desc.frame.vortex150mini,"Following the incredible success of the Vortex 285 and Vortex 250 Pro, the Vortex 150 Mini raises the bar and at the same time shrinks the size."
-store.desc.frame.vortex180,"The big brother of the popular Vortex 150, tuned for the track."
-store.desc.frame.vortex230mojo,"The Vortex 230 Mojo is a crossover race/freestyle quad, excellent on the track, and a heaps of fun for freestyling."
-store.desc.frame.vortex285,"The first Vortex by ImmersionRC is a unique foldable quad designed for racing. A tried and tested frame, loved by many."
-store.desc.frame.vortexpro250,"The second in a series of Vortex drones, the first Racebred ARF quad. Smaller than its bigger brother, it's built for speed and designed to take some serious abuse."
-store.desc.frame.vortexpro275,This variation on the Vortex 250 Pro features longer arms that allow for bigger propellers. Designed and approved by FPV legend Metall Danny.
-store.desc.frame.xhoverskyelinerframe,"Le Drib designed his signature frame, the Skyeliner, to be simple in construction, aesthetic in design, and durable in crashing."
-store.desc.motor.atombombbaby2306,The MaiOnHigh Edition of our Atom Bomb Baby 2306 motors designed in the US by Miss Creature
-store.desc.motor.cobra,A reliable high-performance motor.
-store.desc.motor.customvortexpro,The standard Vortex Pro motor.
-store.desc.motor.dys1804,A lightweight motor.
-store.desc.motor.emax1104,Designed for top performance.
-store.desc.motor.emax2205,The coolest motor on the block.
-store.desc.motor.hypetrain22071800blaster,"The design of the Hypetrain Blaster resembles a Radiation Hazard symbol, evoking memories of Rotor Riot’s radioactive adventures in Chernobyl."
-store.desc.motor.hypetrain2207acro,The beautiful design and attention to detail of the Hypetrain Acro motor sets it apart from the competition.
-store.desc.motor.hypetrain2207blaster,"The design of the Hypetrain Blaster resembles a Radiation Hazard symbol, evoking memories of Rotor Riot’s radioactive adventures in Chernobyl."
-store.desc.motor.hypetrain2207stingy,"Designed from the ground up with constant input from Kevin ""Stingersswarm"" Dougherty, the attention to detail of the Hypetrain Stingersswarm Motor sets it apart from the competition."
-store.desc.motor.hypetrain2207vanover,The beautiful design and attention to detail of the Hypetrain Vanover motor sets it apart from the competition.
-store.desc.motor.hypetrain2306,The beautiful design and attention to detail of the Hypetrain Freestyle motor sets it apart from the competition.
-store.desc.motor.hypetrain2306LeDrib,"Designed from the ground up with constant input from Drew ""Drib"" Camden, the attention to detail of the Hypetrain Le Drib Motor sets it apart from the competition."
-store.desc.motor.hypetrain2306LeDribV2,"Designed from the ground up with constant input from Drew ""Drib"" Camden, the attention to detail of the Hypetrain Le Drib Motor sets it apart from the competition."
-store.desc.motor.hypetrain2306Ummagawd,"Designed from the ground up with constant input from Tommy ""Ummagawd"" Tibajia, the attention to detail of the Hypetrain Ummagawd Motor sets it apart from the competition."
-store.desc.motor.hypetrain2306cricket,The beautiful design and attention to detail of the Hypetrain Cricket motor sets it apart from the competition.
-store.desc.motor.hypetrain2306freestyle,The beautiful design and attention to detail of the Hypetrain Freestyle V2 motor sets it apart from the competition.
-store.desc.motor.hypetrain2306grinder,The Hypetrain Grinders were designed by Botgrinder to withstand the abuse he puts his quads through. They are grinders!
-store.desc.motor.lumenier2350,A reliable high-performance motor.
-store.desc.motor.lumiere2450,A lightweight motor with a Kv of 2450.
-store.desc.motor.multistarelite2204,"Top-of-the-line, high performance motor."
-store.desc.motor.multistarv2,"A reliable, budget-friendly motor."
-store.desc.motor.scorpion2205,This feisty motor packs quite a punch.
-store.desc.motor.tigermotor1806,The standard Vortex motor.
-store.desc.motor.tmotorf60,"Big numbers, big performance."
-store.desc.motor.vortex150,Custom motor for the Vortex 150 Mini.
-store.desc.motor.xnova1407,Precisely balanced and fully tested.
-store.desc.motor.xnova2205,It is as beautiful as it is powerful
-store.desc.prop.Dal5050Tri,5x5 triblade props made of ABS.
-store.desc.prop.Gemfan5030,5x3 props made of ABS.
-store.desc.prop.Gemfan5030C,5x3 props made of carbon fiber.
-store.desc.prop.Gemfan5030Tri,5x3 triblade props made of ABS.
-store.desc.prop.Gemfan5050Tri,5x5 triblade props made of ABS
-store.desc.prop.Gemfan6030,6x3 props made of ABS.
-store.desc.prop.Gemfan6030C,6x3 props made of carbon fiber.
-store.desc.prop.GemfanBullnose5045,5x4.5 props made of carbon fiber.
-store.desc.prop.GemfanFreestyle4S,5 inch props made of PC.
-store.desc.prop.GemfanHurricane51466-3MCKV2,5.1 inch props made of PC.
-store.desc.prop.GemfanSbang4934-3,4.9 inch props made of PC.
-store.desc.prop.GemfanVannystyle5136-3,5.1 inch props made of PC.
-store.desc.prop.HQ2prop3045,3x4.5 props made of glass fiber
-store.desc.prop.HQ4prop3045,3x4.5 props made of glass fiber
-store.desc.prop.HQProp6035,6x3.5 props made of glass fiber.
-store.desc.prop.OEMHQ5040,5x4 props with FOUR blades!
-store.desc.prop.dal3050Tri,3x5 triblade props made of ABS
-store.desc.prop.dallbullnose4540Tri,4.5x4 props made of ABS.
-store.desc.prop.emax2345,Efficient 2.3x4.5 triblade propeller.
-store.desc.prop.gemfan4045,4x4.5 props made of ABS.
-store.desc.prop.hq5040x3,5x4 triblade props made of ABS.
+수개월에 걸쳐 연구소와 테스트 센터에서 개발된 Vega HSX-R은 우리의 노하우가 집약된 결과물입니다."
+store.desc.frame.vinceBee,2016 월드컵 챔피언 VINCBEE가 설계한 멋진 프레임입니다.
+store.desc.frame.vortex150mini,"Vortex 285와 Vortex 250 Pro의 엄청난 성공에 이어, Vortex 150 Mini는 기준을 한층 더 끌어올리면서 크기는 더 줄였습니다."
+store.desc.frame.vortex180,"인기 있는 Vortex 150의 형님 격 기체로, 트랙 비행에 맞춰 튜닝되었습니다."
+store.desc.frame.vortex230mojo,"Vortex 230 Mojo는 레이스와 프리스타일을 넘나드는 크로스오버 쿼드로, 트랙에서도 뛰어나고 프리스타일에서도 아주 재미있습니다."
+store.desc.frame.vortex285,"ImmersionRC의 첫 번째 Vortex는 레이싱용으로 설계된 독특한 폴더블 쿼드입니다. 수많은 파일럿에게 사랑받은, 검증된 프레임입니다."
+store.desc.frame.vortexpro250,"Vortex 드론 시리즈의 두 번째 모델이자 첫 Racebred ARF 쿼드입니다. 형님 모델보다 더 작지만, 속도를 위해 만들어졌고 거친 충격도 견디도록 설계되었습니다."
+store.desc.frame.vortexpro275,Vortex 250 Pro의 이 변형 모델은 더 큰 프로펠러를 사용할 수 있도록 긴 암을 채택했습니다. FPV의 전설 Metall Danny가 설계하고 승인했습니다.
+store.desc.frame.xhoverskyelinerframe,"Le Drib는 자신의 시그니처 프레임 Skyeliner를 구조는 단순하게, 디자인은 아름답게, 충돌에는 강하게 만들었습니다."
+store.desc.motor.atombombbaby2306,Miss Creature가 미국에서 설계한 Atom Bomb Baby 2306 모터의 MaiOnHigh 에디션입니다.
+store.desc.motor.cobra,믿을 수 있는 고성능 모터입니다.
+store.desc.motor.customvortexpro,Vortex Pro 기본 모터입니다.
+store.desc.motor.dys1804,경량 모터입니다.
+store.desc.motor.emax1104,최고 성능을 위해 설계되었습니다.
+store.desc.motor.emax2205,주변에서 가장 멋진 모터입니다.
+store.desc.motor.hypetrain22071800blaster,"Hypetrain Blaster의 디자인은 방사능 위험 표식을 닮아, Rotor Riot이 체르노빌에서 벌인 방사능 모험을 떠올리게 합니다."
+store.desc.motor.hypetrain2207acro,Hypetrain Acro 모터는 아름다운 디자인과 세심한 디테일로 경쟁 제품과 차별화됩니다.
+store.desc.motor.hypetrain2207blaster,"Hypetrain Blaster의 디자인은 방사능 위험 표식을 닮아, Rotor Riot이 체르노빌에서 벌인 방사능 모험을 떠올리게 합니다."
+store.desc.motor.hypetrain2207stingy,"Kevin ""Stingersswarm"" Dougherty의 지속적인 의견을 반영해 처음부터 설계되었으며, 세심한 디테일 덕분에 Hypetrain Stingersswarm 모터는 경쟁 제품과 차별화됩니다."
+store.desc.motor.hypetrain2207vanover,Hypetrain Vanover 모터는 아름다운 디자인과 세심한 디테일로 경쟁 제품과 차별화됩니다.
+store.desc.motor.hypetrain2306,Hypetrain Freestyle 모터는 아름다운 디자인과 세심한 디테일로 경쟁 제품과 차별화됩니다.
+store.desc.motor.hypetrain2306LeDrib,"Drew ""Drib"" Camden의 지속적인 의견을 반영해 처음부터 설계되었으며, 세심한 디테일 덕분에 Hypetrain Le Drib 모터는 경쟁 제품과 차별화됩니다."
+store.desc.motor.hypetrain2306LeDribV2,"Drew ""Drib"" Camden의 지속적인 의견을 반영해 처음부터 설계되었으며, 세심한 디테일 덕분에 Hypetrain Le Drib 모터는 경쟁 제품과 차별화됩니다."
+store.desc.motor.hypetrain2306Ummagawd,"Tommy ""Ummagawd"" Tibajia의 지속적인 의견을 반영해 처음부터 설계되었으며, 세심한 디테일 덕분에 Hypetrain Ummagawd 모터는 경쟁 제품과 차별화됩니다."
+store.desc.motor.hypetrain2306cricket,Hypetrain Cricket 모터는 아름다운 디자인과 세심한 디테일로 경쟁 제품과 차별화됩니다.
+store.desc.motor.hypetrain2306freestyle,Hypetrain Freestyle V2 모터는 아름다운 디자인과 세심한 디테일로 경쟁 제품과 차별화됩니다.
+store.desc.motor.hypetrain2306grinder,Hypetrain Grinders는 Botgrinder가 자신의 쿼드에 가하는 혹독한 충격을 견디도록 설계했습니다. 진짜 그라인더답죠!
+store.desc.motor.lumenier2350,믿을 수 있는 고성능 모터입니다.
+store.desc.motor.lumiere2450,Kv 2450의 경량 모터입니다.
+store.desc.motor.multistarelite2204,"최상급 고성능 모터입니다."
+store.desc.motor.multistarv2,"합리적인 가격의 믿을 수 있는 모터입니다."
+store.desc.motor.scorpion2205,작지만 아주 강력한 펀치를 가진 모터입니다.
+store.desc.motor.tigermotor1806,Vortex 기본 모터입니다.
+store.desc.motor.tmotorf60,"큰 수치, 큰 성능."
+store.desc.motor.vortex150,Vortex 150 Mini용 커스텀 모터입니다.
+store.desc.motor.xnova1407,정밀하게 밸런스 조정되었고 완전한 테스트를 거쳤습니다.
+store.desc.motor.xnova2205,강력한 만큼 아름다운 모터입니다.
+store.desc.prop.Dal5050Tri,ABS 소재의 5x5 트라이블레이드 프로펠러입니다.
+store.desc.prop.Gemfan5030,ABS 소재의 5x3 프로펠러입니다.
+store.desc.prop.Gemfan5030C,카본 파이버 소재의 5x3 프로펠러입니다.
+store.desc.prop.Gemfan5030Tri,ABS 소재의 5x3 트라이블레이드 프로펠러입니다.
+store.desc.prop.Gemfan5050Tri,ABS 소재의 5x5 트라이블레이드 프로펠러입니다.
+store.desc.prop.Gemfan6030,ABS 소재의 6x3 프로펠러입니다.
+store.desc.prop.Gemfan6030C,카본 파이버 소재의 6x3 프로펠러입니다.
+store.desc.prop.GemfanBullnose5045,카본 파이버 소재의 5x4.5 프로펠러입니다.
+store.desc.prop.GemfanFreestyle4S,PC 소재의 5인치 프로펠러입니다.
+store.desc.prop.GemfanHurricane51466-3MCKV2,PC 소재의 5.1인치 프로펠러입니다.
+store.desc.prop.GemfanSbang4934-3,PC 소재의 4.9인치 프로펠러입니다.
+store.desc.prop.GemfanVannystyle5136-3,PC 소재의 5.1인치 프로펠러입니다.
+store.desc.prop.HQ2prop3045,유리섬유 소재의 3x4.5 프로펠러입니다.
+store.desc.prop.HQ4prop3045,유리섬유 소재의 3x4.5 프로펠러입니다.
+store.desc.prop.HQProp6035,유리섬유 소재의 6x3.5 프로펠러입니다.
+store.desc.prop.OEMHQ5040,무려 4날을 가진 5x4 프로펠러입니다!
+store.desc.prop.dal3050Tri,ABS 소재의 3x5 트라이블레이드 프로펠러입니다.
+store.desc.prop.dallbullnose4540Tri,ABS 소재의 4.5x4 프로펠러입니다.
+store.desc.prop.emax2345,효율적인 2.3x4.5 트라이블레이드 프로펠러입니다.
+store.desc.prop.gemfan4045,ABS 소재의 4x4.5 프로펠러입니다.
+store.desc.prop.hq5040x3,ABS 소재의 5x4 트라이블레이드 프로펠러입니다.
 store.desc.prop.hq5040x4,@@@
-store.desc.prop.hqbullnose4040quad,4x4 four-blade props made of ABS.
-store.desc.prop.hqbullnose4045,4x4.5 props made of ABS.
-store.desc.prop.hqbullnose4045tri,4x4.5 triblade props made of ABS.
-store.desc.prop.kingkong5040propeller2,"Well-balanced, affordable 2-bladed propeller."
-store.desc.prop.kingkong5040propeller3,"Well-balanced, affordable 3-bladed propeller."
-store.desc.prop.kingkong6040propeller2,"Well-balanced, affordable, 6-inch, 2-bladed propeller."
-store.desc.prop.lumiere5050Tri,An efficient and powerful 5x5 triblade propeller.
-store.desc.prop.racekraft5051,Designed for maximum aerodynamic efficiency.
-store.desc.prop.racekraftVortexMini,Small tri-blade props that pack a punch.
-store.desc.receiver.blank,No receiver
-store.desc.receiver.vortex,"Bulky, high performance receiver."
+store.desc.prop.hqbullnose4040quad,ABS 소재의 4x4 4블레이드 프로펠러입니다.
+store.desc.prop.hqbullnose4045,ABS 소재의 4x4.5 프로펠러입니다.
+store.desc.prop.hqbullnose4045tri,ABS 소재의 4x4.5 트라이블레이드 프로펠러입니다.
+store.desc.prop.kingkong5040propeller2,"밸런스가 잘 잡힌 합리적인 가격의 2블레이드 프로펠러입니다."
+store.desc.prop.kingkong5040propeller3,"밸런스가 잘 잡힌 합리적인 가격의 3블레이드 프로펠러입니다."
+store.desc.prop.kingkong6040propeller2,"밸런스가 잘 잡힌 합리적인 가격의 6인치 2블레이드 프로펠러입니다."
+store.desc.prop.lumiere5050Tri,효율적이면서도 강력한 5x5 트라이블레이드 프로펠러입니다.
+store.desc.prop.racekraft5051,최대의 공기역학 효율을 위해 설계되었습니다.
+store.desc.prop.racekraftVortexMini,작지만 강력한 트라이블레이드 프로펠러입니다.
+store.desc.receiver.blank,리시버 없음
+store.desc.receiver.vortex,"부피는 있지만 고성능인 리시버입니다."
 store.frameset.vortex250pro.desc,"Vortex 250 Pro
-The second in a series of Vortex drones, the first Racebred ARF quad. Smaller than its bigger brother, it's built for speed and designed to take some serious abuse."
+Vortex 드론 시리즈의 두 번째 모델이자 첫 Racebred ARF 쿼드입니다. 형님 모델보다 더 작지만, 속도를 위해 만들어졌고 거친 충격도 견디도록 설계되었습니다."
 store.frameset.vortex250prometalldanny.desc,"Vortex 250 Metall Danny
-This variation on the Vortex 250 Pro is not just a color change, but also features longer arms that allow for bigger propellers. Designed and approved by FPV legend Metall Danny."
+Vortex 250 Pro의 이 변형 모델은 단순한 색상 변경이 아니라, 더 큰 프로펠러를 사용할 수 있도록 긴 암을 채택했습니다. FPV의 전설 Metall Danny가 설계하고 승인했습니다."
 store.frameset.vortex285.desc,"Vortex 285
-The first Vortex by ImmersionRC is a unique foldable quad designed for racing. A tried and tested frame, loved by many."
+ImmersionRC의 첫 번째 Vortex는 레이싱용으로 설계된 독특한 폴더블 쿼드입니다. 수많은 파일럿에게 사랑받은, 검증된 프레임입니다."
 store.frameset.vortexummagawd.desc,"Vortex 250 UmmaGawd
-This special Vortex pro 250 was designed by FPV legend UmmaGawd. The design contains new features and materials."
-store.specs.capacity,Capacity
-store.specs.cellconfig,Cells
-store.specs.constdischarge,Constant discharge
-store.specs.cratingburst,C (burst)
-store.specs.cratingcont,C (cont.)
-store.specs.fov,Field of view
-store.specs.frametype,Frame type
-store.specs.hub,Hub
-store.specs.material,Material
-store.specs.maxamps,Max amps
-store.specs.maxcurrent,Max current
-store.specs.maxpower,Max power
+이 특별한 Vortex Pro 250은 FPV의 전설 UmmaGawd가 설계했습니다. 새로운 기능과 소재가 적용된 디자인입니다."
+store.specs.capacity,용량
+store.specs.cellconfig,셀 수
+store.specs.constdischarge,연속 방전
+store.specs.cratingburst,C(순간)
+store.specs.cratingcont,C(연속)
+store.specs.fov,시야각
+store.specs.frametype,프레임 유형
+store.specs.hub,허브
+store.specs.material,재질
+store.specs.maxamps,최대 전류(A)
+store.specs.maxcurrent,최대 전류
+store.specs.maxpower,최대 출력
 store.specs.motorkv,KV
-store.specs.motorsize,Motor Size
-store.specs.nrofblades,Blades
-store.specs.peakdischarge,Peak discharge
-store.specs.size,Size
-store.specs.sizediagonal,Size (diagonal)
-store.specs.voltage,Voltage
-store.specs.weight,Weight
+store.specs.motorsize,모터 크기
+store.specs.nrofblades,블레이드 수
+store.specs.peakdischarge,순간 방전
+store.specs.size,크기
+store.specs.sizediagonal,크기(대각선)
+store.specs.voltage,전압
+store.specs.weight,무게
 stunt.aileronhalfroll,Aileron Halfroll
 stunt.aileronroll,Aileron Roll
 stunt.backflip,Backflip
@@ -2969,29 +2970,29 @@ userlocalization.steam.guide,Translation Guide
 userlocalization.steam.workshop,Community Translations
 voicechat.mode.pushtotalk,Push-to-talk
 voicechat.mode.voicedetection,Voice detection
-workbench.changecolor,Change Color
-workbench.coloreditor,Color Editor
-workbench.colorpicker,Color Editor
-workbench.customcolors,Custom Colors
-workbench.description.header,Description
-workbench.dronename,Drone Name
-workbench.dronestats,Drone Stats
-workbench.editcustomcolors,Edit Custom Colors
-workbench.editdrone,Edit Drone
-workbench.editfcs,Edit Flight Controller Settings
-workbench.editflightcontrollersettings,Edit Flight Controller Settings
-workbench.editpalette,Edit Palette
-workbench.editpart,Edit Part
-workbench.enterdronedescription,Enter drone description...
-workbench.enterdronename,Enter drone name...
-workbench.new,NEW
-workbench.novaluestoedit,No Values to edit
-workbench.ok,OK
-workbench.pick,Pick
-workbench.revert,Revert
-workbench.selectpart,Select Part
-workbench.share,Share
-workbench.sharedrone,Share Drone
-workbench.skin,Skin
-workbench.testflight,Test flight
-store.desc.frame.hellcat,The Hell Cat was created by Fly D.Signs and designed by FPV Fly. It is available through cncdrones.com. The Hell Cat with its bone-like arms was born in the depths of Hell through fire and brimstone with one job on its mind: to fly.
+workbench.changecolor,색상 변경
+workbench.coloreditor,색상 편집기
+workbench.colorpicker,색상 편집기
+workbench.customcolors,사용자 지정 색상
+workbench.description.header,설명
+workbench.dronename,드론 이름
+workbench.dronestats,드론 스탯
+workbench.editcustomcolors,사용자 지정 색상 편집
+workbench.editdrone,드론 편집
+workbench.editfcs,플라이트 컨트롤러 설정 편집
+workbench.editflightcontrollersettings,플라이트 컨트롤러 설정 편집
+workbench.editpalette,팔레트 편집
+workbench.editpart,부품 편집
+workbench.enterdronedescription,드론 설명을 입력하세요...
+workbench.enterdronename,드론 이름을 입력하세요...
+workbench.new,새로 만들기
+workbench.novaluestoedit,편집할 값이 없습니다
+workbench.ok,확인
+workbench.pick,선택
+workbench.revert,되돌리기
+workbench.selectpart,부품 선택
+workbench.share,공유
+workbench.sharedrone,드론 공유
+workbench.skin,스킨
+workbench.testflight,시험 비행
+store.desc.frame.hellcat,Hell Cat은 Fly D.Signs가 제작하고 FPV Fly가 설계했습니다. cncdrones.com에서 구매할 수 있습니다. 뼈를 닮은 암을 가진 Hell Cat은 지옥의 불과 유황 속에서 태어나, 오직 하나의 목적만을 품고 있습니다. 바로 비행입니다.
