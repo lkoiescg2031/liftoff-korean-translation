@@ -555,44 +555,44 @@ features.dronesharingdisabled.header,Drone sharing disabled
 features.multiplayer.leaderboards.disabled,Leaderboard updates are disabled in this build!
 features.tournaments.tryoutsdisabled.contents,Tournament tryouts are disabled in this build.
 features.tournaments.tryoutsdisabled.header,Tryouts disabled
-feedback.bugreport.behavior,What happened?
-feedback.bugreport.expectedbehavior,What were you expecting to happen?
-feedback.bugreport.reproduction,How can the problem be reproduced?
-feedback.bugreport.title,Bug Report
-feedback.defaulttextfield,Enter text...
-feedback.email.text,Would you like to attach your e-mail address to this report in case we need to ask for further information? (Optional)
-feedback.email.title,E-mail
-feedback.end.text,Thanks for your contribution! Please click the button below to send in your report. This may take a few moments.
-feedback.end.title,Thank you
-feedback.graphics.text,Please describe the problem you are experiencing.
-feedback.graphics.title,Graphics
-feedback.noconnection,It looks like you're not connected to the internet at this time. A connection is needed to send feedback about Liftoff. Click the button below to exit.
-feedback.screenshot.text,Would you like to add a screenshot to this report? (Optional)
-feedback.screenshot.title,Screenshot
-feedback.start.text,"If you'd like to help out with the development of Liftoff, this is your chance to send us your feedback or notify us about any bugs or glitches you encounter.
+feedback.bugreport.behavior,무슨 일이 있었나요?
+feedback.bugreport.expectedbehavior,어떤 결과를 기대하셨나요?
+feedback.bugreport.reproduction,문제를 어떻게 재현할 수 있나요?
+feedback.bugreport.title,버그 신고
+feedback.defaulttextfield,텍스트 입력...
+feedback.email.text,추가 정보가 필요할 경우를 대비해 이 신고에 이메일 주소를 첨부하시겠습니까? (선택 사항)
+feedback.email.title,이메일
+feedback.end.text,기여해 주셔서 감사합니다! 아래 버튼을 눌러 신고를 전송해 주세요. 잠시 시간이 걸릴 수 있습니다.
+feedback.end.title,감사합니다
+feedback.graphics.text,겪고 있는 문제를 설명해 주세요.
+feedback.graphics.title,그래픽
+feedback.noconnection,현재 인터넷에 연결되어 있지 않은 것 같습니다. Liftoff에 대한 피드백을 보내려면 인터넷 연결이 필요합니다. 아래 버튼을 눌러 종료하세요.
+feedback.screenshot.text,이 신고에 스크린샷을 추가하시겠습니까? (선택 사항)
+feedback.screenshot.title,스크린샷
+feedback.start.text,"Liftoff 개발에 도움을 주고 싶다면, 지금이 피드백을 보내거나 겪은 버그와 오류를 알려줄 기회입니다.
 
-Along with your feedback, we will automatically collect some generic information such as your operating system, resolution, and your save file to help us solve any problems you describe.
+피드백과 함께, 운영 체제, 해상도, 저장 파일 등 일부 일반적인 정보도 자동으로 수집하여 설명해 주신 문제를 해결하는 데 활용합니다.
 
-What type of feedback do you have for us?"
-feedback.title,Feedback
-festivals.aprilfools.collector.counter,Coins found: {0}/{1}
-festivals.aprilfools.collector.header,Fool's Gold
-festivals.christmas.collector.counter,Snowmen found: {0}/{1}
-festivals.christmas.collector.header,Snow Spotter
-festivals.easter.collector.counter,Eggs found: {0}/{1}
-festivals.easter.collector.header,Easter Egg Hunt
-festivals.halloween.collector.counter,Pumpkins found: {0}/{1}
-festivals.halloween.collector.header,Trick or Treat
-festivals.lugusfest.collector.counter,LuGus cubes found: {0}/{1}
+어떤 종류의 피드백을 보내고 싶으신가요?"
+feedback.title,피드백
+festivals.aprilfools.collector.counter,발견한 코인: {0}/{1}
+festivals.aprilfools.collector.header,바보의 금
+festivals.christmas.collector.counter,발견한 눈사람: {0}/{1}
+festivals.christmas.collector.header,눈사람 탐색가
+festivals.easter.collector.counter,발견한 달걀: {0}/{1}
+festivals.easter.collector.header,부활절 달걀 사냥
+festivals.halloween.collector.counter,발견한 호박: {0}/{1}
+festivals.halloween.collector.header,트릭 오어 트릿
+festivals.lugusfest.collector.counter,발견한 LuGus 큐브: {0}/{1}
 festivals.lugusfest.collector.header,LuGus Fest
-festivals.stpatricksday.collector.counter,Pots of gold found: {0}/{1}
-festivals.stpatricksday.collector.header,Leprechaun Madness
-festivals.valentinesday.collector.counter,Hearts found: {0}/{1}
-festivals.valentinesday.collector.header,Heart Collector
-flightcontroller.settings.selectapreset,Select a preset
-flightcontroller.settings.unsavedchanges.description,"You have unsaved changes. Leaving this menu will discard any changes made to the flight controller.
-Do you wish to continue?"
-flightcontroller.settings.unsavedchanges.header,Unsaved Changes
+festivals.stpatricksday.collector.counter,발견한 황금 항아리: {0}/{1}
+festivals.stpatricksday.collector.header,레프리콘 대소동
+festivals.valentinesday.collector.counter,발견한 하트: {0}/{1}
+festivals.valentinesday.collector.header,하트 수집가
+flightcontroller.settings.selectapreset,프리셋 선택
+flightcontroller.settings.unsavedchanges.description,"저장되지 않은 변경 사항이 있습니다. 이 메뉴를 나가면 플라이트 컨트롤러에 적용한 변경 내용이 모두 버려집니다.
+계속하시겠습니까?"
+flightcontroller.settings.unsavedchanges.header,저장되지 않은 변경 사항
 fovadjuster.description.,FOV: {0} degrees
 generic.accept,수락
 generic.all,전체
@@ -709,34 +709,35 @@ gettingstarted.welcomestep.skippopup.content,Do you want to skip the setup proce
 gettingstarted.welcomestep.skippopup.header,Return to menu
 gettingstarted.welcomestep.usertranslationdisclaimer,Check the Steam Workshop to discover translations made by the Liftoff Community!
 ghostmanager.initializingghosts,Initializing ghosts... Please wait.
-hud.altitude.short,ALT
-hud.capacity.drawn,drawn
+hud.altitude.short,고도
+hud.capacity.drawn,사용됨
 hud.capacity.mah,mAh
 hud.current.a,A
-hud.info.disarm,Drone disarmed. Move THROTTLE down to arm.
-hud.info.disarmboth,Drone disarmed. Press the ARM DRONE key or button/switch to arm.
-hud.info.disarmjoystick,Drone disarmed. Press the ARM DRONE button/switch to arm.
-hud.info.disarmkeyboard,Drone disarmed. Press the ARM DRONE key to arm.
-hud.lap,LAP
-hud.speed.short,SPD
-hud.voltage.percell,cell
+hud.info.disarm,드론이 disarm 상태입니다. arm하려면 THROTTLE을 아래로 내리세요.
+hud.info.disarmboth,드론이 disarm 상태입니다. arm하려면 ARM DRONE 키 또는 버튼/스위치를 누르세요.
+hud.info.disarmjoystick,드론이 disarm 상태입니다. arm하려면 ARM DRONE 버튼/스위치를 누르세요.
+hud.info.disarmkeyboard,드론이 disarm 상태입니다. arm하려면 ARM DRONE 키를 누르세요.
+hud.lap,랩
+hud.speed.short,속도
+hud.voltage.percell,셀
 hud.voltage.v,V
-hud.warning.altitude,"exceeded max
-allowed altitude
+hud.warning.altitude,"최대 허용
+고도 초과
 [@@@]
 
 
 
 
-decrease altitude now"
-hud.warning.outofzone,"outside of designated
-fly zone
+지금 고도를 낮추세요"
+hud.warning.outofzone,"지정된
+비행 구역
+밖입니다
 
 
 
 
-turn back now"
-hud.warning.unranked.01,Waiting for other players
+지금 돌아오세요"
+hud.warning.unranked.01,다른 플레이어 대기 중
 ingamemenu.disconnected.description,서버와의 연결이 끊어졌습니다.
 ingamemenu.disconnected.header,연결 끊김
 ingamemenu.disconnected.mainmenu,메인 메뉴
@@ -2069,41 +2070,41 @@ options.windpreset.nonedescription,"바람이 꺼진 상태로, 비행을 배우
 options.windpreset.windy,강풍
 options.windpreset.windydescription,"최대 55km/h에 이르는 강하고 난기류가 심한 바람으로, 속도 변화가 매우 큽니다."
 options.workbench.confirmation,워크벤치로 돌아가시겠습니까?
-osdeditor.description,Customize the on-screen display of your drone!
-osdeditor.displaysettings.background,Background
-osdeditor.displaysettings.header,Display settings
-osdeditor.displaysettings.resolution,Resolution
-osdeditor.displaysettings.togglegrid,Show grid
-osdeditor.displaysettings.togglegridsnap,Snap to grid
-osdeditor.filemenu.defaultlayout,Default
-osdeditor.filemenu.deletelayout,Delete Layout
-osdeditor.filemenu.deletelayoutprompt,"Are you sure you want to delete ""{0}""?"
-osdeditor.filemenu.emptylayout,Empty
-osdeditor.filemenu.loadlayout,Edit layout
-osdeditor.filemenu.name,Name
-osdeditor.filemenu.newlayout,New Layout
-osdeditor.filemenu.newlayoutprompt,Do you wish to create an empty layout or start with the default Liftoff OSD?
-osdeditor.filemenu.nothingselected,Select an existing layout or create a new one!
-osdeditor.filemenu.resolution,Target resolution
-osdeditor.filemenu.selectedlayout,Selected layout
-osdeditor.filemenu.startingmessage,Create a new layout to get started!
-osdeditor.generalinfo.header,General
-osdeditor.generalinfo.layoutname,OSD layout name
-osdeditor.generalinfo.resolution,Original resolution
-osdeditor.header,OSD Editor
-osdeditor.itemeditor.alignment,Alignment
-osdeditor.itemeditor.bringforward,Bring forward
-osdeditor.itemeditor.bringtofront,Bring to front
-osdeditor.itemeditor.deselect,Deselect
-osdeditor.itemeditor.header,Selected item
-osdeditor.itemeditor.sendbackward,Send backward
-osdeditor.itemeditor.sendtoback,Send to back
-osdeditor.itemspawner.header,OSD Items
-osdeditor.layouteditor.returntofilemenu,Return to file menu
-osdeditor.layouteditor.unsavedchanges,"You have unsaved changes.
-Do you want to continue?"
-osdeditor.layouteditor.unsavedchangesheader,Unsaved changes
-osdeditor.saving.success,{0} saved successfully!
+osdeditor.description,드론의 온스크린 디스플레이를 커스터마이즈하세요!
+osdeditor.displaysettings.background,배경
+osdeditor.displaysettings.header,디스플레이 설정
+osdeditor.displaysettings.resolution,해상도
+osdeditor.displaysettings.togglegrid,격자 표시
+osdeditor.displaysettings.togglegridsnap,격자에 맞춤
+osdeditor.filemenu.defaultlayout,기본값
+osdeditor.filemenu.deletelayout,레이아웃 삭제
+osdeditor.filemenu.deletelayoutprompt,"""{0}""을(를) 삭제하시겠습니까?"
+osdeditor.filemenu.emptylayout,빈 레이아웃
+osdeditor.filemenu.loadlayout,레이아웃 편집
+osdeditor.filemenu.name,이름
+osdeditor.filemenu.newlayout,새 레이아웃
+osdeditor.filemenu.newlayoutprompt,빈 레이아웃을 만들겠습니까, 아니면 기본 Liftoff OSD로 시작하시겠습니까?
+osdeditor.filemenu.nothingselected,기존 레이아웃을 선택하거나 새로 만드세요!
+osdeditor.filemenu.resolution,대상 해상도
+osdeditor.filemenu.selectedlayout,선택한 레이아웃
+osdeditor.filemenu.startingmessage,시작하려면 새 레이아웃을 만드세요!
+osdeditor.generalinfo.header,일반
+osdeditor.generalinfo.layoutname,OSD 레이아웃 이름
+osdeditor.generalinfo.resolution,원본 해상도
+osdeditor.header,OSD 편집기
+osdeditor.itemeditor.alignment,정렬
+osdeditor.itemeditor.bringforward,앞으로 가져오기
+osdeditor.itemeditor.bringtofront,맨 앞으로 가져오기
+osdeditor.itemeditor.deselect,선택 해제
+osdeditor.itemeditor.header,선택한 항목
+osdeditor.itemeditor.sendbackward,뒤로 보내기
+osdeditor.itemeditor.sendtoback,맨 뒤로 보내기
+osdeditor.itemspawner.header,OSD 항목
+osdeditor.layouteditor.returntofilemenu,파일 메뉴로 돌아가기
+osdeditor.layouteditor.unsavedchanges,"저장되지 않은 변경 사항이 있습니다.
+계속하시겠습니까?"
+osdeditor.layouteditor.unsavedchangesheader,저장되지 않은 변경 사항
+osdeditor.saving.success,{0} 저장 완료!
 parts.actioncam,Action Cam
 parts.antenna,Antenna
 parts.battery,Battery
