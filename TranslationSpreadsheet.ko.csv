@@ -2274,66 +2274,66 @@ quickplay.popup.missingdata.header,Missing data
 quickplay.popup.nolastsession.content,There is no last play session available to load.
 quickplay.popup.nolastsession.header,No last session
 quickplay.popup.setup.header,Quick play setup
-raceeditor.Validate,Validate
-raceeditor.file.exit.description,"Your Race has unsaved changes. Exiting to the Track Editor will undo them.
+raceeditor.Validate,검사
+raceeditor.file.exit.description,"Race에 저장되지 않은 변경 사항이 있습니다. Track Editor로 나가면 이 변경 사항이 사라집니다.
 
-Do you want to continue?"
-raceeditor.file.exit.header,Exit Race Editor
-raceeditor.file.outdatedtrack.description,This Race was built on an outdated version of the Track. Please edit the Race and re-validate it before testing.
-raceeditor.file.outdatedtrack.header,Outdated Track
-raceeditor.file.sharerace.description,"Your Race has unsaved changes. Before you can share it, you must save it.
+계속하시겠습니까?"
+raceeditor.file.exit.header,Race Editor 나가기
+raceeditor.file.outdatedtrack.description,이 Race는 오래된 버전의 Track을 기반으로 만들어졌습니다. 테스트하기 전에 Race를 편집하고 다시 검증해 주세요.
+raceeditor.file.outdatedtrack.header,오래된 Track
+raceeditor.file.sharerace.description,"Race에 저장되지 않은 변경 사항이 있습니다. 공유하려면 먼저 저장해야 합니다.
 
-Do you want to continue?"
-raceeditor.file.sharerace.header,Share Race
-raceeditor.file.tag.builtin,(Built-in)
-raceeditor.file.tag.workshop,(Workshop)
-raceeditor.file.testrace.description,"Your Race has unsaved changes. Before you can test it, you must save it.
+계속하시겠습니까?"
+raceeditor.file.sharerace.header,Race 공유
+raceeditor.file.tag.builtin,(기본 제공)
+raceeditor.file.tag.workshop,(워크숍)
+raceeditor.file.testrace.description,"Race에 저장되지 않은 변경 사항이 있습니다. 테스트하려면 먼저 저장해야 합니다.
 
-Do you want to continue?"
-raceeditor.file.testrace.header,Test Race
-raceeditor.file.tracknotshared.description,"The Track on which this Race is based on is either not shared yet, or the shared version is out of date.
+계속하시겠습니까?"
+raceeditor.file.testrace.header,Race 테스트
+raceeditor.file.tracknotshared.description,"이 Race의 기반이 되는 Track이 아직 공유되지 않았거나, 공유된 버전이 오래되었습니다.
 
-Please share the Track first before sharing this Race."
-raceeditor.file.tracknotshared.header,Track not shared
-raceeditor.file.unsavedchanges.saveandshare,Save & share
-raceeditor.file.unsavedchanges.saveandtest,Save & test
-raceeditor.flyrace,Fly Race
-raceeditor.legend.finish,Finish
-raceeditor.legend.pass,Pass
-raceeditor.legend.spawnpoint,Spawn Point
-raceeditor.legend.start,Start
-raceeditor.logmessage.racesaved,Race saved.
-raceeditor.name.none,None
-raceeditor.numberoflaps,Number of laps
-raceeditor.passages.addnewpassage,Add passage
-raceeditor.passages.atleastonepathdoesnotleadtofinish,At least one possible path does not lead to the Finish Passage!
-raceeditor.passages.impossibleloop,Connecting these Passages would create an impossible loop. Add another Passage on the Checkpoint if you're trying to create a loop.
-raceeditor.passages.racedoesnothavefinishpassage,This Race does not contain a Finish Passage!
-raceeditor.passages.racedoesnothavestartpassage,This Race does not contain a Start Passage!
-raceeditor.passages.raceisinvalidandnotselectable,This Race is valid! It will be selectable from the Race menu.
-raceeditor.passages.racemusthaveexactlyonefinishpassage,A Race must contain exactly one Finish Passage!
-raceeditor.passages.racemusthaveexactlyonestartpassage,A Race must contain exactly one Start Passage!
-raceeditor.passages.raceneedsatleasttwopassages,A Race needs to contain at least two Passages.
-raceeditor.passages.somepassagesdonotleadtoothers,Some Passages do not lead to any other Passages and are not the Finish Passage!
-raceeditor.race.createnew.description,Creating a new Race will override the currently loaded one. Any unsaved progress will be lost! Continue?
-raceeditor.race.createnew.header,Create new Race
-raceeditor.race.loadrace.description,Loading a different Race will override the currently loaded Race. Continue?
-raceeditor.race.loadrace.header,Load Race
-raceeditor.race.name.none,None
-raceeditor.race.tag.builtin,(Built-in)
-raceeditor.race.tag.workshop,(Workshop)
-raceeditor.racesettings,Race settings
-raceeditor.racesettings.descriptionheader,Race description
-raceeditor.racesettings.descriptionplaceholder,Enter Race description
-raceeditor.racesettings.enablecompetitivefeaturesheader,Competitive features
-raceeditor.racesettings.enablecompetitivefeatureswhenmodsaredetected,Enable competitive features even when game mods are active
-raceeditor.racesettings.header,Race editor
-raceeditor.racesettings.nameheader,Race name
-raceeditor.racesettings.nameplaceholder,Enter Race name
-raceeditor.racesettings.shareagainforchangetotakeeffect,Share the Race on the Steam Workshop again for these changes to take effect in multiplayer.
-raceeditor.saverace.success.description,Race {0} saved successfully.
-raceeditor.saverace.success.header,Race saved
-raceeditor.sharerace.shareracesuccessful,The Race was shared successfully!
+이 Race를 공유하기 전에 먼저 Track을 공유해 주세요."
+raceeditor.file.tracknotshared.header,공유되지 않은 Track
+raceeditor.file.unsavedchanges.saveandshare,저장 후 공유
+raceeditor.file.unsavedchanges.saveandtest,저장 후 테스트
+raceeditor.flyrace,Race 비행
+raceeditor.legend.finish,도착
+raceeditor.legend.pass,통과
+raceeditor.legend.spawnpoint,스폰 지점
+raceeditor.legend.start,시작
+raceeditor.logmessage.racesaved,Race가 저장되었습니다.
+raceeditor.name.none,없음
+raceeditor.numberoflaps,랩 수
+raceeditor.passages.addnewpassage,Passage 추가
+raceeditor.passages.atleastonepathdoesnotleadtofinish,가능한 경로 중 하나 이상이 Finish Passage로 이어지지 않습니다!
+raceeditor.passages.impossibleloop,이 Passage들을 연결하면 불가능한 루프가 생성됩니다. 루프를 만들려는 경우 Checkpoint에 다른 Passage를 추가하세요.
+raceeditor.passages.racedoesnothavefinishpassage,이 Race에는 Finish Passage가 없습니다!
+raceeditor.passages.racedoesnothavestartpassage,이 Race에는 Start Passage가 없습니다!
+raceeditor.passages.raceisinvalidandnotselectable,이 Race는 유효합니다! Race 메뉴에서 선택할 수 있습니다.
+raceeditor.passages.racemusthaveexactlyonefinishpassage,Race에는 Finish Passage가 정확히 하나 있어야 합니다!
+raceeditor.passages.racemusthaveexactlyonestartpassage,Race에는 Start Passage가 정확히 하나 있어야 합니다!
+raceeditor.passages.raceneedsatleasttwopassages,Race에는 최소 두 개의 Passage가 있어야 합니다.
+raceeditor.passages.somepassagesdonotleadtoothers,다른 Passage로 이어지지 않으면서 Finish Passage도 아닌 Passage가 있습니다!
+raceeditor.race.createnew.description,새 Race를 만들면 현재 불러온 Race를 덮어쓰게 됩니다. 저장되지 않은 진행 내용은 모두 사라집니다! 계속하시겠습니까?
+raceeditor.race.createnew.header,새 Race 만들기
+raceeditor.race.loadrace.description,다른 Race를 불러오면 현재 불러온 Race를 덮어쓰게 됩니다. 계속하시겠습니까?
+raceeditor.race.loadrace.header,Race 불러오기
+raceeditor.race.name.none,없음
+raceeditor.race.tag.builtin,(기본 제공)
+raceeditor.race.tag.workshop,(워크숍)
+raceeditor.racesettings,Race 설정
+raceeditor.racesettings.descriptionheader,Race 설명
+raceeditor.racesettings.descriptionplaceholder,Race 설명 입력
+raceeditor.racesettings.enablecompetitivefeaturesheader,경쟁 기능
+raceeditor.racesettings.enablecompetitivefeatureswhenmodsaredetected,게임 모드가 활성화되어 있어도 경쟁 기능 사용
+raceeditor.racesettings.header,Race 편집기
+raceeditor.racesettings.nameheader,Race 이름
+raceeditor.racesettings.nameplaceholder,Race 이름 입력
+raceeditor.racesettings.shareagainforchangetotakeeffect,이 변경 사항을 멀티플레이에 반영하려면 Steam Workshop에 Race를 다시 공유하세요.
+raceeditor.saverace.success.description,Race {0} 저장 완료.
+raceeditor.saverace.success.header,Race 저장됨
+raceeditor.sharerace.shareracesuccessful,Race가 성공적으로 공유되었습니다!
 racemonitor.countdown.liftoff,Liftoff!
 racemonitor.waitinforotherplayers,Waiting for other players...
 raceselector.besttime,Best Time: {0}
@@ -2802,119 +2802,119 @@ tournaments.signin.usernameoremail,Username or e-mail
 tournaments.updatetournament.announce,Announce tournament on public channels.
 trackbuilder.availableinrace,Available in Race
 trackbuilder.hiddeninrace,Hidden in Race
-trackeditor.backtotrackbuilder,Back to Track Builder
-trackeditor.bysharingyouagreetothetermsofservice,"By sharing your item, you agree to the
-<color=#0000ffff>terms of service</color>."
-trackeditor.checkpoint.availableinrace,Available in Race
-trackeditor.checkpoint.hiddeninrace,Hidden in Race
-trackeditor.createnewrace,Create New Race
-trackeditor.createnewtrack,Create New Track
-trackeditor.currentrace,Current Race:
-trackeditor.currenttrack,Current Track:
-trackeditor.dronetrigger.playsound.label,Sound file
-trackeditor.dronetrigger.rechargebattery.label,Full recharge time
-trackeditor.dronetrigger.repairpropellers.label,Full repair time
-trackeditor.dronetrigger.showtext.displaytext,Display text
-trackeditor.dronetrigger.showtext.placeholder,Enter trigger text...
-trackeditor.editrace,Edit Race
-trackeditor.editraces,Edit Races
-trackeditor.edittrack,Edit Track
-trackeditor.enterracename,Enter Race name 
-trackeditor.entertrackname,Enter Track name 
-trackeditor.export,Export
-trackeditor.export.description,Export track {0} to your documents.
-trackeditor.export.directoryalreadyexists.contents,The directory to which you would like to save already exists. This directory will get cleared. Would you like to continue?
-trackeditor.export.directoryalreadyexists.header,Directory already exists
-trackeditor.export.entername,Enter name...
-trackeditor.export.includeraces,Export track: include races
-trackeditor.export.success.contents,Successfully exported {0} to yur documents.
-trackeditor.export.success.header,Export success
-trackeditor.exporttrack,Export Track
-trackeditor.file.createnewtrack.description,"Your track has unsaved changes. Creating a new one will undo these changes.
+trackeditor.backtotrackbuilder,Track Builder로 돌아가기
+trackeditor.bysharingyouagreetothetermsofservice,"항목을 공유하면
+<color=#0000ffff>서비스 약관</color>에 동의하게 됩니다."
+trackeditor.checkpoint.availableinrace,Race에서 사용
+trackeditor.checkpoint.hiddeninrace,Race에서 숨김
+trackeditor.createnewrace,새 Race 만들기
+trackeditor.createnewtrack,새 Track 만들기
+trackeditor.currentrace,현재 Race:
+trackeditor.currenttrack,현재 Track:
+trackeditor.dronetrigger.playsound.label,사운드 파일
+trackeditor.dronetrigger.rechargebattery.label,완전 충전 시간
+trackeditor.dronetrigger.repairpropellers.label,완전 수리 시간
+trackeditor.dronetrigger.showtext.displaytext,표시 텍스트
+trackeditor.dronetrigger.showtext.placeholder,트리거 텍스트 입력...
+trackeditor.editrace,Race 편집
+trackeditor.editraces,Race 편집
+trackeditor.edittrack,Track 편집
+trackeditor.enterracename,Race 이름 입력 
+trackeditor.entertrackname,Track 이름 입력 
+trackeditor.export,내보내기
+trackeditor.export.description,Track {0}을(를) 문서 폴더로 내보냅니다.
+trackeditor.export.directoryalreadyexists.contents,저장하려는 디렉터리가 이미 존재합니다. 이 디렉터리는 비워집니다. 계속하시겠습니까?
+trackeditor.export.directoryalreadyexists.header,디렉터리가 이미 존재함
+trackeditor.export.entername,이름 입력...
+trackeditor.export.includeraces,Track 내보내기: Race 포함
+trackeditor.export.success.contents,{0}을(를) 문서 폴더로 성공적으로 내보냈습니다.
+trackeditor.export.success.header,내보내기 성공
+trackeditor.exporttrack,Track 내보내기
+trackeditor.file.createnewtrack.description,"Track에 저장되지 않은 변경 사항이 있습니다. 새 Track을 만들면 이 변경 사항이 사라집니다.
 
-Do you want to continue?"
-trackeditor.file.createnewtrack.header,Create new Track
-trackeditor.file.editrace.description,"Your Track has unsaved changes. Before you can edit Races, you must save it.
+계속하시겠습니까?"
+trackeditor.file.createnewtrack.header,새 Track 만들기
+trackeditor.file.editrace.description,"Track에 저장되지 않은 변경 사항이 있습니다. Race를 편집하려면 먼저 저장해야 합니다.
 
-Do you want to continue?"
-trackeditor.file.editrace.header,Edit Races
-trackeditor.file.exit.description,"Your Track has unsaved changes. Exiting to the main menu will undo them.
+계속하시겠습니까?"
+trackeditor.file.editrace.header,Race 편집
+trackeditor.file.exit.description,"Track에 저장되지 않은 변경 사항이 있습니다. 메인 메뉴로 나가면 이 변경 사항이 사라집니다.
 
-Do you want to continue?"
-trackeditor.file.exit.header,Exit Track Editor
-trackeditor.file.loadtrack.description,"Your track has unsaved changes. Loading a different one undo these changes.
+계속하시겠습니까?"
+trackeditor.file.exit.header,Track Editor 나가기
+trackeditor.file.loadtrack.description,"Track에 저장되지 않은 변경 사항이 있습니다. 다른 Track을 불러오면 이 변경 사항이 사라집니다.
 
-Do you want to continue?"
-trackeditor.file.loadtrack.header,Load Track
-trackeditor.file.nameconflict.description,You already have a Track with the same name. Please choose another name for your Track.
-trackeditor.file.nameconflict.header,Track Name Conflict
-trackeditor.file.sharetrack.description,"Your Track has unsaved changes. Before you can share it, you must save it.
+계속하시겠습니까?"
+trackeditor.file.loadtrack.header,Track 불러오기
+trackeditor.file.nameconflict.description,같은 이름의 Track이 이미 있습니다. 다른 Track 이름을 선택해 주세요.
+trackeditor.file.nameconflict.header,Track 이름 충돌
+trackeditor.file.sharetrack.description,"Track에 저장되지 않은 변경 사항이 있습니다. 공유하려면 먼저 저장해야 합니다.
 
-Do you want to continue?"
-trackeditor.file.sharetrack.header,Share Track
-trackeditor.file.testtrack.description,"Your Track has unsaved changes. Before you can test it, you must save it.
+계속하시겠습니까?"
+trackeditor.file.sharetrack.header,Track 공유
+trackeditor.file.testtrack.description,"Track에 저장되지 않은 변경 사항이 있습니다. 테스트하려면 먼저 저장해야 합니다.
 
-Do you want to continue?"
-trackeditor.file.testtrack.header,Test Track
-trackeditor.file.unsavedchanges.saveandcontine,Save & continue
-trackeditor.file.unsavedchanges.saveandshare,Save & share
-trackeditor.file.unsavedchanges.saveandtest,Save & test
-trackeditor.floatymode,Floaty mode
-trackeditor.flytrack,Fly Track
-trackeditor.gizmomode.rotate,Rotate
-trackeditor.gizmomode.scale,Scale
-trackeditor.gizmomode.translate,Move
+계속하시겠습니까?"
+trackeditor.file.testtrack.header,Track 테스트
+trackeditor.file.unsavedchanges.saveandcontine,저장 후 계속
+trackeditor.file.unsavedchanges.saveandshare,저장 후 공유
+trackeditor.file.unsavedchanges.saveandtest,저장 후 테스트
+trackeditor.floatymode,플로티 모드
+trackeditor.flytrack,Track 비행
+trackeditor.gizmomode.rotate,회전
+trackeditor.gizmomode.scale,크기 조절
+trackeditor.gizmomode.translate,이동
 trackeditor.header,Track Editor
-trackeditor.importall,Import all
-trackeditor.importloading.content,Importing item {0}...
-trackeditor.importloading.header,Importing
-trackeditor.importpopup.content,<b>Warning:</b> importing content from the workshop will replace your current content. This action cannot be undone. Do you want to continue?
-trackeditor.importpopup.header,Import from workshop
-trackeditor.importracefromworkshop,Import race from the workshop
-trackeditor.importraces,Import Races
-trackeditor.importselected,Import selected
-trackeditor.importtrackfromworkshop,Import track from the workshop
-trackeditor.importtracks,Import Tracks
-trackeditor.includepreviewimage,Include preview image
-trackeditor.loadaraceforthecurrenttrack,Load a Race for the current Track.
-trackeditor.loadatrackforthisenvironment,Load a Track for this Environment
-trackeditor.loadrace,Load Race
-trackeditor.loadtrack,Load Track
-trackeditor.menu,Menu
-trackeditor.outofbounds,Out of bounds
-trackeditor.place,Place
-trackeditor.placemode.dragcentercam,Place
-trackeditor.placemode.gizmo,Manipulate
-trackeditor.race.file.conflict.description,You already have a Race with the same name. Please choose another name for your Race.
-trackeditor.race.file.conflict.header,Race Name Conflict
-trackeditor.racename.none,None
-trackeditor.returntomainmenu,Return to Main Menu
-trackeditor.saverace,Save Race
-trackeditor.savetrack,Save Track
-trackeditor.savetrack.success.description,Track {0} saved successfully.
-trackeditor.savetrack.success.header,Track Saved
-trackeditor.selectall,Select all
-trackeditor.selectcategory,Select a category
-trackeditor.share,Share
-trackeditor.sharerace,Share Race
-trackeditor.sharetrack,Share Track
-trackeditor.sharetrack.sharetracksuccessful,Your Track was shared successfully.
-trackeditor.spawnpoint.name,Spawn point name
-trackeditor.spawnpoint.nameplaceholder,Enter spawnpoint name...
-trackeditor.trackname.none,None
-trackeditor.tracksettings,Track settings
-trackeditor.tracksettings.descriptionheader,Track description
-trackeditor.tracksettings.descriptionplaceholder,Enter Track description
-trackeditor.tracksettings.hidedefaultspawnpoint,Hide default spawnpoint
-trackeditor.tracksettings.nameheader,Track name
-trackeditor.tracksettings.nameplaceholder,Enter Track name
-trackeditor.tracksettings.spawnpointsettingsheader,Spawn point settings
-trackeditor.tracksettings.unappliedchanges.description,You have made changes that are not yet saved to the track. Do you want to go back without saving?
-trackeditor.tracksettings.unappliedchanges.header,Unsaved changes
-trackeditor.updatingdots,Updating...
-trackeditor.viewmode.topdown,Top Down
-trackeditor.viewtype.firstperson,First Person
-trackeditor.youcanaddscreenshotsanddetailsonworkshop,You can add screenshots and additional details on the Workshop page.
+trackeditor.importall,모두 가져오기
+trackeditor.importloading.content,항목 {0} 가져오는 중...
+trackeditor.importloading.header,가져오는 중
+trackeditor.importpopup.content,<b>경고:</b> 워크숍에서 콘텐츠를 가져오면 현재 콘텐츠가 대체됩니다. 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?
+trackeditor.importpopup.header,워크숍에서 가져오기
+trackeditor.importracefromworkshop,워크숍에서 Race 가져오기
+trackeditor.importraces,Race 가져오기
+trackeditor.importselected,선택 항목 가져오기
+trackeditor.importtrackfromworkshop,워크숍에서 Track 가져오기
+trackeditor.importtracks,Track 가져오기
+trackeditor.includepreviewimage,미리보기 이미지 포함
+trackeditor.loadaraceforthecurrenttrack,현재 Track용 Race를 불러옵니다.
+trackeditor.loadatrackforthisenvironment,이 환경용 Track을 불러옵니다
+trackeditor.loadrace,Race 불러오기
+trackeditor.loadtrack,Track 불러오기
+trackeditor.menu,메뉴
+trackeditor.outofbounds,범위 밖
+trackeditor.place,배치
+trackeditor.placemode.dragcentercam,배치
+trackeditor.placemode.gizmo,조작
+trackeditor.race.file.conflict.description,같은 이름의 Race가 이미 있습니다. 다른 Race 이름을 선택해 주세요.
+trackeditor.race.file.conflict.header,Race 이름 충돌
+trackeditor.racename.none,없음
+trackeditor.returntomainmenu,메인 메뉴로 돌아가기
+trackeditor.saverace,Race 저장
+trackeditor.savetrack,Track 저장
+trackeditor.savetrack.success.description,Track {0} 저장 완료.
+trackeditor.savetrack.success.header,Track 저장됨
+trackeditor.selectall,모두 선택
+trackeditor.selectcategory,카테고리 선택
+trackeditor.share,공유
+trackeditor.sharerace,Race 공유
+trackeditor.sharetrack,Track 공유
+trackeditor.sharetrack.sharetracksuccessful,Track이 성공적으로 공유되었습니다.
+trackeditor.spawnpoint.name,스폰 지점 이름
+trackeditor.spawnpoint.nameplaceholder,스폰 지점 이름 입력...
+trackeditor.trackname.none,없음
+trackeditor.tracksettings,Track 설정
+trackeditor.tracksettings.descriptionheader,Track 설명
+trackeditor.tracksettings.descriptionplaceholder,Track 설명 입력
+trackeditor.tracksettings.hidedefaultspawnpoint,기본 스폰 지점 숨기기
+trackeditor.tracksettings.nameheader,Track 이름
+trackeditor.tracksettings.nameplaceholder,Track 이름 입력
+trackeditor.tracksettings.spawnpointsettingsheader,스폰 지점 설정
+trackeditor.tracksettings.unappliedchanges.description,아직 Track에 저장되지 않은 변경 사항이 있습니다. 저장하지 않고 돌아가시겠습니까?
+trackeditor.tracksettings.unappliedchanges.header,저장되지 않은 변경 사항
+trackeditor.updatingdots,업데이트 중...
+trackeditor.viewmode.topdown,탑다운
+trackeditor.viewtype.firstperson,1인칭
+trackeditor.youcanaddscreenshotsanddetailsonworkshop,워크숍 페이지에서 스크린샷과 추가 설명을 더할 수 있습니다.
 trackselector.buildintrack,Built-in Track
 trackselector.builtintrack,Built-in Track
 trackselector.customtrack,Custom Track
