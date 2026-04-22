@@ -1197,234 +1197,234 @@ moddetection.moddetected.header,External game modifications
 moddetection.multiplayerleaderboardupdatesdisabled.ticker,Leaderboard updates are disabled
 moddetection.tournamenttryoutsdisabled.description,Competitive features in Liftoff are currently disabled. It's not possible to currently register a tryout.
 moddetection.tournamenttryoutsdisabled.header,Tryouts disabled
-multiplayer.ban.header,Ban player
-multiplayer.ban.insufficientpermissions,Insufficient permission to execute this action.
-multiplayer.ban.servererror,Something went wrong at the server while processing the action.
-multiplayer.ban.success,Successfully banned player <b>{0}</b>.
-multiplayer.ban.unknownreason,Unknown reason.
-multiplayer.banned.description,"You were banned from the game by <b>{0}</b>.
-If you have questions about your ban, contact <b>accounts@liftoff-game.com</b>."
-multiplayer.banned.header,Banned
-multiplayer.banned.systemlog,Player {0} was banned by admin {1}.
-multiplayer.banplayer.header,Ban player
-multiplayer.chat.entermessage,Enter message...
-multiplayer.chat.header,Chat
-multiplayer.chat.hidechat,Hide Chat
-multiplayer.chat.send,Send
-multiplayer.chat.showchat,Show Chat
-multiplayer.classicrace.status.crashed,Crashed
+multiplayer.ban.header,플레이어 차단
+multiplayer.ban.insufficientpermissions,이 작업을 실행할 권한이 부족합니다.
+multiplayer.ban.servererror,작업을 처리하는 동안 서버에서 문제가 발생했습니다.
+multiplayer.ban.success,플레이어 <b>{0}</b>를 성공적으로 차단했습니다.
+multiplayer.ban.unknownreason,알 수 없는 이유.
+multiplayer.banned.description,"<b>{0}</b>에 의해 게임에서 차단되었습니다.
+차단에 대해 궁금한 점이 있으면 <b>accounts@liftoff-game.com</b>으로 문의해 주세요."
+multiplayer.banned.header,차단됨
+multiplayer.banned.systemlog,플레이어 {0}가 관리자 {1}에 의해 차단되었습니다.
+multiplayer.banplayer.header,플레이어 차단
+multiplayer.chat.entermessage,메시지 입력...
+multiplayer.chat.header,채팅
+multiplayer.chat.hidechat,채팅 숨기기
+multiplayer.chat.send,보내기
+multiplayer.chat.showchat,채팅 표시
+multiplayer.classicrace.status.crashed,충돌
 multiplayer.classicrace.status.didnotfinish,DNF
-multiplayer.classicrace.status.finished,Finished
-multiplayer.classicrace.status.gaveup,Gave up
-multiplayer.classicrace.status.lapnr,Lap {0}
-multiplayer.classicrace.status.loading,Loading
-multiplayer.classicrace.status.playercrashed,{0} crashed
-multiplayer.classicrace.status.playerfinished,{0} finished
-multiplayer.classicrace.status.playergaveup,{0} gave up
-multiplayer.classicrace.status.playertimedout,{0} timed out
-multiplayer.classicrace.status.timedout,Timed out
-multiplayer.connectionstatus.connectingdots,Connecting...
-multiplayer.connectionstatus.disconnected,Disconnected
-multiplayer.connectionstatus.disconnected.description,This could have happened due to a bad connection to the Liftoff service or you have been kicked from the game.
-multiplayer.connectionstatus.disconnectedfromliftoffservicedots,You have been disconnected from the Liftoff service...
-multiplayer.connectionstatus.disconnectingfromliftoffservicedots,Disconnecting from the Liftoff service...
-multiplayer.connectionstatus.goingtomainmenudots,Going to main menu...
-multiplayer.connectionstatus.joininglobbydots,Joining lobby...
-multiplayer.connectionstatus.joiningroomdots,Joining room...
-multiplayer.connectionstatus.leavinglobbydots,Leaving lobby...
-multiplayer.connectionstatus.leavingroomdots,Leaving room...
-multiplayer.contentselection.status.checking,(checking)
-multiplayer.contentselection.status.notpublic,(not public)
-multiplayer.contentselection.status.notshared,(not shared)
-multiplayer.contentselection.status.notsharing,(not shared)
-multiplayer.contentselection.status.unknownreason,(unknown reason)
-multiplayer.droneconflicts.leaderboardsdisabled,"Your drone has conficting parts. Leaderboard updates are disabled, and your scores will not be shared with other players."
-multiplayer.dropoutrace.results.lapcount,{[NrOfLaps]} Laps[i2p_One]{[NrOfLaps]} Lap
-multiplayer.dropoutrace.status.crashed,Crashed
-multiplayer.dropoutrace.status.eliminated,Eliminated
-multiplayer.dropoutrace.status.eliminationwarning,Elimination warning!
-multiplayer.dropoutrace.status.finished,Finished
-multiplayer.dropoutrace.status.gaveup,Gave up
-multiplayer.dropoutrace.status.lapnr,Lap {0}
-multiplayer.dropoutrace.status.loading,Loading
-multiplayer.dropoutrace.status.playercrashed,{0} crashed
-multiplayer.dropoutrace.status.playereliminated,{0} eliminated
-multiplayer.dropoutrace.status.playergaveup,{0} gave up
-multiplayer.dropoutrace.status.playertimedout,{0} timed out
-multiplayer.dropoutrace.status.timedout,Timed out
-multiplayer.gamemode.classicrace,Classic Race
-multiplayer.gamemode.dropoutrace,Dropout Race
-multiplayer.gamemode.freeflight,Freeflight
-multiplayer.gamemode.infiniterace,Infinite Race
-multiplayer.gamemode.race,Race
-multiplayer.gamesettings.creategame,Create game
-multiplayer.gamesettings.updategame,Update game
-multiplayer.joined.systemlog,Player {0} has joined the game.
-multiplayer.kicked.description,You were kicked from the game by <b>{0}</b>.
-multiplayer.kicked.header,Kicked
-multiplayer.kicked.systemlog,Player {0} was kicked by {1}.
-multiplayer.leaderboard,Leaderboard
-multiplayer.leaderboards,Leaderboards
-multiplayer.leaderboards.archives,Archives
-multiplayer.leaderboards.archives.latest,Latest
-multiplayer.leaderboards.archives.norecordings,Legacy - no recordings
-multiplayer.leaderboards.archives.norecordings.description,Leaderboards before recordings were available per entry.
-multiplayer.leaderboards.archives.physics5,Legacy - Physics 5.0
-multiplayer.leaderboards.archives.physics5.description,Leaderboards with version 5.0 of the Liftoff physics engine.
-multiplayer.leaderboards.backtomenu,Back to menu
-multiplayer.leaderboards.bestlaptimes,Best lap times
-multiplayer.leaderboards.bestlaptimespurist,Best lap times (Purist)
-multiplayer.leaderboards.bestracetimes,Best race times
-multiplayer.leaderboards.bestracetimespurist,Best race times (Purist)
-multiplayer.leaderboards.confirmnewpassword,Confirm new password
-multiplayer.leaderboards.connectingtoserver,Connecting to server.
-multiplayer.leaderboards.connectionstatus,Connection status
-multiplayer.leaderboards.contentselection,Content
-multiplayer.leaderboards.copydrone.droneconfignameplaceholder,Enter drone configuration name...
-multiplayer.leaderboards.copydrone.droneconfigurationnotice,<b>Note</b>: the drone configuration in the recording doesn't have any flight controller settings saved. A default profile will be applied.
-multiplayer.leaderboards.copydrone.enterdroneconfigname,Enter a name for the new drone configuration:
-multiplayer.leaderboards.copydrone.header,Copy drone
-multiplayer.leaderboards.dateselection,Date
-multiplayer.leaderboards.deleterecord,Delete record
-multiplayer.leaderboards.deleterecord.description,"Are you sure you want to delete this score?
+multiplayer.classicrace.status.finished,완주
+multiplayer.classicrace.status.gaveup,포기
+multiplayer.classicrace.status.lapnr,{0}랩
+multiplayer.classicrace.status.loading,불러오는 중
+multiplayer.classicrace.status.playercrashed,{0} 충돌
+multiplayer.classicrace.status.playerfinished,{0} 완주
+multiplayer.classicrace.status.playergaveup,{0} 포기
+multiplayer.classicrace.status.playertimedout,{0} 시간 초과
+multiplayer.classicrace.status.timedout,시간 초과
+multiplayer.connectionstatus.connectingdots,연결 중...
+multiplayer.connectionstatus.disconnected,연결 끊김
+multiplayer.connectionstatus.disconnected.description,Liftoff 서비스와의 연결이 좋지 않거나 게임에서 추방되어 이런 일이 발생했을 수 있습니다.
+multiplayer.connectionstatus.disconnectedfromliftoffservicedots,Liftoff 서비스와의 연결이 끊어졌습니다...
+multiplayer.connectionstatus.disconnectingfromliftoffservicedots,Liftoff 서비스 연결 해제 중...
+multiplayer.connectionstatus.goingtomainmenudots,메인 메뉴로 이동 중...
+multiplayer.connectionstatus.joininglobbydots,로비 참가 중...
+multiplayer.connectionstatus.joiningroomdots,게임 참가 중...
+multiplayer.connectionstatus.leavinglobbydots,로비 나가는 중...
+multiplayer.connectionstatus.leavingroomdots,게임 나가는 중...
+multiplayer.contentselection.status.checking,(확인 중)
+multiplayer.contentselection.status.notpublic,(공개 아님)
+multiplayer.contentselection.status.notshared,(공유되지 않음)
+multiplayer.contentselection.status.notsharing,(공유되지 않음)
+multiplayer.contentselection.status.unknownreason,(알 수 없는 이유)
+multiplayer.droneconflicts.leaderboardsdisabled,"드론 부품에 충돌이 있습니다. 리더보드 업데이트가 비활성화되며, 점수는 다른 플레이어와 공유되지 않습니다."
+multiplayer.dropoutrace.results.lapcount,{[NrOfLaps]}랩[i2p_One]{[NrOfLaps]}랩
+multiplayer.dropoutrace.status.crashed,충돌
+multiplayer.dropoutrace.status.eliminated,탈락
+multiplayer.dropoutrace.status.eliminationwarning,탈락 경고!
+multiplayer.dropoutrace.status.finished,완주
+multiplayer.dropoutrace.status.gaveup,포기
+multiplayer.dropoutrace.status.lapnr,{0}랩
+multiplayer.dropoutrace.status.loading,불러오는 중
+multiplayer.dropoutrace.status.playercrashed,{0} 충돌
+multiplayer.dropoutrace.status.playereliminated,{0} 탈락
+multiplayer.dropoutrace.status.playergaveup,{0} 포기
+multiplayer.dropoutrace.status.playertimedout,{0} 시간 초과
+multiplayer.dropoutrace.status.timedout,시간 초과
+multiplayer.gamemode.classicrace,클래식 레이스
+multiplayer.gamemode.dropoutrace,드롭아웃 레이스
+multiplayer.gamemode.freeflight,자유 비행
+multiplayer.gamemode.infiniterace,무한 레이스
+multiplayer.gamemode.race,레이스
+multiplayer.gamesettings.creategame,게임 생성
+multiplayer.gamesettings.updategame,게임 업데이트
+multiplayer.joined.systemlog,플레이어 {0}가 게임에 참가했습니다.
+multiplayer.kicked.description,<b>{0}</b>에 의해 게임에서 추방되었습니다.
+multiplayer.kicked.header,추방됨
+multiplayer.kicked.systemlog,플레이어 {0}가 {1}에 의해 추방되었습니다.
+multiplayer.leaderboard,리더보드
+multiplayer.leaderboards,리더보드
+multiplayer.leaderboards.archives,아카이브
+multiplayer.leaderboards.archives.latest,최신
+multiplayer.leaderboards.archives.norecordings,레거시 - 기록 없음
+multiplayer.leaderboards.archives.norecordings.description,항목별 기록 기능이 제공되기 전의 리더보드입니다.
+multiplayer.leaderboards.archives.physics5,레거시 - Physics 5.0
+multiplayer.leaderboards.archives.physics5.description,Liftoff 물리 엔진 5.0 버전을 사용한 리더보드입니다.
+multiplayer.leaderboards.backtomenu,메뉴로 돌아가기
+multiplayer.leaderboards.bestlaptimes,최고 랩타임
+multiplayer.leaderboards.bestlaptimespurist,최고 랩타임 (Purist)
+multiplayer.leaderboards.bestracetimes,최고 레이스 기록
+multiplayer.leaderboards.bestracetimespurist,최고 레이스 기록 (Purist)
+multiplayer.leaderboards.confirmnewpassword,새 비밀번호 확인
+multiplayer.leaderboards.connectingtoserver,서버에 연결 중입니다.
+multiplayer.leaderboards.connectionstatus,연결 상태
+multiplayer.leaderboards.contentselection,콘텐츠
+multiplayer.leaderboards.copydrone.droneconfignameplaceholder,드론 설정 이름 입력...
+multiplayer.leaderboards.copydrone.droneconfigurationnotice,<b>참고</b>: 기록 속 드론 설정에는 비행 컨트롤러 설정이 저장되어 있지 않습니다. 기본 프로필이 적용됩니다.
+multiplayer.leaderboards.copydrone.enterdroneconfigname,새 드론 설정의 이름을 입력하세요:
+multiplayer.leaderboards.copydrone.header,드론 복사
+multiplayer.leaderboards.dateselection,날짜
+multiplayer.leaderboards.deleterecord,기록 삭제
+multiplayer.leaderboards.deleterecord.description,"이 점수를 삭제하시겠습니까?
 
-This action cannot be undone."
-multiplayer.leaderboards.deleterecord.header,Delete record
-multiplayer.leaderboards.deleterecordfailed.description,"Something went wrong while deleting the score. Please try again later, or contact the Liftoff development team."
-multiplayer.leaderboards.deleterecordfailed.header,Record deletion failed
-multiplayer.leaderboards.description,Check out the race and lap times you and your competitors flew in multiplayer. Your best racing times are updated automatically on the Liftoff leaderboards when you set a new personal record. Continue to improve your flying skills by beating the top times and gain fame among drone pilots worldwide.
-multiplayer.leaderboards.entry.unavailable,Unavailable
-multiplayer.leaderboards.entry.view,View
-multiplayer.leaderboards.failedtoloadrecordings.header,Failed to load recordings
-multiplayer.leaderboards.improvedscorelocal,You improved your score on leaderboard {0}: {1}.
-multiplayer.leaderboards.improvedscoreother,{0} improved their score on leaderboard {1}: {2}.
-multiplayer.leaderboards.leaderboard,Leaderboard
-multiplayer.leaderboards.leaderboard.header,Leaderboard
-multiplayer.leaderboards.leaderboarddate,Leaderboard date
-multiplayer.leaderboards.loadingleaderboard,Loading leaderboard...
-multiplayer.leaderboards.loadmoreentries,Load more
-multiplayer.leaderboards.nodroneinfoavailable,No drone information available
-multiplayer.leaderboards.noentriesavailable,No entries available
-multiplayer.leaderboards.notsignedin,You are not signed in to {0}.
-multiplayer.leaderboards.personalbest,Personal best
-multiplayer.leaderboards.player.header,Player
-multiplayer.leaderboards.playername,Name
-multiplayer.leaderboards.races,Races
-multiplayer.leaderboards.rank.header,Rank
-multiplayer.leaderboards.scorenotice,Scores are only registered in multiplayer.
-multiplayer.leaderboards.scoretimestamp,Timestamp
-multiplayer.leaderboards.select.header,Select
-multiplayer.leaderboards.selectarchive,Archive
-multiplayer.leaderboards.selectleaderboard,Select Leaderboard
-multiplayer.leaderboards.time.header,Time
-multiplayer.leaderboards.viewleaderboard,View
-multiplayer.leaderboards.yourrank,Your rank
-multiplayer.leaderboardticker.bestlaptimes,Best Lap Times{0}
-multiplayer.leaderboardticker.bestracetimes,Best Race Times{0}
-multiplayer.leaderboardticker.norankingavailable,No ranking available
-multiplayer.leaderboardticker.norankingsavailable,No rankings available
-multiplayer.leaderboardticker.yourbestlaptime,Your Best Lap Time{0}
-multiplayer.leaderboardticker.yourbestracetime,Your Best Race Time{0}
-multiplayer.leaderboardticker.yourranking,Your ranking
-multiplayer.leftgame.systemlog,Player {0} has left the game.
-multiplayer.lobby,Lobby
-multiplayer.lobby.attemptjoinrandomroom,Attempting to join a random game.
-multiplayer.lobby.authenticationexpired,Your authentication has expired.
-multiplayer.lobby.blockedplayerinroom.description,"One or more players that you have blocked are present in this game:
+이 작업은 되돌릴 수 없습니다."
+multiplayer.leaderboards.deleterecord.header,기록 삭제
+multiplayer.leaderboards.deleterecordfailed.description,"점수를 삭제하는 동안 문제가 발생했습니다. 나중에 다시 시도하거나 Liftoff 개발팀에 문의해 주세요."
+multiplayer.leaderboards.deleterecordfailed.header,기록 삭제 실패
+multiplayer.leaderboards.description,멀티플레이에서 여러분과 다른 경쟁자들이 기록한 레이스 및 랩타임을 확인해 보세요. 새로운 개인 최고 기록을 세우면 최고의 레이스 기록이 Liftoff 리더보드에 자동으로 업데이트됩니다. 최고 기록을 경신하며 비행 실력을 계속 끌어올리고, 전 세계 드론 파일럿들 사이에서 명성을 얻어 보세요.
+multiplayer.leaderboards.entry.unavailable,사용 불가
+multiplayer.leaderboards.entry.view,보기
+multiplayer.leaderboards.failedtoloadrecordings.header,기록 불러오기 실패
+multiplayer.leaderboards.improvedscorelocal,리더보드 {0}에서 기록이 향상되었습니다: {1}.
+multiplayer.leaderboards.improvedscoreother,{0} 님이 리더보드 {1}에서 기록을 향상했습니다: {2}.
+multiplayer.leaderboards.leaderboard,리더보드
+multiplayer.leaderboards.leaderboard.header,리더보드
+multiplayer.leaderboards.leaderboarddate,리더보드 날짜
+multiplayer.leaderboards.loadingleaderboard,리더보드 불러오는 중...
+multiplayer.leaderboards.loadmoreentries,더 불러오기
+multiplayer.leaderboards.nodroneinfoavailable,드론 정보 없음
+multiplayer.leaderboards.noentriesavailable,항목 없음
+multiplayer.leaderboards.notsignedin,{0}에 로그인되어 있지 않습니다.
+multiplayer.leaderboards.personalbest,개인 최고 기록
+multiplayer.leaderboards.player.header,플레이어
+multiplayer.leaderboards.playername,이름
+multiplayer.leaderboards.races,레이스
+multiplayer.leaderboards.rank.header,순위
+multiplayer.leaderboards.scorenotice,점수는 멀티플레이에서만 기록됩니다.
+multiplayer.leaderboards.scoretimestamp,기록 시각
+multiplayer.leaderboards.select.header,선택
+multiplayer.leaderboards.selectarchive,아카이브
+multiplayer.leaderboards.selectleaderboard,리더보드 선택
+multiplayer.leaderboards.time.header,시간
+multiplayer.leaderboards.viewleaderboard,보기
+multiplayer.leaderboards.yourrank,내 순위
+multiplayer.leaderboardticker.bestlaptimes,최고 랩타임{0}
+multiplayer.leaderboardticker.bestracetimes,최고 레이스 기록{0}
+multiplayer.leaderboardticker.norankingavailable,순위 없음
+multiplayer.leaderboardticker.norankingsavailable,순위 없음
+multiplayer.leaderboardticker.yourbestlaptime,내 최고 랩타임{0}
+multiplayer.leaderboardticker.yourbestracetime,내 최고 레이스 기록{0}
+multiplayer.leaderboardticker.yourranking,내 순위
+multiplayer.leftgame.systemlog,플레이어 {0}가 게임을 떠났습니다.
+multiplayer.lobby,로비
+multiplayer.lobby.attemptjoinrandomroom,랜덤 게임 참가 시도 중입니다.
+multiplayer.lobby.authenticationexpired,인증이 만료되었습니다.
+multiplayer.lobby.blockedplayerinroom.description,"여러분이 차단한 플레이어가 이 게임에 한 명 이상 있습니다:
 {0}
 
-Do you want to continue joining this game?"
-multiplayer.lobby.blockedplayerinroom.header,Blocked player in game
-multiplayer.lobby.clienttimeout,Client timed-out.
-multiplayer.lobby.connection,Connection
-multiplayer.lobby.connectionerrordots,Connection error...
-multiplayer.lobby.connectionstate.description,Connection status description
-multiplayer.lobby.connectionstate.header,Connection status
-multiplayer.lobby.connectiontoroomcreationservice,Connecting to the game creation service.
-multiplayer.lobby.couldnotfindrandomroom,Could not find a random game to join.
-multiplayer.lobby.createroom,Create game
-multiplayer.lobby.description,"Show your skill and compete with your friends and other pilots in online races. Chat with others while you wait for that fool of a host that doesn't know where the Start Game button is. (It's on the left side of the screen, by the way.). See you on the race track!"
-multiplayer.lobby.disconnectbyserver,Disconnected by server.
-multiplayer.lobby.environment.header,Environment
-multiplayer.lobby.failedtojoindots,Failed to join room...
-multiplayer.lobby.failedtojoinlobby,Failed to join the lobby.
-multiplayer.lobby.filter.contenttype,Content type
-multiplayer.lobby.gamemode,Game mode
-multiplayer.lobby.header,Lobby
-multiplayer.lobby.host,Host
-multiplayer.lobby.joinblockedbyplayer.description,You can't enter this game because you are blocked by one or more players.
-multiplayer.lobby.joinblockedbyplayer.header,Blocked by player
-multiplayer.lobby.joiningroom,Joining game {0}.
-multiplayer.lobby.joiningroomheader,Joining game
-multiplayer.lobby.joinlobbyfailed,"Failed to join the multiplayer lobby.
+그래도 이 게임에 계속 참가하시겠습니까?"
+multiplayer.lobby.blockedplayerinroom.header,게임 내 차단 플레이어
+multiplayer.lobby.clienttimeout,클라이언트 시간 초과.
+multiplayer.lobby.connection,연결
+multiplayer.lobby.connectionerrordots,연결 오류...
+multiplayer.lobby.connectionstate.description,연결 상태 설명
+multiplayer.lobby.connectionstate.header,연결 상태
+multiplayer.lobby.connectiontoroomcreationservice,게임 생성 서비스에 연결 중입니다.
+multiplayer.lobby.couldnotfindrandomroom,참가할 랜덤 게임을 찾을 수 없습니다.
+multiplayer.lobby.createroom,게임 생성
+multiplayer.lobby.description,"실력을 뽐내고 온라인 레이스에서 친구 및 다른 파일럿들과 경쟁해 보세요. 시작 버튼이 어디 있는지도 모르는 호스트를 기다리는 동안 다른 사람들과 채팅도 할 수 있습니다. (참고로 화면 왼쪽에 있습니다.) 레이스 트랙에서 만나요!"
+multiplayer.lobby.disconnectbyserver,서버에 의해 연결이 끊어졌습니다.
+multiplayer.lobby.environment.header,환경
+multiplayer.lobby.failedtojoindots,게임 참가 실패...
+multiplayer.lobby.failedtojoinlobby,로비 참가 실패.
+multiplayer.lobby.filter.contenttype,콘텐츠 유형
+multiplayer.lobby.gamemode,게임 모드
+multiplayer.lobby.header,로비
+multiplayer.lobby.host,호스트
+multiplayer.lobby.joinblockedbyplayer.description,한 명 이상의 플레이어가 여러분을 차단했기 때문에 이 게임에 들어갈 수 없습니다.
+multiplayer.lobby.joinblockedbyplayer.header,플레이어에 의해 차단됨
+multiplayer.lobby.joiningroom,게임 {0}에 참가 중입니다.
+multiplayer.lobby.joiningroomheader,게임 참가 중
+multiplayer.lobby.joinlobbyfailed,"멀티플레이 로비 참가에 실패했습니다.
 
-Would you like to try to join again?"
-multiplayer.lobby.joinlobbyfailedheader,Join failed
-multiplayer.lobby.joinrandomroom,Join random game
-multiplayer.lobby.joinroom,Join game
-multiplayer.lobby.joinroom.entername,Enter the name of the game you wish to join. 
-multiplayer.lobby.joinroom.header,Join game
-multiplayer.lobby.joinroombyname,Join game by name
-multiplayer.lobby.joinroombynamebtn,Join game by name
-multiplayer.lobby.joinroomfailed,Failed to join the multiplayer game.
-multiplayer.lobby.joinroomfailedheader,Join failed
-multiplayer.lobby.joinroomfailedunknownreason,Failed to join the game for an unknown reason. Error code: {0}.
-multiplayer.lobby.loadingcontent,Please wait while the game content is being loaded in.
-multiplayer.lobby.loadingcontentdots,Loading content...
-multiplayer.lobby.loadingcontentheader,Loading content
-multiplayer.lobby.players.header,Players
-multiplayer.lobby.pleasewaitwhileloadingcontent,Please wait while the game content is being loaded in.
-multiplayer.lobby.race.header,Race
-multiplayer.lobby.roomdoesnotexist,The game does not exist.
-multiplayer.lobby.roomfilters,Game filters
-multiplayer.lobby.roomisclosed,The game is closed.
-multiplayer.lobby.roomisfull,The game is full.
-multiplayer.lobby.roomnameplaceholder,Enter game name
-multiplayer.lobby.rooms.header,Games
-multiplayer.lobby.servertimedout,The server timed-out.
-multiplayer.lobby.serveruserlimitreached,The server user-limit was reached and decided to kick you... We're sorry.
-multiplayer.lobby.showfullgames,Hide full games
-multiplayer.lobby.stabilizingconnection,Stabilizing connection.
-multiplayer.lobby.title,Multiplayer lobby
-multiplayer.lobby.track.header,Track
-multiplayer.logmessage.authenticatedsuccessfully,Authenticated successfully!
-multiplayer.logmessage.authenticatingdots,Authenticating...
-multiplayer.logmessage.authenticationfaileddots,Authentication failed...
-multiplayer.logmessage.connectingtoliftoffservice,Connecting to the Liftoff service.
-multiplayer.logmessage.connectionerrordots,Connection error...
-multiplayer.logmessage.couldnotcreateroomtryagain,Could not create a game. Try again later.
-multiplayer.logmessage.createtournamentroom,Creating tournament game.
-multiplayer.logmessage.creatingroomdots,Creating game...
-multiplayer.logmessage.creatingtournamentsetuponserver,Creating tournament setup on the server.
-multiplayer.logmessage.erroroccurredwhileloadingtournamentdetails,An error occurred while loading the tournament details.
-multiplayer.logmessage.erroroccurredwhileloadingtournaments,An error occurred while loading the tournaments.
-multiplayer.logmessage.failedtocreateroomdots,Failed to create a game...
-multiplayer.logmessage.failedtocreatetournamentroomdots,Failed to create a tournament game...
-multiplayer.logmessage.failedtodownloadcontentdots,Failed to download content...
-multiplayer.logmessage.failedtoentertournament,Failed to enter the tournament.
-multiplayer.logmessage.failedtogettournamentdata,Failed to get the tournament data.
-multiplayer.logmessage.failedtoleaveroom.dots,Failed to leave the game...
-multiplayer.logmessage.failedtoloadnecessarytournamentcontent,Failed to load all necessary tournament content...
-multiplayer.logmessage.failedtoregistertryoutrequesttryagain,"Failed to register your tryout request. Try again later, or contact the Liftoff team."
-multiplayer.logmessage.failedtosendauthentication,Failed to send the authentication request. Try again later.
-multiplayer.logmessage.failedtosendouttryoutregistration,Failed to send out the tryout registration request.
-multiplayer.logmessage.failedtosendpasswordrequest,Failed to send the password reset request.
-multiplayer.logmessage.failedtosendtryoutcountrequest,Failed to send out your tryout count request..
-multiplayer.logmessage.failedtosetuptournament,Failed to setup the tournament.
-multiplayer.logmessage.failedtosetuptournamentroom,Failed to set up the tournament game...
-multiplayer.logmessage.gamesettingsupdated,The game's settings have been updated.
-multiplayer.logmessage.initializingtournamentdots,Initializing tournament...
-multiplayer.logmessage.leavingroom,Leaving game.
-multiplayer.logmessage.loadingcontentdots,Loading content...
-multiplayer.logmessage.loadingerrordots,Loading error...
-multiplayer.logmessage.loadinggamedots,Loading game...
-multiplayer.logmessage.loadinglongerthanexpected,The loading seems to take longer than expected. Come back later and try again.
-multiplayer.logmessage.loadingplayerrecordings,Loading player recordings.
-multiplayer.logmessage.loadingtournamentcontent,Loading tournament content.
-multiplayer.logmessage.loadingtournamentdatadots,Loading tournament data...
-multiplayer.logmessage.loadingtournamentdetailserror,An error occurred while loading the details of tournament {0}.
-multiplayer.logmessage.loadingtournaments,An error occurred while attempting to display the tournament.
-multiplayer.logmessage.loadingtournamentsdots,Loading tournaments...
+다시 참가를 시도하시겠습니까?"
+multiplayer.lobby.joinlobbyfailedheader,참가 실패
+multiplayer.lobby.joinrandomroom,랜덤 게임 참가
+multiplayer.lobby.joinroom,게임 참가
+multiplayer.lobby.joinroom.entername,참가할 게임 이름을 입력하세요.
+multiplayer.lobby.joinroom.header,게임 참가
+multiplayer.lobby.joinroombyname,이름으로 게임 참가
+multiplayer.lobby.joinroombynamebtn,이름으로 게임 참가
+multiplayer.lobby.joinroomfailed,멀티플레이 게임 참가에 실패했습니다.
+multiplayer.lobby.joinroomfailedheader,참가 실패
+multiplayer.lobby.joinroomfailedunknownreason,알 수 없는 이유로 게임 참가에 실패했습니다. 오류 코드: {0}.
+multiplayer.lobby.loadingcontent,게임 콘텐츠를 불러오는 동안 잠시만 기다려 주세요.
+multiplayer.lobby.loadingcontentdots,콘텐츠 불러오는 중...
+multiplayer.lobby.loadingcontentheader,콘텐츠 불러오는 중
+multiplayer.lobby.players.header,플레이어
+multiplayer.lobby.pleasewaitwhileloadingcontent,게임 콘텐츠를 불러오는 동안 잠시만 기다려 주세요.
+multiplayer.lobby.race.header,레이스
+multiplayer.lobby.roomdoesnotexist,게임이 존재하지 않습니다.
+multiplayer.lobby.roomfilters,게임 필터
+multiplayer.lobby.roomisclosed,게임이 닫혀 있습니다.
+multiplayer.lobby.roomisfull,게임이 가득 찼습니다.
+multiplayer.lobby.roomnameplaceholder,게임 이름 입력
+multiplayer.lobby.rooms.header,게임
+multiplayer.lobby.servertimedout,서버 시간 초과.
+multiplayer.lobby.serveruserlimitreached,서버 사용자 제한에 도달해 여러분을 내보냈습니다... 죄송합니다.
+multiplayer.lobby.showfullgames,가득 찬 게임 숨기기
+multiplayer.lobby.stabilizingconnection,연결 안정화 중입니다.
+multiplayer.lobby.title,멀티플레이 로비
+multiplayer.lobby.track.header,트랙
+multiplayer.logmessage.authenticatedsuccessfully,인증에 성공했습니다!
+multiplayer.logmessage.authenticatingdots,인증 중...
+multiplayer.logmessage.authenticationfaileddots,인증 실패...
+multiplayer.logmessage.connectingtoliftoffservice,Liftoff 서비스에 연결 중입니다.
+multiplayer.logmessage.connectionerrordots,연결 오류...
+multiplayer.logmessage.couldnotcreateroomtryagain,게임을 생성할 수 없습니다. 나중에 다시 시도해 주세요.
+multiplayer.logmessage.createtournamentroom,토너먼트 게임 생성 중입니다.
+multiplayer.logmessage.creatingroomdots,게임 생성 중...
+multiplayer.logmessage.creatingtournamentsetuponserver,서버에 토너먼트 설정을 생성 중입니다.
+multiplayer.logmessage.erroroccurredwhileloadingtournamentdetails,토너먼트 세부 정보를 불러오는 중 오류가 발생했습니다.
+multiplayer.logmessage.erroroccurredwhileloadingtournaments,토너먼트를 불러오는 중 오류가 발생했습니다.
+multiplayer.logmessage.failedtocreateroomdots,게임 생성 실패...
+multiplayer.logmessage.failedtocreatetournamentroomdots,토너먼트 게임 생성 실패...
+multiplayer.logmessage.failedtodownloadcontentdots,콘텐츠 다운로드 실패...
+multiplayer.logmessage.failedtoentertournament,토너먼트 입장 실패.
+multiplayer.logmessage.failedtogettournamentdata,토너먼트 데이터를 가져오지 못했습니다.
+multiplayer.logmessage.failedtoleaveroom.dots,게임 나가기 실패...
+multiplayer.logmessage.failedtoloadnecessarytournamentcontent,필요한 토너먼트 콘텐츠를 모두 불러오지 못했습니다...
+multiplayer.logmessage.failedtoregistertryoutrequesttryagain,"트라이아웃 요청 등록에 실패했습니다. 나중에 다시 시도하거나 Liftoff 팀에 문의해 주세요."
+multiplayer.logmessage.failedtosendauthentication,인증 요청 전송에 실패했습니다. 나중에 다시 시도해 주세요.
+multiplayer.logmessage.failedtosendouttryoutregistration,트라이아웃 등록 요청 전송에 실패했습니다.
+multiplayer.logmessage.failedtosendpasswordrequest,비밀번호 재설정 요청 전송에 실패했습니다.
+multiplayer.logmessage.failedtosendtryoutcountrequest,트라이아웃 횟수 요청 전송에 실패했습니다.
+multiplayer.logmessage.failedtosetuptournament,토너먼트 설정에 실패했습니다.
+multiplayer.logmessage.failedtosetuptournamentroom,토너먼트 게임 설정 실패...
+multiplayer.logmessage.gamesettingsupdated,게임 설정이 업데이트되었습니다.
+multiplayer.logmessage.initializingtournamentdots,토너먼트 초기화 중...
+multiplayer.logmessage.leavingroom,게임을 나가는 중입니다.
+multiplayer.logmessage.loadingcontentdots,콘텐츠 불러오는 중...
+multiplayer.logmessage.loadingerrordots,불러오기 오류...
+multiplayer.logmessage.loadinggamedots,게임 불러오는 중...
+multiplayer.logmessage.loadinglongerthanexpected,불러오는 데 예상보다 오래 걸리고 있습니다. 나중에 다시 와서 시도해 주세요.
+multiplayer.logmessage.loadingplayerrecordings,플레이어 기록 불러오는 중입니다.
+multiplayer.logmessage.loadingtournamentcontent,토너먼트 콘텐츠 불러오는 중입니다.
+multiplayer.logmessage.loadingtournamentdatadots,토너먼트 데이터 불러오는 중...
+multiplayer.logmessage.loadingtournamentdetailserror,토너먼트 {0}의 세부 정보를 불러오는 중 오류가 발생했습니다.
+multiplayer.logmessage.loadingtournaments,토너먼트를 표시하려는 중 오류가 발생했습니다.
+multiplayer.logmessage.loadingtournamentsdots,토너먼트 불러오는 중...
 multiplayer.logmessage.loadingtournamentstimeout,The loading seems to take too long. Come back later and try again.
 multiplayer.logmessage.passwordnotvalid,Your password was not accepted as a valid password.
 multiplayer.logmessage.passwordupdatedfail,Failed to update your password.
