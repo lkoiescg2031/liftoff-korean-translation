@@ -236,37 +236,37 @@ tutorial.retryexercise.header,"과제 다시 시도"
 tutorial.title.cornering,"코너링"
 tutorial.title.flyingforward,"전진 비행"
 tutorial.title.introduction,"소개"
-tutorial.title.lineofsight,"Line-of-sight"
+tutorial.title.lineofsight,"시야 비행"
 tutorial.title.racing,"레이싱"
-account.offlinestatus,Offline
-account.signedinanonimousstatus,Signed in (multiplayer only)
-account.signedinstatus,Signed in
-account.signin,Sign In
-account.signinginstatus,Signing in...
-account.signingoutstatus,Signing out...
+account.offlinestatus,오프라인
+account.signedinanonimousstatus,로그인됨(멀티플레이 전용)
+account.signedinstatus,로그인됨
+account.signin,로그인
+account.signinginstatus,로그인 중...
+account.signingoutstatus,로그아웃 중...
 achievements.permafrost.openwindows.counter,Windows opened: {0}/{1}
 achievements.permafrost.openwindows.header,Little helper
-batterydrainer.damaged,Battery damaged!
-batterydrainer.voltagelow,Battery voltage low.
-buttonsetup.assignment.cancel,Cancel
-buttonsetup.assignment.clearkey,Clear Key
-buttonsetup.assignment.confirm,Confirm
-buttonsetup.assignment.header,Assign Button
-buttonsetup.exitconfirm.content,"You have unsaved changes. Your changes will be lost when you go back to the main menu.
-Do you want to continue?"
-buttonsetup.exitconfirm.header,Back to main menu
-buttonsetup.panel.controller.nocontrollerconnected,No controller connected
-buttonsetup.panel.header,Assign buttons
-buttonsetup.panel.header.controller,Controller
-buttonsetup.panel.header.keyboard,Keyboard
-buttonsetup.saved.description,Button assignment saved
-buttonsetup.saved.header,Saved
-cameraangle.description,Camera Angle: {0} degrees
-colorpicker.chooseslot,Choose slot
-colorpicker.editcolors,Edit colors
-colorpicker.hexcode,Hex code
-colorpicker.title,Color picker
-comingsoon.description,Coming Soon
+batterydrainer.damaged,배터리 손상!
+batterydrainer.voltagelow,배터리 전압 낮음.
+buttonsetup.assignment.cancel,취소
+buttonsetup.assignment.clearkey,키 지우기
+buttonsetup.assignment.confirm,확인
+buttonsetup.assignment.header,버튼 할당
+buttonsetup.exitconfirm.content,"저장되지 않은 변경 사항이 있습니다. 메인 메뉴로 돌아가면 변경 사항이 사라집니다.
+계속하시겠습니까?"
+buttonsetup.exitconfirm.header,메인 메뉴로 돌아가기
+buttonsetup.panel.controller.nocontrollerconnected,연결된 컨트롤러가 없습니다
+buttonsetup.panel.header,버튼 할당
+buttonsetup.panel.header.controller,컨트롤러
+buttonsetup.panel.header.keyboard,키보드
+buttonsetup.saved.description,버튼 할당이 저장되었습니다
+buttonsetup.saved.header,저장됨
+cameraangle.description,카메라 각도: {0}도
+colorpicker.chooseslot,슬롯 선택
+colorpicker.editcolors,색상 편집
+colorpicker.hexcode,HEX 코드
+colorpicker.title,색상 선택기
+comingsoon.description,곧 제공 예정
 community.blog,Blog
 community.discord,Discord
 community.discord.copytoclipboardcontent,The link to the Discord server has been copied to your clipboard. Go to your Discord client and paste the link in the 'Join a Server' field.
@@ -2915,61 +2915,61 @@ trackeditor.updatingdots,업데이트 중...
 trackeditor.viewmode.topdown,탑다운
 trackeditor.viewtype.firstperson,1인칭
 trackeditor.youcanaddscreenshotsanddetailsonworkshop,워크숍 페이지에서 스크린샷과 추가 설명을 더할 수 있습니다.
-trackselector.buildintrack,Built-in Track
-trackselector.builtintrack,Built-in Track
-trackselector.customtrack,Custom Track
-trackselector.deletetrack.description,"You are about to delete Track {0}. This will also delete all associated Races with this Track. <b>This action cannot be undone!</b>
-Do you want to continue?"
-trackselector.deletetrack.header,Delete Track
-trackselector.downloadtracks,Download Tracks
-trackselector.notrack,No Track
+trackselector.buildintrack,기본 제공 Track
+trackselector.builtintrack,기본 제공 Track
+trackselector.customtrack,사용자 지정 Track
+trackselector.deletetrack.description,"Track {0}을(를) 삭제하려고 합니다. 이 Track과 연결된 모든 Race도 함께 삭제됩니다. <b>이 작업은 되돌릴 수 없습니다!</b>
+계속하시겠습니까?"
+trackselector.deletetrack.header,Track 삭제
+trackselector.downloadtracks,Track 다운로드
+trackselector.notrack,Track 없음
 trackselector.steamworkshop.description,Steam Workshop
-trackselector.unsubscribe.description,"You are about to unsubscribe to Track <b>{0}</b>. You can re-subscribe using {1}.
+trackselector.unsubscribe.description,"Track <b>{0}</b> 구독을 취소하려고 합니다. {1}에서 다시 구독할 수 있습니다.
 
-Do you want to continue?"
-trackselector.unsubscribe.header,Unsubscribe Track
-trackselector.workshoptrack,Workshop Track
-trackselector.yourtrack,Your Track
-unitsystem.imperial,Imperial
-unitsystem.metric,Metric
-userban.reason.cheating,Cheating
-userban.reason.inappropriatebehavior,Inappropriate behavior
-userban.reason.none,None
-userban.reason.other,Other
-userban.reason.systemabuse,System abuse
-userlocalization.disclaimer.header,Disclaimer
-userlocalization.disclaimer.text,"In utilizing the game framework, content, and localization tools in-game, you hereby grant LuGus Studios the requisite usage rights for the translations. Additionally, upon sharing said translations on the Steam Workshop, you acknowledge compliance with Steam guidelines and extend the right to fellow Liftoff users for downloading, importing, and using the translations within the game.
+계속하시겠습니까?"
+trackselector.unsubscribe.header,Track 구독 취소
+trackselector.workshoptrack,워크숍 Track
+trackselector.yourtrack,내 Track
+unitsystem.imperial,야드파운드법
+unitsystem.metric,미터법
+userban.reason.cheating,치팅
+userban.reason.inappropriatebehavior,부적절한 행동
+userban.reason.none,없음
+userban.reason.other,기타
+userban.reason.systemabuse,시스템 악용
+userlocalization.disclaimer.header,고지 사항
+userlocalization.disclaimer.text,"게임 프레임워크, 콘텐츠, 게임 내 현지화 도구를 사용하는 과정에서 귀하는 번역물에 대한 필요한 사용 권한을 LuGus Studios에 부여하게 됩니다. 또한 해당 번역물을 Steam Workshop에 공유할 경우, Steam 가이드라인을 준수함을 인정하고 다른 Liftoff 사용자가 게임 안에서 번역물을 다운로드, 가져오기, 사용하도록 허용하게 됩니다.
 
-The authorship rights of the translated text shall persist with the original author of the translations. LuGus Studios assumes no responsibility for the precise nature and content of these works."
-userlocalization.docdeletion.content,Are you sure you want to delete {0}?
-userlocalization.docdeletion.header,Translation Deletion
-userlocalization.export.overwritemessage,"Working file already exists, do you wish to overwrite the file?"
-userlocalization.export.success,Template successfully exported to {0}.
-userlocalization.export.template,Template
-userlocalization.export.title,Export Template
-userlocalization.filepath.copied,File location copied to clipboard!
-userlocalization.filepath.copy,Copy File Location
-userlocalization.filepath.title,File Location
-userlocalization.import.error,Import Error
-userlocalization.import.filepathlabel,Imported file:
-userlocalization.import.reimport,Reimport Working File
-userlocalization.import.save,Save
-userlocalization.import.saveas,Save As New
-userlocalization.import.title,Import Working File
-userlocalization.info.author,Author
-userlocalization.info.code,Code
-userlocalization.info.gameversion,Game Version
-userlocalization.info.name,Name
-userlocalization.info.timestamp,Last Saved On
-userlocalization.mydocs.title,My Translations
-userlocalization.saving.success,{0} saved successfully!
-userlocalization.saving.title,File Saving
-userlocalization.savingerror.filechanges,"The workingfile has changed outside of Liftoff, do you wish to continue saving without reimporting the working file?"
-userlocalization.savingerror.title,Save Error
-userlocalization.steam.guide,Translation Guide
-userlocalization.steam.workshop,Community Translations
-voicechat.mode.pushtotalk,Push-to-talk
-voicechat.mode.voicedetection,Voice detection
+번역된 텍스트의 저작자 권리는 원래 번역 작성자에게 계속 귀속됩니다. LuGus Studios는 이 작품들의 정확한 성격과 내용에 대해 어떠한 책임도 지지 않습니다."
+userlocalization.docdeletion.content,{0}을(를) 삭제하시겠습니까?
+userlocalization.docdeletion.header,번역 삭제
+userlocalization.export.overwritemessage,"작업 파일이 이미 존재합니다. 덮어쓰시겠습니까?"
+userlocalization.export.success,템플릿을 {0}에 성공적으로 내보냈습니다.
+userlocalization.export.template,템플릿
+userlocalization.export.title,템플릿 내보내기
+userlocalization.filepath.copied,파일 위치가 클립보드에 복사되었습니다!
+userlocalization.filepath.copy,파일 위치 복사
+userlocalization.filepath.title,파일 위치
+userlocalization.import.error,가져오기 오류
+userlocalization.import.filepathlabel,가져온 파일:
+userlocalization.import.reimport,작업 파일 다시 가져오기
+userlocalization.import.save,저장
+userlocalization.import.saveas,새 이름으로 저장
+userlocalization.import.title,작업 파일 가져오기
+userlocalization.info.author,작성자
+userlocalization.info.code,코드
+userlocalization.info.gameversion,게임 버전
+userlocalization.info.name,이름
+userlocalization.info.timestamp,마지막 저장 시각
+userlocalization.mydocs.title,내 번역
+userlocalization.saving.success,{0} 저장 완료!
+userlocalization.saving.title,파일 저장
+userlocalization.savingerror.filechanges,"작업 파일이 Liftoff 외부에서 변경되었습니다. 작업 파일을 다시 가져오지 않고 계속 저장하시겠습니까?"
+userlocalization.savingerror.title,저장 오류
+userlocalization.steam.guide,번역 가이드
+userlocalization.steam.workshop,커뮤니티 번역
+voicechat.mode.pushtotalk,푸시 투 토크
+voicechat.mode.voicedetection,음성 감지
 workbench.changecolor,색상 변경
 workbench.coloreditor,색상 편집기
 workbench.colorpicker,색상 편집기
