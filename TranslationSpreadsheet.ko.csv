@@ -2336,94 +2336,94 @@ raceeditor.saverace.success.header,Race 저장됨
 raceeditor.sharerace.shareracesuccessful,Race가 성공적으로 공유되었습니다!
 racemonitor.countdown.liftoff,Liftoff!
 racemonitor.waitinforotherplayers,Waiting for other players...
-raceselector.besttime,Best Time: {0}
-raceselector.buildinrace,Built-in Race
-raceselector.deleterace.description,"You are about to delete Race {0}. <b>This action cannot be undone!</b>
-Do you want to continue?"
-raceselector.deleterace.header,Delete Race
-raceselector.invalidrace.description,Invalid Race. Fix this Race in Race Editor.
-raceselector.nofinishtimerecorded,You have not yet recorded a finish time for this race.
-raceselector.racebasedonolderversion,Race based on older version of selected Track.
-raceselector.trackchangedvalidate,"Associated Track was changed.
-Validate this Race in Race Editor."
-raceselector.unsubscriberace.description,"You are about to unsubscribe to Race <b>{0}</b>. You can re-subscribe using {1}.
+raceselector.besttime,최고 기록: {0}
+raceselector.buildinrace,기본 제공 Race
+raceselector.deleterace.description,"Race {0}을(를) 삭제하려고 합니다. <b>이 작업은 되돌릴 수 없습니다!</b>
+계속하시겠습니까?"
+raceselector.deleterace.header,Race 삭제
+raceselector.invalidrace.description,유효하지 않은 Race입니다. Race Editor에서 이 Race를 수정하세요.
+raceselector.nofinishtimerecorded,이 Race의 완주 기록이 아직 없습니다.
+raceselector.racebasedonolderversion,선택한 Track의 오래된 버전을 기반으로 한 Race입니다.
+raceselector.trackchangedvalidate,"연결된 Track이 변경되었습니다.
+Race Editor에서 이 Race를 검증하세요."
+raceselector.unsubscriberace.description,"Race <b>{0}</b> 구독을 취소하려고 합니다. {1}에서 다시 구독할 수 있습니다.
 
-Do you want to continue?"
-raceselector.unsubscriberace.header,Unsubscribe Race
+계속하시겠습니까?"
+raceselector.unsubscriberace.header,Race 구독 취소
 raceselector.workshop.description,Steam Workshop
-raceselector.workshop.downloadraces,Download Races
-raceselector.workshoprace,Workshop Race
-raceselector.yourrace,Your Race
-replayselection.deleterecordingpopup.content,You are about to delete recording {0}. <b>This action cannot be undone!</b> Do you want to continue?
-replayselection.deleterecordingpopup.header,Delete recording
-replayselection.filters.header,Replay filters
-replayselection.recordingdeletedpopup.content,The recording {0} has been successfully deleted.
-replayselection.recordingdeletedpopup.header,Recording deleted
-replayselection.recordingselection.header,Recordings
-replayselection.recordingselection.loadingrecordings,Loading...
-replayselection.recordingselection.norecordings,No recordings found
-replayselection.replay,Replay
-replayselection.scoreheader,Score
-replayselection.timeheader,Time
-replayselection.titleheader,Title
-saverecording.alreadyexistspopup.contents,A recording with the same name already exists. Do you want to replace it with the new recording?
-saverecording.alreadyexistspopup.header,Recording already exists
-saverecording.currentflight,Current flight
-saverecording.invalidnamepopup.contents,Please enter a valid name to save your recording.
-saverecording.invalidnamepopup.header,Invalid name
-saverecording.norecordingsavailable.description,There are currently no recordings available to save.
-saverecording.norecordingsavailable.header,No recordings available
-saverecording.savedpopup.contents,The recording has been saved successfully.
-saverecording.savedpopup.header,Recording saved
-shareablecontent.description,Description
-shareablecontent.eula.notacceptedyet.description,You haven't yet accepted the {0} EULA. Your content will not be visible for others.
-shareablecontent.eula.notacceptedyet.header,EULA not yet accepted
-shareablecontent.header,Share Item
-shareablecontent.includepreviewimage,Include preview image
-shareablecontent.legalagreement,Legal agreement
-shareablecontent.name,Name
-shareablecontent.preview,Preview
-shareablecontent.share,Share
-shareablecontent.type.droneconfig,Drone Configuration
-shareablecontent.type.inputsettings,Input Settings
+raceselector.workshop.downloadraces,Race 다운로드
+raceselector.workshoprace,워크숍 Race
+raceselector.yourrace,내 Race
+replayselection.deleterecordingpopup.content,녹화 {0}을(를) 삭제하려고 합니다. <b>이 작업은 되돌릴 수 없습니다!</b> 계속하시겠습니까?
+replayselection.deleterecordingpopup.header,녹화 삭제
+replayselection.filters.header,리플레이 필터
+replayselection.recordingdeletedpopup.content,녹화 {0}이(가) 성공적으로 삭제되었습니다.
+replayselection.recordingdeletedpopup.header,녹화 삭제됨
+replayselection.recordingselection.header,녹화 목록
+replayselection.recordingselection.loadingrecordings,불러오는 중...
+replayselection.recordingselection.norecordings,녹화가 없습니다
+replayselection.replay,리플레이
+replayselection.scoreheader,점수
+replayselection.timeheader,시간
+replayselection.titleheader,제목
+saverecording.alreadyexistspopup.contents,같은 이름의 녹화가 이미 있습니다. 새 녹화로 덮어쓰시겠습니까?
+saverecording.alreadyexistspopup.header,녹화가 이미 존재함
+saverecording.currentflight,현재 비행
+saverecording.invalidnamepopup.contents,녹화를 저장할 올바른 이름을 입력해 주세요.
+saverecording.invalidnamepopup.header,잘못된 이름
+saverecording.norecordingsavailable.description,현재 저장할 수 있는 녹화가 없습니다.
+saverecording.norecordingsavailable.header,저장 가능한 녹화 없음
+saverecording.savedpopup.contents,녹화가 성공적으로 저장되었습니다.
+saverecording.savedpopup.header,녹화 저장됨
+shareablecontent.description,설명
+shareablecontent.eula.notacceptedyet.description,아직 {0} EULA에 동의하지 않았습니다. 내 콘텐츠는 다른 사람에게 표시되지 않습니다.
+shareablecontent.eula.notacceptedyet.header,EULA에 아직 동의하지 않음
+shareablecontent.header,항목 공유
+shareablecontent.includepreviewimage,미리보기 이미지 포함
+shareablecontent.legalagreement,법적 동의
+shareablecontent.name,이름
+shareablecontent.preview,미리보기
+shareablecontent.share,공유
+shareablecontent.type.droneconfig,드론 구성
+shareablecontent.type.inputsettings,입력 설정
 shareablecontent.type.race,Race
 shareablecontent.type.track,Track
-shareablecontent.viewagreement,View agreement
-singleplayer.freeflight.description,"No rules, no stress! Hone your piloting skills, get a feel for the environment or practice on a track of your choice."
-singleplayer.freeflight.title,Free flight
-singleplayer.freestyle.description,"Dives, flips, rolls and tumbles. Push your quad to the limit and grab as many points as you can by pulling off daring tricks and death-defying stunts."
-singleplayer.freestyle.title,Freestyle
-singleplayer.gamemode.freeflight,Freeflight
-singleplayer.gamemode.freestyle,Freestyle
-singleplayer.gamemode.infiniterace,Infinite Race
+shareablecontent.viewagreement,동의서 보기
+singleplayer.freeflight.description,"규칙도 없고 스트레스도 없습니다! 조종 실력을 갈고닦고, 환경에 익숙해지거나, 원하는 트랙에서 연습해 보세요."
+singleplayer.freeflight.title,자유 비행
+singleplayer.freestyle.description,"다이브, 플립, 롤, 텀블까지. 대담한 트릭과 아찔한 스턴트를 성공시켜 쿼드를 한계까지 밀어붙이고 최대한 많은 점수를 획득하세요."
+singleplayer.freestyle.title,프리스타일
+singleplayer.gamemode.freeflight,자유 비행
+singleplayer.gamemode.freestyle,프리스타일
+singleplayer.gamemode.infiniterace,무한 레이스
 singleplayer.gamemode.race,Race
-singleplayer.infinite.title,Infinite
-singleplayer.infiniterace.description,"Improve your lap times and stay in ""the zone"" in this infinite race!"
-singleplayer.quickplay.lastsession.description,Start flying right where you left last time and save time going through options and menu's.
-singleplayer.quickplay.lastsession.title,Last Session
-singleplayer.quickplay.quicksetup.description,Not a fan of casually scrolling through the levels and your drones? Quickly set your desired level and get flying!
-singleplayer.quickplay.quicksetup.title,Quick setup
-singleplayer.quickplay.random.description,Start a randomly selected race session and prove you can handle every situation thrown at you!
-singleplayer.quickplay.random.title,Random
-singleplayer.quickplay.title,Quick play
-singleplayer.race.description,Show everyone what you got! Pick a race and shatter the record time.
-singleplayer.race.standard,Standard
+singleplayer.infinite.title,무한
+singleplayer.infiniterace.description,"이 무한 레이스에서 랩 타임을 단축하고 ""존"" 상태를 유지하세요!"
+singleplayer.quickplay.lastsession.description,지난번에 멈춘 바로 그 지점에서 바로 비행을 시작하고 옵션과 메뉴를 넘기는 시간을 아끼세요.
+singleplayer.quickplay.lastsession.title,지난 세션
+singleplayer.quickplay.quicksetup.description,레벨과 드론을 일일이 넘기며 찾는 게 귀찮으신가요? 원하는 레벨을 빠르게 설정하고 바로 비행을 시작하세요!
+singleplayer.quickplay.quicksetup.title,빠른 설정
+singleplayer.quickplay.random.description,무작위로 선택된 레이스 세션을 시작하고 어떤 상황이 닥쳐도 감당할 수 있다는 걸 보여 주세요!
+singleplayer.quickplay.random.title,랜덤
+singleplayer.quickplay.title,빠른 플레이
+singleplayer.race.description,실력을 모두에게 보여 주세요! 레이스를 골라 기록을 깨부수세요.
+singleplayer.race.standard,표준
 singleplayer.race.title,Race
-singleplayer.replay.description,Rewatch your saved flight recordings.
-singleplayer.replay.title,Replay
-singleplayer.trackbuilder.description,"Tired of roaming around aimlessly? Create your own track!
+singleplayer.replay.description,저장한 비행 녹화를 다시 감상하세요.
+singleplayer.replay.title,리플레이
+singleplayer.trackbuilder.description,"이리저리 목적 없이 날아다니는 데 지치셨나요? 직접 트랙을 만들어 보세요!
 
-Place flags, gates and other objects to create exciting race challenges."
+깃발, 게이트, 기타 오브젝트를 배치해 짜릿한 레이스 챌린지를 만들어 보세요."
 singleplayer.trackbuilder.title,Track Builder
-singleplayer.tutorial.description,Learn the basics of drone piloting in a series of tutorials and complementary tracks on which to practice.
-singleplayer.tutorial.firstflight.description,Learn the basics of drone piloting in a series of video tutorials and complementary tracks on which to practice.
-singleplayer.tutorial.firstflight.title,First flight
-singleplayer.tutorial.gettingstarted.description,Set up everything you need to start flying in this step-by-step process.
-singleplayer.tutorial.gettingstarted.title,Getting started
-singleplayer.tutorial.title,Tutorial
-singleplayer.userlocalization.title,Translation
-singleplayer.workbench.description,Fix those broken props and try out that new LiPo. Put together the racing machine that meets your exact demands!
-singleplayer.workbench.title,Workbench
+singleplayer.tutorial.description,튜토리얼 시리즈와 함께 제공되는 연습 트랙에서 드론 조종의 기초를 배워 보세요.
+singleplayer.tutorial.firstflight.description,비디오 튜토리얼 시리즈와 함께 제공되는 연습 트랙에서 드론 조종의 기초를 배워 보세요.
+singleplayer.tutorial.firstflight.title,첫 비행
+singleplayer.tutorial.gettingstarted.description,단계별 과정을 따라 비행을 시작하는 데 필요한 모든 것을 설정하세요.
+singleplayer.tutorial.gettingstarted.title,시작하기
+singleplayer.tutorial.title,튜토리얼
+singleplayer.userlocalization.title,번역
+singleplayer.workbench.description,부러진 프로펠러를 교체하고 새 LiPo도 시험해 보세요. 원하는 조건에 꼭 맞는 레이싱 머신을 직접 조립해 보세요!
+singleplayer.workbench.title,워크벤치
 steam.blockedusername,Blocked user
 steam.notinitialized.description,"Liftoff could not connect to the Steam platform. Please start Liftoff through the Steam platform, or create a Liftoff shortcut through your Steam game library.
 
@@ -2605,42 +2605,42 @@ store.specs.size,크기
 store.specs.sizediagonal,크기(대각선)
 store.specs.voltage,전압
 store.specs.weight,무게
-stunt.aileronhalfroll,Aileron Halfroll
-stunt.aileronroll,Aileron Roll
-stunt.backflip,Backflip
-stunt.delayedaileronroll,Delayed Aileron Roll
-stunt.delayedbackflip,Delayed Backflip
-stunt.dive,Dive
-stunt.doublebackflip,Double Backflip
-stunt.doublefrontflip,Double Frontflip
-stunt.drift,Drift
-stunt.flipflop,Flip Flop
-stunt.flopflip,Flop Flip
-stunt.frontflip,Frontflip
-stunt.frontflipdelayed,Delayed Frontflip
-stunt.gapcleared,Gap Cleared
-stunt.halfbackflip,Half Backflip
-stunt.halffrontflip,Half Frontflip
-stunt.halfleftspin,Half Left Spin
-stunt.halfrightspin,Half Right Spin
-stunt.invertedlawmower,Lawn mower
-stunt.invertedsplits,Inverted Split-S
-stunt.invertedyawspin,Inverted Yaw Spin
-stunt.leftspin,Left Spin
+stunt.aileronhalfroll,에일러론 하프 롤
+stunt.aileronroll,에일러론 롤
+stunt.backflip,백플립
+stunt.delayedaileronroll,지연 에일러론 롤
+stunt.delayedbackflip,지연 백플립
+stunt.dive,다이브
+stunt.doublebackflip,더블 백플립
+stunt.doublefrontflip,더블 프런트플립
+stunt.drift,드리프트
+stunt.flipflop,플립 플롭
+stunt.flopflip,플롭 플립
+stunt.frontflip,프런트플립
+stunt.frontflipdelayed,지연 프런트플립
+stunt.gapcleared,갭 통과
+stunt.halfbackflip,하프 백플립
+stunt.halffrontflip,하프 프런트플립
+stunt.halfleftspin,하프 레프트 스핀
+stunt.halfrightspin,하프 라이트 스핀
+stunt.invertedlawmower,로운 모어
+stunt.invertedsplits,인버티드 Split-S
+stunt.invertedyawspin,인버티드 요 스핀
+stunt.leftspin,레프트 스핀
 stunt.modifier.actioncam,Action Cam
-stunt.modifier.gapcleared,Gap Cleared
-stunt.modifier.lowaltitude,Low Altitude
-stunt.modifier.nearmiss,Near Miss
-stunt.modifier.perfect,Perfect
-stunt.modifier.tightgapcleared,Tight Gap Cleared
+stunt.modifier.gapcleared,갭 통과
+stunt.modifier.lowaltitude,저고도
+stunt.modifier.nearmiss,근접 회피
+stunt.modifier.perfect,완벽
+stunt.modifier.tightgapcleared,좁은 갭 통과
 stunt.powerloop,Powerloop
-stunt.rightspin,Right Spin
+stunt.rightspin,라이트 스핀
 stunt.splits,Split-S
-stunt.targetaquired,Target Acquired
-stunt.tightgapcleared,Tight Gap Cleared
-stunt.upsidedown,Upside Down
-stunt.yawspin,Yaw Spin
-stunts.modifier.repetitive,Repetitive
+stunt.targetaquired,타깃 포착
+stunt.tightgapcleared,좁은 갭 통과
+stunt.upsidedown,거꾸로
+stunt.yawspin,요 스핀
+stunts.modifier.repetitive,반복됨
 targetservice.standalone,Stand-alone
 targetservice.steam,Steam
 test2,Are you sure?
