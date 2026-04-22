@@ -1485,82 +1485,82 @@ multiplayer.raceresults.vote.header,Vote
 multiplayer.ratecontent.raterace,Rate this Race
 multiplayer.ratecontent.ratethisraceortrack,Rate this {0}
 multiplayer.ratecontent.ratetrack,Rate this Track
-multiplayer.registration.accept,Accept
-multiplayer.registration.accountalreadyverified,The Liftoff account <b>{0}</b> is already verified.
-multiplayer.registration.accountname,Account name
-multiplayer.registration.accountname.description,Your account name can be used to sign in to the Liftoff Pro League and other Liftoff services.
-multiplayer.registration.accountnamemin3,Account name (min. 3 characters)
-multiplayer.registration.accountnameplaceholder,Account name (min. 3 characters)
-multiplayer.registration.accountoremail,Account name or e-mail
-multiplayer.registration.backtomainmenu,To Main Menu
-multiplayer.registration.byregistringyouacknowledgeterms,"By registering your account, you acknowledge that you have read and agree to the terms and conditions."
-multiplayer.registration.confirmemail,Confirm e-mail address
-multiplayer.registration.confirmpasswordplaceholder,Confirm password
-multiplayer.registration.connectingdots,Connecting...
-multiplayer.registration.connectingtoliftoffservice,Connecting to the Liftoff service.
-multiplayer.registration.createaccount,CREATE LIFTOFF PRO ACCOUNT
-multiplayer.registration.createaccountbutton,Create Account
-multiplayer.registration.createproaccount,Create Liftoff Pro Account
-multiplayer.registration.email.description,Your e-mail address is used to verify your identity and keep you updated about upcoming Liftoff events.
-multiplayer.registration.emailaddress,E-mail address
-multiplayer.registration.emailalreadyinuse,The e-mail address is already in use.
-multiplayer.registration.emailinuse,That e-mail address is already in use.
-multiplayer.registration.emailnotvalid,Your e-mail address is not a valid e-mail address.
-multiplayer.registration.emailplaceholder,Your e-mail address
-multiplayer.registration.failedresendverificationnotificationdots,Failed to resend verification...
-multiplayer.registration.failedtosendregistrationrequest,Failed to send the registration request to the server.
-multiplayer.registration.failedtosendverificationrequest,Failed to send the verification request to the server.
-multiplayer.registration.invalidemaildomain,The e-mail domain '{0}' is not recognized.
-multiplayer.registration.invaliduserinfoprovided,Invalid user information provided.
-multiplayer.registration.legal.accept.description,"By clicking ""Accept"", you acknowledge that you have read and understand the terms of service as described above."
-multiplayer.registration.legal.agreement.description,"By registering your account, you acknowledge that you have read and agree to the terms and conditions."
-multiplayer.registration.legal.agreement.header,Legal agreement
-multiplayer.registration.legal.ihavereadandagree,I have read and agree to
-multiplayer.registration.legal.ireadandagree,I have read and agree to
-multiplayer.registration.legal.termsandconditions,the terms and conditions
-multiplayer.registration.liftoffproaccount.header,Liftoff Pro Account
-multiplayer.registration.noliftoffaccountforemailaddress,No Liftoff account could be found for e-mail address <b>{0}</b>.
-multiplayer.registration.noliftoffaccountforusername,No Liftoff account could be found for username <b>{0}</b>.
-multiplayer.registration.notreceivedordeletedverificationmail,"Did not receive, or accidentally deleted your verification mail? No worries, send us your account name or e-mail address of your Liftoff Pro account, and we'll resend it again to the e-mail address you used during registration."
-multiplayer.registration.password,Password
-multiplayer.registration.password.description,Choose a password to protect your Liftoff account. 
-multiplayer.registration.passwordmin8,Password (min. 8 characters)
-multiplayer.registration.passwordnotacceptedasvalid,Your password was not accepted as a valid password.
-multiplayer.registration.passwordnotvalid,Your password is not valid.
-multiplayer.registration.passwordplaceholder,Password (min. 8 characters)
-multiplayer.registration.register,Register
-multiplayer.registration.registeringyouraccountdots,Registering your account...
-multiplayer.registration.registrationerror,Registration Error
-multiplayer.registration.registrationsuccess,Registration Success
-multiplayer.registration.registrationsuccess.description,"Your account has been successfully registered! We have sent an e-mail to <b>{0}</b> for verifying your account. This can take up to a few minutes to reach your inbox.
+multiplayer.registration.accept,수락
+multiplayer.registration.accountalreadyverified,Liftoff 계정 <b>{0}</b>는 이미 인증되었습니다.
+multiplayer.registration.accountname,계정 이름
+multiplayer.registration.accountname.description,계정 이름은 Liftoff Pro League 및 기타 Liftoff 서비스에 로그인할 때 사용할 수 있습니다.
+multiplayer.registration.accountnamemin3,계정 이름 (최소 3자)
+multiplayer.registration.accountnameplaceholder,계정 이름 (최소 3자)
+multiplayer.registration.accountoremail,계정 이름 또는 이메일
+multiplayer.registration.backtomainmenu,메인 메뉴로
+multiplayer.registration.byregistringyouacknowledgeterms,"계정을 등록함으로써 약관을 읽고 동의했음을 확인하게 됩니다."
+multiplayer.registration.confirmemail,이메일 주소 확인
+multiplayer.registration.confirmpasswordplaceholder,비밀번호 확인
+multiplayer.registration.connectingdots,연결 중...
+multiplayer.registration.connectingtoliftoffservice,Liftoff 서비스에 연결 중입니다.
+multiplayer.registration.createaccount,LIFTOFF PRO 계정 생성
+multiplayer.registration.createaccountbutton,계정 생성
+multiplayer.registration.createproaccount,Liftoff Pro 계정 생성
+multiplayer.registration.email.description,이메일 주소는 본인 확인과 향후 Liftoff 이벤트 소식 안내에 사용됩니다.
+multiplayer.registration.emailaddress,이메일 주소
+multiplayer.registration.emailalreadyinuse,이 이메일 주소는 이미 사용 중입니다.
+multiplayer.registration.emailinuse,해당 이메일 주소는 이미 사용 중입니다.
+multiplayer.registration.emailnotvalid,유효한 이메일 주소가 아닙니다.
+multiplayer.registration.emailplaceholder,이메일 주소
+multiplayer.registration.failedresendverificationnotificationdots,인증 메일 재전송 실패...
+multiplayer.registration.failedtosendregistrationrequest,서버에 등록 요청을 보내지 못했습니다.
+multiplayer.registration.failedtosendverificationrequest,서버에 인증 요청을 보내지 못했습니다.
+multiplayer.registration.invalidemaildomain,'{0}' 이메일 도메인을 인식할 수 없습니다.
+multiplayer.registration.invaliduserinfoprovided,유효하지 않은 사용자 정보가 제공되었습니다.
+multiplayer.registration.legal.accept.description,"""수락""을 클릭하면 위에 설명된 서비스 약관을 읽고 이해했음을 확인하게 됩니다."
+multiplayer.registration.legal.agreement.description,"계정을 등록함으로써 약관을 읽고 동의했음을 확인하게 됩니다."
+multiplayer.registration.legal.agreement.header,법적 동의
+multiplayer.registration.legal.ihavereadandagree,읽었으며 동의합니다:
+multiplayer.registration.legal.ireadandagree,읽었으며 동의합니다:
+multiplayer.registration.legal.termsandconditions,약관
+multiplayer.registration.liftoffproaccount.header,Liftoff Pro 계정
+multiplayer.registration.noliftoffaccountforemailaddress,이메일 주소 <b>{0}</b>에 해당하는 Liftoff 계정을 찾을 수 없습니다.
+multiplayer.registration.noliftoffaccountforusername,사용자 이름 <b>{0}</b>에 해당하는 Liftoff 계정을 찾을 수 없습니다.
+multiplayer.registration.notreceivedordeletedverificationmail,"인증 메일을 받지 못했거나 실수로 삭제하셨나요? 걱정하지 마세요. Liftoff Pro 계정의 계정 이름 또는 이메일 주소를 보내주시면, 등록 시 사용한 이메일 주소로 다시 전송해 드리겠습니다."
+multiplayer.registration.password,비밀번호
+multiplayer.registration.password.description,Liftoff 계정을 보호할 비밀번호를 선택하세요.
+multiplayer.registration.passwordmin8,비밀번호 (최소 8자)
+multiplayer.registration.passwordnotacceptedasvalid,비밀번호가 유효한 비밀번호로 인정되지 않았습니다.
+multiplayer.registration.passwordnotvalid,비밀번호가 유효하지 않습니다.
+multiplayer.registration.passwordplaceholder,비밀번호 (최소 8자)
+multiplayer.registration.register,등록
+multiplayer.registration.registeringyouraccountdots,계정 등록 중...
+multiplayer.registration.registrationerror,등록 오류
+multiplayer.registration.registrationsuccess,등록 성공
+multiplayer.registration.registrationsuccess.description,"계정이 성공적으로 등록되었습니다! 계정 인증을 위해 <b>{0}</b>으로 이메일을 보냈습니다. 받은편지함에 도착하기까지 몇 분 정도 걸릴 수 있습니다.
 
-You will only be able to log in to your Liftoff Pro account after you have verified your account."
-multiplayer.registration.registrationwarning,Registration Warning
-multiplayer.registration.requestnewverification,Request a new verification notification
-multiplayer.registration.resendingverificationotificationdots,Resending your verification notification...
-multiplayer.registration.resendverification.header,Resend Verification Notification
-multiplayer.registration.resendverificationmail.description,"Did not receive, or accidentally deleted your verification mail? No worries, send us your account name or e-mail address of your Liftoff Pro account, and we'll resend it again to the e-mail address you used during registration."
-multiplayer.registration.sendingdatatoliftoffservice,Sending data to the Liftoff service.
-multiplayer.registration.sentverificationotificationtoemailaddress,We've sent the verification notification to the e-mail address that was used to create the Liftoff Pro League account.
-multiplayer.registration.servicealreadylinkedtoaccount,A Liftoff account already exists that is linked to this {0} account.
-multiplayer.registration.servicefailedtoverifyownership,{0} failed to verify your ownership of Liftoff.
-multiplayer.registration.serviceinfonotvalid,The provided {0} information was not considered valid.
-multiplayer.registration.servicelinkedtoaccount.description,Registering a Liftoff account will link this with the current {0} account. Only one Liftoff account can be linked to a {0} account. Make sure that this is what you intent.
-multiplayer.registration.somethingwentwrongdots,Something went wrong...
-multiplayer.registration.successfullyregistered.description,"Your account has been successfully registered! We have sent an e-mail to <b>{0}</b> for verifying your account. This can take up to a few minutes to reach your inbox. If you don't verify your account within 24 hours, your information will be cleared from our services.
+계정을 인증한 뒤에만 Liftoff Pro 계정으로 로그인할 수 있습니다."
+multiplayer.registration.registrationwarning,등록 경고
+multiplayer.registration.requestnewverification,새 인증 알림 요청
+multiplayer.registration.resendingverificationotificationdots,인증 알림 재전송 중...
+multiplayer.registration.resendverification.header,인증 알림 재전송
+multiplayer.registration.resendverificationmail.description,"인증 메일을 받지 못했거나 실수로 삭제하셨나요? 걱정하지 마세요. Liftoff Pro 계정의 계정 이름 또는 이메일 주소를 보내주시면, 등록 시 사용한 이메일 주소로 다시 전송해 드리겠습니다."
+multiplayer.registration.sendingdatatoliftoffservice,Liftoff 서비스로 데이터를 보내는 중입니다.
+multiplayer.registration.sentverificationotificationtoemailaddress,Liftoff Pro League 계정을 만들 때 사용한 이메일 주소로 인증 알림을 보냈습니다.
+multiplayer.registration.servicealreadylinkedtoaccount,이미 이 {0} 계정에 연결된 Liftoff 계정이 존재합니다.
+multiplayer.registration.servicefailedtoverifyownership,{0}에서 Liftoff 소유권 확인에 실패했습니다.
+multiplayer.registration.serviceinfonotvalid,제공된 {0} 정보가 유효하지 않은 것으로 판단되었습니다.
+multiplayer.registration.servicelinkedtoaccount.description,Liftoff 계정을 등록하면 현재 {0} 계정과 연결됩니다. 하나의 {0} 계정에는 하나의 Liftoff 계정만 연결할 수 있습니다. 의도한 작업인지 확인해 주세요.
+multiplayer.registration.somethingwentwrongdots,문제가 발생했습니다...
+multiplayer.registration.successfullyregistered.description,"계정이 성공적으로 등록되었습니다! 계정 인증을 위해 <b>{0}</b>으로 이메일을 보냈습니다. 받은편지함에 도착하기까지 몇 분 정도 걸릴 수 있습니다. 24시간 내에 계정을 인증하지 않으면 여러분의 정보는 서비스에서 삭제됩니다.
 
-You will only be able to log in to your Liftoff Pro account after you have verified your account."
-multiplayer.registration.termsofservice.header,Terms Of Service
-multiplayer.registration.updatepassword.incorrectpassword,Incorrect password.
-multiplayer.registration.username.description,Your account name can be used to sign in to the Liftoff Pro League and other Liftoff services.
-multiplayer.registration.usernamealreadyinuse,The username is already in use.
-multiplayer.registration.usernameinuse,That username is already in use.
-multiplayer.registration.usernamenotvalid,Your chosen username was not accepted as a valid username.
-multiplayer.registration.usernameplaceholder,Account name or e-mail
-multiplayer.registration.verificationotificationsentdots,Verification notification sent!
-multiplayer.registration.youarenotonlineonservice,You are not online on {0}. Please sign in to {0} and make sure it has a live internet connection.
-multiplayer.registration.youareofflinedots,You are offline...
-multiplayer.registration.youremailaddress,Your e-mail address
+계정을 인증한 뒤에만 Liftoff Pro 계정으로 로그인할 수 있습니다."
+multiplayer.registration.termsofservice.header,서비스 약관
+multiplayer.registration.updatepassword.incorrectpassword,비밀번호가 올바르지 않습니다.
+multiplayer.registration.username.description,계정 이름은 Liftoff Pro League 및 기타 Liftoff 서비스에 로그인할 때 사용할 수 있습니다.
+multiplayer.registration.usernamealreadyinuse,사용자 이름이 이미 사용 중입니다.
+multiplayer.registration.usernameinuse,해당 사용자 이름은 이미 사용 중입니다.
+multiplayer.registration.usernamenotvalid,선택한 사용자 이름이 유효한 사용자 이름으로 인정되지 않았습니다.
+multiplayer.registration.usernameplaceholder,계정 이름 또는 이메일
+multiplayer.registration.verificationotificationsentdots,인증 알림을 보냈습니다!
+multiplayer.registration.youarenotonlineonservice,{0}에 온라인 상태가 아닙니다. {0}에 로그인되어 있고 인터넷 연결이 활성화되어 있는지 확인해 주세요.
+multiplayer.registration.youareofflinedots,오프라인 상태입니다...
+multiplayer.registration.youremailaddress,이메일 주소
 multiplayer.report.additionaldetails,Additional details...
 multiplayer.report.description,"You're about to send a report about player <b>{0}</b>. A copy of the chat history will be included in your report. Please fill in any additional details you wish to include in your report about what happened.
 
@@ -1583,48 +1583,48 @@ multiplayer.room.selectenvironment,Select an environment
 multiplayer.room.selectrace,Select a Race
 multiplayer.room.selecttrack,Select a Track
 multiplayer.room.selecttrackandrace,Select a Track and Race
-multiplayer.roomcreation.backtolobby,Back to lobby
-multiplayer.roomcreation.createroom,Create game
-multiplayer.roomcreation.currenttrack,Current Track
-multiplayer.roomcreation.disablegodmode,Disable godmode
-multiplayer.roomcreation.disablerewind,Disable rewind
-multiplayer.roomcreation.dronechecking,Checking...
-multiplayer.roomcreation.dronenotpublic,Not public
-multiplayer.roomcreation.dronenotshared,Not shared
-multiplayer.roomcreation.enterprivateroomname,Enter private game name
-multiplayer.roomcreation.enterroomname,Enter a game name
-multiplayer.roomcreation.enterroomnamedots,Enter game name...
-multiplayer.roomcreation.forcebatterymanagement,Force battery management
-multiplayer.roomcreation.forcecameranoise,Force camera noise
-multiplayer.roomcreation.gamesettings,Game Settings
-multiplayer.roomcreation.gamesize.playercount,{[NrOfPlayers]} players[i2p_One]{[NrOfPlayers]} player
-multiplayer.roomcreation.modifiers.header,Game modifiers
-multiplayer.roomcreation.nodrone,No Drone
-multiplayer.roomcreation.noracesavailable,No races available
-multiplayer.roomcreation.notracksavailable,No tracks available
-multiplayer.roomcreation.privateroom,Private game
-multiplayer.roomcreation.privateroom.description,This game will not be listed in the lobby. Other players will need the name to connect to this game.
-multiplayer.roomcreation.puristenabledleaderboard,Purist mode enabled. Your achievements will get registered on separate leaderboards.
-multiplayer.roomcreation.racenotshared,Race not shared
-multiplayer.roomcreation.raceselection,Race Selection
-multiplayer.roomcreation.raceselection.norace,No Race
-multiplayer.roomcreation.roomcreationfailedunknownreason,Failed to create a game due to an unknown reason. Error code: {0}.
-multiplayer.roomcreation.roomsettings,Game settings
-multiplayer.roomcreation.searchcontentheader,Search
-multiplayer.roomcreation.searchfilterplaceholder,Enter search term
-multiplayer.roomcreation.selectdrone,Select Drone
-multiplayer.roomcreation.selecteddrone,Select Drone
-multiplayer.roomcreation.selectedheader,Selected
-multiplayer.roomcreation.selectedrace,Select Race
-multiplayer.roomcreation.selectedtrack,Select Track
-multiplayer.roomcreation.selectenvironment,Select environment
-multiplayer.roomcreation.selectenvironmentvariant,Select variant
-multiplayer.roomcreation.selectgamemode,Select game mode
-multiplayer.roomcreation.selectmaxnumberplayers,Select max number of players
-multiplayer.roomcreation.tracknotshared,Track not shared
-multiplayer.roomcreation.trackselection,Track Selection
-multiplayer.roomcreation.trackselection.notrack,No Track
-multiplayer.roomcreation.updatesettings,Update settings
+multiplayer.roomcreation.backtolobby,로비로 돌아가기
+multiplayer.roomcreation.createroom,게임 생성
+multiplayer.roomcreation.currenttrack,현재 트랙
+multiplayer.roomcreation.disablegodmode,갓 모드 비활성화
+multiplayer.roomcreation.disablerewind,되감기 비활성화
+multiplayer.roomcreation.dronechecking,확인 중...
+multiplayer.roomcreation.dronenotpublic,공개되지 않음
+multiplayer.roomcreation.dronenotshared,공유되지 않음
+multiplayer.roomcreation.enterprivateroomname,비공개 게임 이름 입력
+multiplayer.roomcreation.enterroomname,게임 이름 입력
+multiplayer.roomcreation.enterroomnamedots,게임 이름 입력...
+multiplayer.roomcreation.forcebatterymanagement,배터리 관리 강제 적용
+multiplayer.roomcreation.forcecameranoise,카메라 노이즈 강제 적용
+multiplayer.roomcreation.gamesettings,게임 설정
+multiplayer.roomcreation.gamesize.playercount,{[NrOfPlayers]}명[i2p_One]{[NrOfPlayers]}명
+multiplayer.roomcreation.modifiers.header,게임 수정자
+multiplayer.roomcreation.nodrone,드론 없음
+multiplayer.roomcreation.noracesavailable,사용 가능한 레이스 없음
+multiplayer.roomcreation.notracksavailable,사용 가능한 트랙 없음
+multiplayer.roomcreation.privateroom,비공개 게임
+multiplayer.roomcreation.privateroom.description,이 게임은 로비에 표시되지 않습니다. 다른 플레이어는 이 게임에 연결하려면 이름이 필요합니다.
+multiplayer.roomcreation.puristenabledleaderboard,Purist 모드가 활성화되었습니다. 기록은 별도의 리더보드에 등록됩니다.
+multiplayer.roomcreation.racenotshared,레이스가 공유되지 않음
+multiplayer.roomcreation.raceselection,레이스 선택
+multiplayer.roomcreation.raceselection.norace,레이스 없음
+multiplayer.roomcreation.roomcreationfailedunknownreason,알 수 없는 이유로 게임 생성에 실패했습니다. 오류 코드: {0}.
+multiplayer.roomcreation.roomsettings,게임 설정
+multiplayer.roomcreation.searchcontentheader,검색
+multiplayer.roomcreation.searchfilterplaceholder,검색어 입력
+multiplayer.roomcreation.selectdrone,드론 선택
+multiplayer.roomcreation.selecteddrone,드론 선택
+multiplayer.roomcreation.selectedheader,선택됨
+multiplayer.roomcreation.selectedrace,레이스 선택
+multiplayer.roomcreation.selectedtrack,트랙 선택
+multiplayer.roomcreation.selectenvironment,환경 선택
+multiplayer.roomcreation.selectenvironmentvariant,변형 선택
+multiplayer.roomcreation.selectgamemode,게임 모드 선택
+multiplayer.roomcreation.selectmaxnumberplayers,최대 플레이어 수 선택
+multiplayer.roomcreation.tracknotshared,트랙이 공유되지 않음
+multiplayer.roomcreation.trackselection,트랙 선택
+multiplayer.roomcreation.trackselection.notrack,트랙 없음
+multiplayer.roomcreation.updatesettings,설정 업데이트
 multiplayer.roomsettings.modifier.batterymanagement,Battery management enabled
 multiplayer.roomsettings.modifier.cameranoise,Camera noise enabled
 multiplayer.roomsettings.modifier.fixedbatteryspecs,Fixed battery setup
@@ -1633,79 +1633,79 @@ multiplayer.roomsettings.modifier.godmode,Godmode disabled
 multiplayer.roomsettings.modifier.nomodifiers,No game modifiers are active
 multiplayer.roomsettings.modifier.rewind,Rewind disabled
 multiplayer.roomsettings.notrack,No track
-multiplayer.signin.accountbannedbymoderator,"Your account was banned from the Liftoff service by a Liftoff moderator. If you have questions about your ban, contact <b>accounts@liftoff-game.com</b>."
-multiplayer.signin.accountisnotverified,"Your account is not verified.
-Request a new account verification mail if you haven't received your account verification mail."
-multiplayer.signin.accountisnotverifiedbymail,"Your account is not verified.
-Request a new account verification mail if you haven't received your account verification mail."
-multiplayer.signin.alreadysignedin,You're already signed in.
-multiplayer.signin.anonymousdescription,You don't need a Liftoff Pro account to enjoy the Liftoff multiplayer. Just connect and play.
-multiplayer.signin.anonymousheader,Connect (multiplayer only)
-multiplayer.signin.authenticating,Authenticating...
-multiplayer.signin.authenticationservicetimedout,The authentication service timed out. Try again later.
-multiplayer.signin.connect,Connect
-multiplayer.signin.connect.description,Connect your multiplayer experience with your Liftoff Pro account. Keep track of your flight progress and compete in the Liftoff Pro League.
-multiplayer.signin.connectingtoliftoffservice,Connecting to the Liftoff service.
-multiplayer.signin.connection,Connection
-multiplayer.signin.connectionstatus,Connection status
-multiplayer.signin.couldnotconnect,Could not connect to the Liftoff service.
-multiplayer.signin.createproaccount,Create Liftoff Pro account
-multiplayer.signin.credentials.header,Sign in (Liftoff Pro account)
-multiplayer.signin.disconnectedbyserver,Disconnected by server.
-multiplayer.signin.emailhasbeensentpleasefollowinstruction,An e-mail has been sent to the registered e-mail address of your Liftoff Pro account. Please follow the instructions provided in the e-mail to choose a new password.
-multiplayer.signin.failedauthenticationheader,Authentication failed...
-multiplayer.signin.failedtoauthenticateaccounttoservice,Failed to authenticate your account to the current {0} account.
-multiplayer.signin.failedtoauthenticateserviceaccount,Failed to authenticate your account to the current {0} account.
-multiplayer.signin.failedtoauthenticatetoaccepttermsofservice,Failed to authenticate your account to accept the updated terms of service.
-multiplayer.signin.failedtoauthenticatetoaccepttermsofserviceheader,Failed to update
-multiplayer.signin.failedtosendauthenticationrequest,Failed to send the authentication request. Try again later.
-multiplayer.signin.failedtoupdateserversidetokeninfo,Failed to update server-side token information.
-multiplayer.signin.failedtoupdateservertoken,Failed to update server-side token information.
-multiplayer.signin.forgotpassword,Forgot Password?
-multiplayer.signin.forgotpassword.description,"Did you forget your password? Enter your username or e-mail address of your Liftoff Pro account, and we'll send you instructions on how to reset your password."
-multiplayer.signin.invalidapikey,Invalid API key given.
-multiplayer.signin.invalidplatforminfo,Invalid platform information.
-multiplayer.signin.invalidserverparameters,Invalid server parameters.
-multiplayer.signin.invalidusernameorpassword,Invalid username or password
-multiplayer.signin.liftoffaccountinfoinvalid,The provided Liftoff Pro account information <b>{0}</b> is invalid.
-multiplayer.signin.noaccountregisteredtoemail,No Liftoff Pro account could be found registered to e-mail address <b>{0}</b>.
-multiplayer.signin.noaccountregisteredtousername,No Liftoff Pro account could be found registered to username <b>{0}</b>.
-multiplayer.signin.passwordplaceholder,Password
-multiplayer.signin.passwordresetemailsent,An e-mail has been sent to the registered e-mail address of your Liftoff Pro account. Please follow the instructions provided in the e-mail to choose a new password.
-multiplayer.signin.pleasesignintoservice,Please sign in to {0} and make sure that the service has a live internet connection.
-multiplayer.signin.pleasesignintoserviceandinternet,Please sign in to {0} and make sure that the service has a live internet connection.
-multiplayer.signin.providedaccountinfoisinvaldid,The provided Liftoff Pro account information <b>{0}</b> is invalid.
-multiplayer.signin.rememberme,Remember me
-multiplayer.signin.resetpassword,Reset Password
-multiplayer.signin.resetpassword.header,Request a password reset
-multiplayer.signin.resettingpassword,Resetting password...
+multiplayer.signin.accountbannedbymoderator,"Liftoff 운영자에 의해 계정이 Liftoff 서비스에서 차단되었습니다. 차단에 대해 궁금한 점이 있으면 <b>accounts@liftoff-game.com</b>으로 문의해 주세요."
+multiplayer.signin.accountisnotverified,"계정이 인증되지 않았습니다.
+계정 인증 메일을 받지 못했다면 새 인증 메일을 요청해 주세요."
+multiplayer.signin.accountisnotverifiedbymail,"계정이 인증되지 않았습니다.
+계정 인증 메일을 받지 못했다면 새 인증 메일을 요청해 주세요."
+multiplayer.signin.alreadysignedin,이미 로그인되어 있습니다.
+multiplayer.signin.anonymousdescription,Liftoff 멀티플레이를 즐기기 위해 Liftoff Pro 계정이 꼭 필요하지는 않습니다. 그냥 연결해서 플레이하세요.
+multiplayer.signin.anonymousheader,연결 (멀티플레이 전용)
+multiplayer.signin.authenticating,인증 중...
+multiplayer.signin.authenticationservicetimedout,인증 서비스 시간이 초과되었습니다. 나중에 다시 시도해 주세요.
+multiplayer.signin.connect,연결
+multiplayer.signin.connect.description,멀티플레이 경험을 Liftoff Pro 계정과 연결하세요. 비행 진행 상황을 추적하고 Liftoff Pro League에서 경쟁할 수 있습니다.
+multiplayer.signin.connectingtoliftoffservice,Liftoff 서비스에 연결 중입니다.
+multiplayer.signin.connection,연결
+multiplayer.signin.connectionstatus,연결 상태
+multiplayer.signin.couldnotconnect,Liftoff 서비스에 연결할 수 없습니다.
+multiplayer.signin.createproaccount,Liftoff Pro 계정 생성
+multiplayer.signin.credentials.header,로그인 (Liftoff Pro 계정)
+multiplayer.signin.disconnectedbyserver,서버에 의해 연결이 끊어졌습니다.
+multiplayer.signin.emailhasbeensentpleasefollowinstruction,Liftoff Pro 계정에 등록된 이메일 주소로 이메일을 보냈습니다. 새 비밀번호를 설정하려면 이메일의 안내를 따라 주세요.
+multiplayer.signin.failedauthenticationheader,인증 실패...
+multiplayer.signin.failedtoauthenticateaccounttoservice,현재 {0} 계정에 여러분의 계정을 인증하지 못했습니다.
+multiplayer.signin.failedtoauthenticateserviceaccount,현재 {0} 계정에 여러분의 계정을 인증하지 못했습니다.
+multiplayer.signin.failedtoauthenticatetoaccepttermsofservice,업데이트된 서비스 약관에 동의하기 위한 계정 인증에 실패했습니다.
+multiplayer.signin.failedtoauthenticatetoaccepttermsofserviceheader,업데이트 실패
+multiplayer.signin.failedtosendauthenticationrequest,인증 요청 전송에 실패했습니다. 나중에 다시 시도해 주세요.
+multiplayer.signin.failedtoupdateserversidetokeninfo,서버 측 토큰 정보 업데이트에 실패했습니다.
+multiplayer.signin.failedtoupdateservertoken,서버 측 토큰 정보 업데이트에 실패했습니다.
+multiplayer.signin.forgotpassword,비밀번호를 잊으셨나요?
+multiplayer.signin.forgotpassword.description,"비밀번호를 잊으셨나요? Liftoff Pro 계정의 사용자 이름 또는 이메일 주소를 입력하면 비밀번호 재설정 방법을 안내해 드립니다."
+multiplayer.signin.invalidapikey,유효하지 않은 API 키가 제공되었습니다.
+multiplayer.signin.invalidplatforminfo,유효하지 않은 플랫폼 정보입니다.
+multiplayer.signin.invalidserverparameters,유효하지 않은 서버 매개변수입니다.
+multiplayer.signin.invalidusernameorpassword,사용자 이름 또는 비밀번호가 올바르지 않습니다
+multiplayer.signin.liftoffaccountinfoinvalid,제공된 Liftoff Pro 계정 정보 <b>{0}</b>가 유효하지 않습니다.
+multiplayer.signin.noaccountregisteredtoemail,이메일 주소 <b>{0}</b>에 등록된 Liftoff Pro 계정을 찾을 수 없습니다.
+multiplayer.signin.noaccountregisteredtousername,사용자 이름 <b>{0}</b>에 등록된 Liftoff Pro 계정을 찾을 수 없습니다.
+multiplayer.signin.passwordplaceholder,비밀번호
+multiplayer.signin.passwordresetemailsent,Liftoff Pro 계정에 등록된 이메일 주소로 이메일을 보냈습니다. 새 비밀번호를 설정하려면 이메일의 안내를 따라 주세요.
+multiplayer.signin.pleasesignintoservice,{0}에 로그인되어 있고 서비스가 인터넷에 연결되어 있는지 확인해 주세요.
+multiplayer.signin.pleasesignintoserviceandinternet,{0}에 로그인되어 있고 서비스가 인터넷에 연결되어 있는지 확인해 주세요.
+multiplayer.signin.providedaccountinfoisinvaldid,제공된 Liftoff Pro 계정 정보 <b>{0}</b>가 유효하지 않습니다.
+multiplayer.signin.rememberme,로그인 상태 유지
+multiplayer.signin.resetpassword,비밀번호 재설정
+multiplayer.signin.resetpassword.header,비밀번호 재설정 요청
+multiplayer.signin.resettingpassword,비밀번호 재설정 중...
 multiplayer.signin.resettingpassworderrorheader,multiplayer.signin.somethingwentwrongresettingpassword
-multiplayer.signin.resettingpasswordheader,Successfully sent the password reset request!
-multiplayer.signin.sendingrequestotoaccepttermsofservice,Sending request to accept the updated terms of service.
-multiplayer.signin.sendingrequesttoresetpassword,Sending request to reset your password.
-multiplayer.signin.serviceprovidererror,You are not signed in to {0}.
-multiplayer.signin.signin,Sign in
-multiplayer.signin.signinautomatically,Sign in automatically
-multiplayer.signin.signinginusingliftoffinfo,Signing in to the Liftoff multiplayer service using your Liftoff account.
-multiplayer.signin.signinginusingserviceinfo,Signing in to the Liftoff multiplayer service using your {0} information.
-multiplayer.signin.signintoliftoffusingliftoffaccount,Signing in to the Liftoff multiplayer service using your Liftoff account.
-multiplayer.signin.signintoliftoffusingserviceinfo,Signing in to the Liftoff multiplayer service using your {0} information.
-multiplayer.signin.somethingwentwrongacceptingupdatedtermsofservice,"Something went wrong while accepting the updated terms of service. Try again later, or contact the Liftoff team."
-multiplayer.signin.somethingwentwrongresettingpassword,"Something went wrong while trying to send the request for resetting your password. Try again later, or contact the Liftoff team."
-multiplayer.signin.succesfulauthentication,You are now logged in
-multiplayer.signin.succesfulauthenticationheader,Authenticated successfully!
-multiplayer.signin.thanksforupdatingtermsofservice,Thank you for accepting our updated terms of service. You can now proceed to sign in to your account again!
-multiplayer.signin.thanksforupdatingtermsofserviceheader,Updated your terms of service agreement level.
-multiplayer.signin.timeoutpleasetryagain,The authentication service timed out. Try again later.
-multiplayer.signin.toomanyusersconnected,Too many users are connected.
-multiplayer.signin.updatepasswordbody,Succesfully updated password
-multiplayer.signin.updatepasswordfailedbody,Something went wrong while trying to update your password. Try again later or contact the Liftoff team.
-multiplayer.signin.updatepasswordfailedheader,Failed to update password
-multiplayer.signin.updatepasswordheader,Updated password
-multiplayer.signin.updatingtermsofservice,Updating your terms of service agreement level...
-multiplayer.signin.usernameplaceholder,Username or e-mail
-multiplayer.signin.youareofflinedots,You are offline...
-multiplayer.signin.youraccountwasbanned,"Your account was banned from the Liftoff service by a Liftoff moderator. If you have questions about your ban, contact <b>accounts@liftoff-game.com</b>."
+multiplayer.signin.resettingpasswordheader,비밀번호 재설정 요청을 성공적으로 보냈습니다!
+multiplayer.signin.sendingrequestotoaccepttermsofservice,업데이트된 서비스 약관 동의 요청을 보내는 중입니다.
+multiplayer.signin.sendingrequesttoresetpassword,비밀번호 재설정 요청을 보내는 중입니다.
+multiplayer.signin.serviceprovidererror,{0}에 로그인되어 있지 않습니다.
+multiplayer.signin.signin,로그인
+multiplayer.signin.signinautomatically,자동 로그인
+multiplayer.signin.signinginusingliftoffinfo,Liftoff 계정 정보를 사용해 Liftoff 멀티플레이 서비스에 로그인하는 중입니다.
+multiplayer.signin.signinginusingserviceinfo,{0} 정보를 사용해 Liftoff 멀티플레이 서비스에 로그인하는 중입니다.
+multiplayer.signin.signintoliftoffusingliftoffaccount,Liftoff 계정 정보를 사용해 Liftoff 멀티플레이 서비스에 로그인하는 중입니다.
+multiplayer.signin.signintoliftoffusingserviceinfo,{0} 정보를 사용해 Liftoff 멀티플레이 서비스에 로그인하는 중입니다.
+multiplayer.signin.somethingwentwrongacceptingupdatedtermsofservice,"업데이트된 서비스 약관에 동의하는 중 문제가 발생했습니다. 나중에 다시 시도하거나 Liftoff 팀에 문의해 주세요."
+multiplayer.signin.somethingwentwrongresettingpassword,"비밀번호 재설정 요청을 보내는 중 문제가 발생했습니다. 나중에 다시 시도하거나 Liftoff 팀에 문의해 주세요."
+multiplayer.signin.succesfulauthentication,이제 로그인되었습니다
+multiplayer.signin.succesfulauthenticationheader,인증 성공!
+multiplayer.signin.thanksforupdatingtermsofservice,업데이트된 서비스 약관에 동의해 주셔서 감사합니다. 이제 계정에 다시 로그인할 수 있습니다!
+multiplayer.signin.thanksforupdatingtermsofserviceheader,서비스 약관 동의 수준이 업데이트되었습니다.
+multiplayer.signin.timeoutpleasetryagain,인증 서비스 시간이 초과되었습니다. 나중에 다시 시도해 주세요.
+multiplayer.signin.toomanyusersconnected,너무 많은 사용자가 연결되어 있습니다.
+multiplayer.signin.updatepasswordbody,비밀번호가 성공적으로 업데이트되었습니다
+multiplayer.signin.updatepasswordfailedbody,비밀번호를 업데이트하는 중 문제가 발생했습니다. 나중에 다시 시도하거나 Liftoff 팀에 문의해 주세요.
+multiplayer.signin.updatepasswordfailedheader,비밀번호 업데이트 실패
+multiplayer.signin.updatepasswordheader,비밀번호 업데이트됨
+multiplayer.signin.updatingtermsofservice,서비스 약관 동의 수준 업데이트 중...
+multiplayer.signin.usernameplaceholder,사용자 이름 또는 이메일
+multiplayer.signin.youareofflinedots,오프라인 상태입니다...
+multiplayer.signin.youraccountwasbanned,"Liftoff 운영자에 의해 계정이 Liftoff 서비스에서 차단되었습니다. 차단에 대해 궁금한 점이 있으면 <b>accounts@liftoff-game.com</b>으로 문의해 주세요."
 multiplayer.systemlog.inactivityalarmsecond,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} second.
 multiplayer.systemlog.inactivityalarmseconds,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} seconds.
 multiplayer.systemlog.inactivitywarninghalftime,Inactivity alarm. You will be removed from the room when no activity is registered in the next {0} minutes.
@@ -1857,63 +1857,63 @@ multiplayer.updatedtermsofservice.failedtogetterms,"Failed to load the updated t
 
 Try again later."
 multiplayer.updatepassword.incorrectpassword,Incorrect password.
-multiplayer.waitingroom.badges,Badges
-multiplayer.waitingroom.ban,Ban
-multiplayer.waitingroom.changesettings,Change Settings
-multiplayer.waitingroom.color,Color
-multiplayer.waitingroom.colorpicker,Color Picker
-multiplayer.waitingroom.connectedplayers,Connected Players
-multiplayer.waitingroom.copydrone,Copy drone
-multiplayer.waitingroom.downloadingdots,Downloading...
-multiplayer.waitingroom.downloadinggamedata,Downloading game data
-multiplayer.waitingroom.drone,Drone
-multiplayer.waitingroom.dronenotshared,This drone is not shared
-multiplayer.waitingroom.fixeddronesetup.contents,This multiplayer games enforces a fixed drone configuration. Your current drone configuration has been changed to comply with this rule.
-multiplayer.waitingroom.fixeddronesetup.header,Fixed drone setup
-multiplayer.waitingroom.gamemode,Game mode
-multiplayer.waitingroom.gamemodifiers,Game modifiers
-multiplayer.waitingroom.hexcolorcode,Hex Code
-multiplayer.waitingroom.joingame,Join game
-multiplayer.waitingroom.kickplayer,Kick
-multiplayer.waitingroom.leavegame,Leave game
-multiplayer.waitingroom.maxplayers,Max players
-multiplayer.waitingroom.mute,Mute
-multiplayer.waitingroom.name,Name
-multiplayer.waitingroom.nodronesetupsavailable.contents,"This multiplayer game restricts the use of certain drone configurations and no matching drone configuration could be found for you.
+multiplayer.waitingroom.badges,배지
+multiplayer.waitingroom.ban,차단
+multiplayer.waitingroom.changesettings,설정 변경
+multiplayer.waitingroom.color,색상
+multiplayer.waitingroom.colorpicker,색상 선택기
+multiplayer.waitingroom.connectedplayers,연결된 플레이어
+multiplayer.waitingroom.copydrone,드론 복사
+multiplayer.waitingroom.downloadingdots,다운로드 중...
+multiplayer.waitingroom.downloadinggamedata,게임 데이터 다운로드 중
+multiplayer.waitingroom.drone,드론
+multiplayer.waitingroom.dronenotshared,이 드론은 공유되지 않았습니다
+multiplayer.waitingroom.fixeddronesetup.contents,이 멀티플레이 게임은 고정된 드론 구성을 강제합니다. 현재 드론 구성은 이 규칙에 맞도록 변경되었습니다.
+multiplayer.waitingroom.fixeddronesetup.header,고정 드론 구성
+multiplayer.waitingroom.gamemode,게임 모드
+multiplayer.waitingroom.gamemodifiers,게임 수정자
+multiplayer.waitingroom.hexcolorcode,16진수 코드
+multiplayer.waitingroom.joingame,게임 참가
+multiplayer.waitingroom.kickplayer,추방
+multiplayer.waitingroom.leavegame,게임 나가기
+multiplayer.waitingroom.maxplayers,최대 플레이어 수
+multiplayer.waitingroom.mute,음소거
+multiplayer.waitingroom.name,이름
+multiplayer.waitingroom.nodronesetupsavailable.contents,"이 멀티플레이 게임은 특정 드론 구성의 사용을 제한하고 있으며, 여러분에게 맞는 드론 구성을 찾을 수 없습니다.
 
-You will be sent back to the multiplayer lobby."
-multiplayer.waitingroom.nodronesetupsavailable.header,No drone configurations available
-multiplayer.waitingroom.notrack,No Track
-multiplayer.waitingroom.platerdetails.nodroneinfoavailable,"This player has no drone selected
+멀티플레이 로비로 돌아가게 됩니다."
+multiplayer.waitingroom.nodronesetupsavailable.header,사용 가능한 드론 구성 없음
+multiplayer.waitingroom.notrack,트랙 없음
+multiplayer.waitingroom.platerdetails.nodroneinfoavailable,"이 플레이어는 드론을 선택하지 않았습니다.
 
-No drone information is available"
-multiplayer.waitingroom.player,Player
-multiplayer.waitingroom.playerinfo,Player Information
-multiplayer.waitingroom.promote,Promote
-multiplayer.waitingroom.race,Race
-multiplayer.waitingroom.ratethisrace,Rate this race
-multiplayer.waitingroom.report,Report
-multiplayer.waitingroom.rewardlootbox,Reward gift box
-multiplayer.waitingroom.roomname,Game name
-multiplayer.waitingroom.roomsettings,Game settings
-multiplayer.waitingroom.selectdifferentsetup.contents,"This multiplayer game enforces a restriction on the drone configurations available to use. Only drone configurations that match with the drone configuration enforced by the game may be used.
+드론 정보를 사용할 수 없습니다"
+multiplayer.waitingroom.player,플레이어
+multiplayer.waitingroom.playerinfo,플레이어 정보
+multiplayer.waitingroom.promote,승격
+multiplayer.waitingroom.race,레이스
+multiplayer.waitingroom.ratethisrace,이 레이스 평가하기
+multiplayer.waitingroom.report,신고
+multiplayer.waitingroom.rewardlootbox,보상 선물 상자
+multiplayer.waitingroom.roomname,게임 이름
+multiplayer.waitingroom.roomsettings,게임 설정
+multiplayer.waitingroom.selectdifferentsetup.contents,"이 멀티플레이 게임은 사용 가능한 드론 구성에 제한을 두고 있습니다. 현재 게임에서 강제하는 드론 구성과 일치하는 드론 구성만 사용할 수 있습니다.
 
-Please select a compatible drone configuration."
-multiplayer.waitingroom.selectdifferentsetup.header,Drone configuration unavailable
-multiplayer.waitingroom.spectate,Spectate game
-multiplayer.waitingroom.sponsorwebpage,Sponsor webpage
-multiplayer.waitingroom.startgame,Start game
-multiplayer.waitingroom.status,Status
-multiplayer.waitingroom.track,Track
-multiplayer.waitingroom.unmute,Unmute
-multiplayer.waitingroom.viewonworkshop,View on Workshop
-multiplayer.waitingroom.viewprofile,View profile
-multiplayer.waitingroom.voice,Voice
-multiplayer.waitingroom.vote,Vote
-multiplayer.waitingroom.waitingforhost,Waiting for host
-multiplayer.waitingroom.waitingforotherplayers,Waiting for other players
-multiplayer.waitingroom.webpage,Webpage
-multiplayer.waitingroom.workshopcontent,Workshop Content
+호환되는 드론 구성을 선택해 주세요."
+multiplayer.waitingroom.selectdifferentsetup.header,드론 구성 사용 불가
+multiplayer.waitingroom.spectate,게임 관전
+multiplayer.waitingroom.sponsorwebpage,스폰서 웹페이지
+multiplayer.waitingroom.startgame,게임 시작
+multiplayer.waitingroom.status,상태
+multiplayer.waitingroom.track,트랙
+multiplayer.waitingroom.unmute,음소거 해제
+multiplayer.waitingroom.viewonworkshop,Workshop에서 보기
+multiplayer.waitingroom.viewprofile,프로필 보기
+multiplayer.waitingroom.voice,음성
+multiplayer.waitingroom.vote,투표
+multiplayer.waitingroom.waitingforhost,호스트 대기 중
+multiplayer.waitingroom.waitingforotherplayers,다른 플레이어 대기 중
+multiplayer.waitingroom.webpage,웹페이지
+multiplayer.waitingroom.workshopcontent,Workshop 콘텐츠
 multipleyare.signin.signinautomatically,Sign in automatically
 musicplayer.currentlyplaying,Currently playing:
 options.audio,오디오
